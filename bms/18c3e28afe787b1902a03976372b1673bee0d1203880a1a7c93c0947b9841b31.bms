@@ -1,0 +1,2451 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE Hardcore
+#TITLE FUELBLOODS (–Å)
+#ARTIST callasoiled
+#BPM 200
+#PLAYLEVEL 17
+#RANK 3
+
+#STAGEFILE stagefile.bmp
+#BANNER banner.bmp
+#BACKBMP backbmp.bmp
+
+#DIFFICULTY 5
+#TOTAL 410
+#LNTYPE 1
+
+#WAV02 fuelbloods 2 (Acid)_001.wav
+#WAV03 fuelbloods 2 (Acid)_002.wav
+#WAV04 fuelbloods 2 (Acid)_003.wav
+#WAV05 fuelbloods 2 (Acid)_004.wav
+#WAV06 fuelbloods 2 (Acid)_005.wav
+#WAV07 fuelbloods 2 (Acid)_006.wav
+#WAV08 fuelbloods 2 (Acid)_007.wav
+#WAV09 fuelbloods 2 (Acid)_008.wav
+#WAV0A fuelbloods 2 (Acid)_009.wav
+#WAV0B fuelbloods 2 (Acid)_010.wav
+#WAV0C fuelbloods 2 (Acid)_011.wav
+#WAV0D fuelbloods 2 (Acid)_012.wav
+#WAV0E fuelbloods 2 (Acid)_013.wav
+#WAV0F fuelbloods 2 (Acid)_014.wav
+#WAV0G fuelbloods 2 (Acid)_015.wav
+#WAV0H fuelbloods 2 (Acid)_016.wav
+#WAV0I fuelbloods 2 (Acid)_017.wav
+#WAV0J fuelbloods 2 (Acid)_018.wav
+#WAV0K fuelbloods 2 (Acid)_019.wav
+#WAV0L fuelbloods 2 (Acid)_020.wav
+#WAV0M fuelbloods 2 (Acid)_021.wav
+#WAV0N fuelbloods 2 (Acid)_022.wav
+#WAV0O fuelbloods 2 (Acid)_023.wav
+#WAV0P fuelbloods 2 (Acid)_024.wav
+#WAV0Q fuelbloods 2 (Acid)_025.wav
+#WAV0R fuelbloods 2 (Acid)_026.wav
+#WAV0S fuelbloods 2 (Acid)_027.wav
+#WAV0T fuelbloods 2 (Acid)_028.wav
+#WAV0U fuelbloods 2 (Acid)_029.wav
+#WAV0V fuelbloods 2 (Acid)_030.wav
+#WAV0W fuelbloods 2 (Acid)_031.wav
+#WAV0X fuelbloods 2 (Acid)_032.wav
+#WAV0Y fuelbloods 2 (Acid)_033.wav
+#WAV0Z fuelbloods 2 (Acid)_034.wav
+#WAV10 fuelbloods 2 (Acid)_035.wav
+#WAV11 fuelbloods 2 (Acid)_036.wav
+#WAV12 fuelbloods 2 (Acid)_037.wav
+#WAV13 fuelbloods 2 (Acid)_038.wav
+#WAV14 fuelbloods 2 (Acid)_039.wav
+#WAV15 fuelbloods 2 (Acid)_040.wav
+#WAV16 fuelbloods 2 (Acid)_041.wav
+#WAV17 fuelbloods 2 (Acid)_042.wav
+#WAV18 fuelbloods 2 (Acid)_043.wav
+#WAV19 fuelbloods 2 (Acid)_044.wav
+#WAV1A fuelbloods 2 (Acid)_045.wav
+#WAV1B fuelbloods 2 (Acid)_046.wav
+#WAV1C fuelbloods 2 (Acid)_047.wav
+#WAV1D fuelbloods 2 (Acid)_048.wav
+#WAV1E fuelbloods 2 (Acid)_049.wav
+#WAV1F fuelbloods 2 (Acid)_050.wav
+#WAV1G fuelbloods 2 (Acid)_051.wav
+#WAV1H fuelbloods 2 (Acid)_052.wav
+#WAV1I fuelbloods 2 (Acid)_053.wav
+#WAV1J fuelbloods 2 (Acid)_054.wav
+#WAV1K fuelbloods 2 (Acid)_055.wav
+#WAV1L fuelbloods 2 (Acid)_056.wav
+#WAV1M fuelbloods 2 (Acid)_057.wav
+#WAV1N fuelbloods 2 (Acid)_058.wav
+#WAV1O fuelbloods 2 (Acid)_059.wav
+#WAV1P fuelbloods 2 (Acid)_060.wav
+#WAV1Q fuelbloods 2 (Acid)_061.wav
+#WAV1R fuelbloods 2 (Acid)_062.wav
+#WAV1S fuelbloods 2 (Acid)_063.wav
+#WAV1T fuelbloods 2 (Acid)_064.wav
+#WAV1U fuelbloods 2 (Acid)_065.wav
+#WAV1V fuelbloods 2 (Acid)_066.wav
+#WAV1W fuelbloods 2 (Acid)_067.wav
+#WAV1X fuelbloods 2 (Acid)_068.wav
+#WAV1Y fuelbloods 2 (Acid)_069.wav
+#WAV1Z fuelbloods 2 (Acid)_070.wav
+#WAV20 fuelbloods 2 (Acid)_071.wav
+#WAV21 fuelbloods 2 (Acid)_072.wav
+#WAV22 fuelbloods 2 (Acid)_073.wav
+#WAV23 fuelbloods 2 (Acid)_074.wav
+#WAV24 fuelbloods 2 (Acid)_075.wav
+#WAV25 fuelbloods 2 (Acid)_076.wav
+#WAV26 fuelbloods 2 (Acid)_077.wav
+#WAV27 fuelbloods 2 (Acid)_078.wav
+#WAV28 fuelbloods 2 (Acid)_079.wav
+#WAV29 fuelbloods 2 (Acid)_080.wav
+#WAV2A fuelbloods 2 (Acid)_081.wav
+#WAV2B fuelbloods 2 (Acid)_082.wav
+#WAV2C fuelbloods 2 (Acid)_083.wav
+#WAV2D fuelbloods 2 (Acid)_084.wav
+#WAV2E fuelbloods 2 (Acid)_085.wav
+#WAV2F fuelbloods 2 (Acid)_086.wav
+#WAV2G fuelbloods 2 (Acid)_087.wav
+#WAV2H fuelbloods 2 (Acid)_088.wav
+#WAV2I fuelbloods 2 (Acid)_089.wav
+#WAV2J fuelbloods 2 (Acid)_090.wav
+#WAV2K fuelbloods 2 (Acid)_091.wav
+#WAV2L fuelbloods 2 (Acid)_092.wav
+#WAV2M fuelbloods 2 (Acid)_093.wav
+#WAV2N fuelbloods 2 (Acid)_094.wav
+#WAV2O fuelbloods 2 (Acid)_095.wav
+#WAV2P fuelbloods 2 (Acid)_096.wav
+#WAV2Q fuelbloods 2 (Acid)_097.wav
+#WAV2R fuelbloods 2 (Acid)_098.wav
+#WAV2S fuelbloods 2 (Acid)_099.wav
+#WAV2T fuelbloods 2 (Acid)_100.wav
+#WAV2U fuelbloods 2 (Acid)_101.wav
+#WAV2V fuelbloods 2 (Acid)_102.wav
+#WAV2W fuelbloods 2 (Acid)_103.wav
+#WAV2X fuelbloods 2 (Acid)_104.wav
+#WAV2Y fuelbloods 2 (Acid)_105.wav
+#WAV2Z fuelbloods 2 (Acid)_106.wav
+#WAV30 fuelbloods 2 (Acid)_107.wav
+#WAV31 fuelbloods 2 (Acid)_108.wav
+#WAV32 fuelbloods 2 (Acid)_109.wav
+#WAV33 fuelbloods 2 (Acid)_110.wav
+#WAV34 fuelbloods 2 (Acid)_111.wav
+#WAV35 fuelbloods 2 (Acid)_112.wav
+#WAV36 fuelbloods 2 (Acid)_113.wav
+#WAV37 fuelbloods 2 (Acid)_114.wav
+#WAV38 fuelbloods 2 (Acid)_115.wav
+#WAV39 fuelbloods 2 (Acid)_116.wav
+#WAV3A fuelbloods 2 (Acid)_117.wav
+#WAV3B fuelbloods 2 (Acid)_118.wav
+#WAV3C fuelbloods 2 (Acid)_119.wav
+#WAV3D fuelbloods 2 (Acid)_120.wav
+#WAV3E fuelbloods 2 (Acid)_121.wav
+#WAV3F fuelbloods 2 (Acid)_122.wav
+#WAV3G fuelbloods 2 (Acid)_123.wav
+#WAV3H fuelbloods 2 (Acid)_124.wav
+#WAV3I fuelbloods 2 (Acid)_125.wav
+#WAV3J fuelbloods 2 (Acid)_126.wav
+#WAV3K fuelbloods 2 (Acid)_127.wav
+#WAV3L fuelbloods 2 (Acid)_128.wav
+#WAV3M fuelbloods 2 (Acid)_129.wav
+#WAV3N fuelbloods 2 (Acid)_130.wav
+#WAV3O fuelbloods 2 (Acid)_131.wav
+#WAV3P fuelbloods 2 (Acid)_132.wav
+#WAV3Q fuelbloods 2 (Acid)_133.wav
+#WAV3R fuelbloods 2 (Acid)_134.wav
+#WAV3S fuelbloods 2 (Acid)_135.wav
+#WAV3T fuelbloods 2 (Acid)_136.wav
+#WAV3U fuelbloods 2 (Acid)_137.wav
+#WAV3V fuelbloods 2 (Acid)_138.wav
+#WAV3W fuelbloods 2 (Acid)_139.wav
+#WAV3X fuelbloods 2 (Acid)_140.wav
+#WAV3Y fuelbloods 2 (Acid)_141.wav
+#WAV3Z fuelbloods 2 (Acid)_142.wav
+#WAV40 fuelbloods 2 (Acid)_143.wav
+#WAV41 fuelbloods 2 (Acid)_144.wav
+#WAV42 fuelbloods 2 (Acid)_145.wav
+#WAV43 fuelbloods 2 (Acid)_146.wav
+#WAV44 fuelbloods 2 (Acid)_147.wav
+#WAV45 fuelbloods 2 (Acid)_148.wav
+#WAV46 fuelbloods 2 (Acid)_149.wav
+#WAV47 fuelbloods 2 (Acid)_150.wav
+#WAV48 fuelbloods 2 (Acid)_151.wav
+#WAV49 fuelbloods 2 (Acid)_152.wav
+#WAV4A fuelbloods 2 (Acid)_153.wav
+#WAV4B fuelbloods 2 (Acid)_154.wav
+#WAV4C fuelbloods 2 (Acid)_155.wav
+#WAV4D fuelbloods 2 (Acid)_156.wav
+#WAV4E fuelbloods 2 (Acid)_157.wav
+#WAV4F fuelbloods 2 (Acid)_158.wav
+#WAV4G fuelbloods 2 (Acid)_159.wav
+#WAV4H fuelbloods 2 (Acid)_160.wav
+#WAV4I fuelbloods 2 (Acid)_161.wav
+#WAV4J fuelbloods 2 (Acid)_162.wav
+#WAV4K fuelbloods 2 (Acid)_163.wav
+#WAV4L fuelbloods 2 (Acid)_164.wav
+#WAV4M fuelbloods 2 (Acid)_165.wav
+#WAV4N fuelbloods 2 (Acid)_166.wav
+#WAV4O fuelbloods 2 (Acid)_167.wav
+#WAV4P fuelbloods 2 (Acid)_168.wav
+#WAV4Q fuelbloods 2 (Acid)_169.wav
+#WAV4R fuelbloods 2 (Acid)_170.wav
+#WAV4S fuelbloods 2 (Acid)_171.wav
+#WAV4T fuelbloods 2 (Acid)_172.wav
+#WAV4U fuelbloods 2 (Acid)_173.wav
+#WAV4V fuelbloods 2 (Acid)_174.wav
+#WAV4W fuelbloods 2 (Acid)_175.wav
+#WAV4X fuelbloods 2 (Acid)_176.wav
+#WAV4Y fuelbloods 2 (Acid)_177.wav
+#WAV4Z fuelbloods 2 (Acid)_178.wav
+#WAV50 fuelbloods 2 (Acid)_179.wav
+#WAV51 fuelbloods 2 (Acid)_180.wav
+#WAV52 fuelbloods 2 (Acid)_181.wav
+#WAV53 fuelbloods 2 (Acid)_182.wav
+#WAV54 fuelbloods 2 (Acid)_183.wav
+#WAV55 fuelbloods 2 (Acid)_184.wav
+#WAV56 fuelbloods 2 (Acid)_185.wav
+#WAV57 fuelbloods 2 (Acid)_186.wav
+#WAV58 fuelbloods 2 (Acid)_187.wav
+#WAV59 fuelbloods 2 (Acid)_188.wav
+#WAV5A fuelbloods 2 (Acid)_189.wav
+#WAV5B fuelbloods 2 (Acid)_190.wav
+#WAV5C fuelbloods 2 (Acid)_191.wav
+#WAV5D fuelbloods 2 (Acid)_192.wav
+#WAV5E fuelbloods 2 (Acid)_193.wav
+#WAV5F fuelbloods 2 (Acid)_194.wav
+#WAV5G fuelbloods 2 (Acid)_195.wav
+#WAV5H fuelbloods 2 (Acid)_196.wav
+#WAV5I fuelbloods 2 (Acid)_197.wav
+#WAV5J fuelbloods 2 (Acid)_198.wav
+#WAV5K fuelbloods 2 (Acid)_199.wav
+#WAV5L fuelbloods 2 (Acid)_200.wav
+#WAV5M fuelbloods 2 (Acid)_201.wav
+#WAV5N fuelbloods 2 (Acid)_202.wav
+#WAV5O fuelbloods 2 (Acid)_203.wav
+#WAV5P fuelbloods 2 (Acid)_204.wav
+#WAV5Q fuelbloods 2 (Acid)_205.wav
+#WAV5R fuelbloods 2 (Acid)_206.wav
+#WAV5S fuelbloods 2 (Acid)_207.wav
+#WAV5T fuelbloods 2 (Acid)_208.wav
+#WAV5U fuelbloods 2 (Acid)_209.wav
+#WAV5V fuelbloods 2 (Acid)_210.wav
+#WAV5W fuelbloods 2 (Acid)_211.wav
+#WAV5X fuelbloods 2 (Acid)_212.wav
+#WAV5Y fuelbloods 2 (Acid)_213.wav
+#WAV5Z fuelbloods 2 (Acid)_214.wav
+#WAV60 fuelbloods 2 (Acid)_215.wav
+#WAV61 fuelbloods 2 (Acid)_216.wav
+#WAV62 fuelbloods 2 (Acid)_217.wav
+#WAV63 fuelbloods 2 (Acid)_218.wav
+#WAV64 fuelbloods 2 (Acid)_219.wav
+#WAV65 fuelbloods 2 (Acid)_220.wav
+#WAV66 fuelbloods 2 (Acid)_221.wav
+#WAV67 fuelbloods 2 (Acid)_222.wav
+#WAV68 fuelbloods 2 (Acid)_223.wav
+#WAV69 fuelbloods 2 (Acid)_224.wav
+#WAV6A fuelbloods 2 (Acid)_225.wav
+#WAV6B fuelbloods 2 (Acid)_226.wav
+#WAV6C fuelbloods 2 (Acid)_227.wav
+#WAV6D fuelbloods 2 (Acid)_228.wav
+#WAV6E fuelbloods 2 (Acid)_229.wav
+#WAV6F fuelbloods 2 (Acid)_230.wav
+#WAV6G fuelbloods 2 (Acid)_231.wav
+#WAV6H fuelbloods 2 (Acid)_232.wav
+#WAV6I fuelbloods 2 (Acid)_233.wav
+#WAV6J fuelbloods 2 (Acid)_234.wav
+#WAV6K fuelbloods 2 (Acid)_235.wav
+#WAV6L fuelbloods 2 (Acid)_236.wav
+#WAV6M fuelbloods 2 (Acid)_237.wav
+#WAV6N fuelbloods 2 (Acid)_238.wav
+#WAV6O fuelbloods 2 (Acid)_239.wav
+#WAV6P fuelbloods 2 (Acid)_240.wav
+#WAV6Q fuelbloods 2 (Acid)_241.wav
+#WAV6R fuelbloods 2 (Acid)_242.wav
+#WAV6S fuelbloods 2 (Acid)_243.wav
+#WAV6T fuelbloods 2 (Acid)_244.wav
+#WAV6U fuelbloods 2 (Acid)_245.wav
+#WAV6V fuelbloods 2 (Acid)_246.wav
+#WAV6W fuelbloods 2 (Acid)_247.wav
+#WAV6X fuelbloods 2 (Acid)_248.wav
+#WAV6Y fuelbloods 2 (Acid)_249.wav
+#WAV6Z fuelbloods 2 (Acid)_250.wav
+#WAV70 fuelbloods 2 (Acid)_251.wav
+#WAV71 fuelbloods 2 (Acid)_252.wav
+#WAV72 fuelbloods 2 (Acid)_253.wav
+#WAV73 fuelbloods 2 (Acid)_254.wav
+#WAV74 fuelbloods 2 (Acid)_255.wav
+#WAV75 fuelbloods 2 (Acid)_256.wav
+#WAV76 fuelbloods 2 (Acid)_257.wav
+#WAV77 fuelbloods 2 (Acid)_258.wav
+#WAV78 fuelbloods 2 (Acid)_259.wav
+#WAV79 fuelbloods 2 (Acid)_260.wav
+#WAV7A fuelbloods 2 (Acid)_261.wav
+#WAV7B fuelbloods 2 (Acid)_262.wav
+#WAV7C fuelbloods 2 (Acid)_263.wav
+#WAV7D fuelbloods 2 (Acid)_264.wav
+#WAV7E fuelbloods 2 (Acid)_265.wav
+#WAV7F fuelbloods 2 (Acid)_266.wav
+#WAV7G fuelbloods 2 (Acid)_267.wav
+#WAV7H fuelbloods 2 (Acid)_268.wav
+#WAV7I fuelbloods 2 (Acid)_269.wav
+#WAV7J fuelbloods 2 (Acid)_270.wav
+#WAV7K fuelbloods 2 (Acid)_271.wav
+#WAV7L fuelbloods 2 (Acid)_272.wav
+#WAV7M fuelbloods 2 (Acid)_273.wav
+#WAV7N fuelbloods 2 (Acid)_298.wav
+#WAV7O fuelbloods 2 (Acid)_299.wav
+#WAV7P fuelbloods 2 (Acid)_300.wav
+#WAV7Q fuelbloods 2 (Acid)_301.wav
+#WAV7R fuelbloods 2 (Acid)_302.wav
+#WAV7S fuelbloods 2 (Acid)_303.wav
+#WAV7T fuelbloods 2 (Acid)_304.wav
+#WAV7U fuelbloods 2 (Acid)_305.wav
+#WAV7V fuelbloods 2 (Acid)_306.wav
+#WAV7W fuelbloods 2 (Acid)_307.wav
+#WAV7X fuelbloods 2 (Acid)_308.wav
+#WAV7Y fuelbloods 2 (Acid)_309.wav
+#WAV7Z fuelbloods 2 (Acid)_310.wav
+#WAV80 fuelbloods 2 (Acid)_311.wav
+#WAV81 fuelbloods 2 (Acid)_312.wav
+#WAV82 fuelbloods 2 (Acid)_313.wav
+#WAV83 fuelbloods 2 (Acid)_314.wav
+#WAV84 fuelbloods 2 (Acid)_315.wav
+#WAV85 fuelbloods 2 (Acid)_316.wav
+#WAV86 fuelbloods 2 (Acid)_317.wav
+#WAV87 fuelbloods 2 (Acid)_318.wav
+#WAV88 fuelbloods 2 (Acid)_319.wav
+#WAV89 fuelbloods 2 (Acid)_320.wav
+#WAV8A fuelbloods 2 (Acid)_321.wav
+#WAV8B fuelbloods 2 (Acid)_322.wav
+#WAV8C fuelbloods 2 (Acid)_323.wav
+#WAV8D fuelbloods 2 (Acid)_324.wav
+#WAV8E fuelbloods 2 (Acid)_325.wav
+#WAV8F fuelbloods 2 (Acid)_326.wav
+#WAV8G fuelbloods 2 (Acid)_327.wav
+#WAV8H fuelbloods 2 (Acid)_328.wav
+#WAV8I fuelbloods 2 (Acid)_329.wav
+#WAV8J fuelbloods 2 (Acid)_330.wav
+#WAV8K fuelbloods 2 (Acid)_331.wav
+#WAV8L fuelbloods 2 (Acid)_332.wav
+#WAV8M fuelbloods 2 (Acid)_333.wav
+#WAV8N fuelbloods 2 (Acid)_334.wav
+#WAV8O fuelbloods 2 (Acid)_335.wav
+#WAV8P fuelbloods 2 (Acid)_336.wav
+#WAV8Q fuelbloods 2 (Acid)_337_000.wav
+#WAV8R fuelbloods 2 (Acid)_338.wav
+#WAV8S fuelbloods 2 (Acid)_339.wav
+#WAV8T fuelbloods 2 (Acid)_340.wav
+#WAV8U fuelbloods 2 (Acid)_341.wav
+#WAV8V fuelbloods 2 (Acid)_342.wav
+#WAV8W fuelbloods 2 (Acid)_343.wav
+#WAV8X fuelbloods 2 (Acid)_344.wav
+#WAV8Y fuelbloods 2 (Acid)_345.wav
+#WAV8Z fuelbloods 2 (Acid)_346.wav
+#WAV90 fuelbloods 2 (Acid)_347.wav
+#WAV91 fuelbloods 2 (Acid)_348.wav
+#WAV92 fuelbloods 2 (Acid)_349.wav
+#WAV93 fuelbloods 2 (Acid)_350.wav
+#WAV94 fuelbloods 2 (Acid)_351.wav
+#WAV95 fuelbloods 2 (Acid)_352.wav
+#WAV96 fuelbloods 2 (Acid)_353.wav
+#WAV97 fuelbloods 2 (Acid)_354.wav
+#WAV98 fuelbloods 2 (Acid)_355.wav
+#WAV99 fuelbloods 2 (Acid)_356.wav
+#WAV9A fuelbloods 2 (Acid)_357.wav
+#WAV9B fuelbloods 2 (Acid)_358.wav
+#WAV9C fuelbloods 2 (Acid)_359.wav
+#WAV9D fuelbloods 2 (Acid)_360.wav
+#WAV9E fuelbloods 2 (Acid)_361.wav
+#WAV9F fuelbloods 2 (Acid)_362.wav
+#WAV9G fuelbloods 2 (Acid)_363.wav
+#WAV9H fuelbloods 2 (Acid)_364.wav
+#WAV9I fuelbloods 2 (Acid)_365.wav
+#WAV9J fuelbloods 2 (Acid)_366.wav
+#WAV9K fuelbloods 2 (Acid)_367.wav
+#WAV9L fuelbloods 2 (Acid)_368.wav
+#WAV9M fuelbloods 2 (Acid)_369.wav
+#WAV9N fuelbloods 2 (Acid)_370.wav
+#WAV9O fuelbloods 2 (Acid)_371.wav
+#WAV9P fuelbloods 2 (Acid)_372.wav
+#WAV9Q fuelbloods 2 (Acid)_373.wav
+#WAV9R fuelbloods 2 (Acid)_374.wav
+#WAV9S fuelbloods 2 (Acid)_375.wav
+#WAV9T fuelbloods 2 (Acid)_376.wav
+#WAV9U fuelbloods 2 (Acid)_377.wav
+#WAV9V fuelbloods 2 (Acid)_378.wav
+#WAV9W fuelbloods 2 (Acid)_379.wav
+#WAV9X fuelbloods 2 (Acid)_380.wav
+#WAV9Y fuelbloods 2 (Acid)_381.wav
+#WAV9Z fuelbloods 2 (Acid)_382.wav
+#WAVA0 fuelbloods 2 (Acid)_383.wav
+#WAVA1 fuelbloods 2 (Acid)_384.wav
+#WAVA2 fuelbloods 2 (Acid)_385.wav
+#WAVA3 fuelbloods 2 (Acid)_386.wav
+#WAVA4 fuelbloods 2 (Acid)_387.wav
+#WAVA5 fuelbloods 2 (Acid)_388.wav
+#WAVA6 fuelbloods 2 (Acid)_389.wav
+#WAVA7 fuelbloods 2 (Acid)_390.wav
+#WAVA8 fuelbloods 2 (Acid)_391.wav
+#WAVA9 fuelbloods 2 (Acid)_392.wav
+#WAVAA fuelbloods 2 (Acid)_393.wav
+#WAVAB fuelbloods 2 (Acid)_394.wav
+#WAVAC fuelbloods 2 (Acid)_395.wav
+#WAVAD fuelbloods 2 (Acid)_396.wav
+#WAVAE fuelbloods 2 (Acid)_397.wav
+#WAVAF fuelbloods 2 (Acid)_398.wav
+#WAVAG fuelbloods 2 (Acid)_399.wav
+#WAVAH fuelbloods 2 (Acid)_400.wav
+#WAVAI fuelbloods 2 (Acid)_401.wav
+#WAVAJ fuelbloods 2 (Acid)_402.wav
+#WAVAK fuelbloods 2 (Acid)_403.wav
+#WAVAL fuelbloods 2 (Acid)_404.wav
+#WAVAM fuelbloods 2 (Acid)_405.wav
+#WAVAN fuelbloods 2 (Acid)_406.wav
+#WAVAO fuelbloods 2 (Acid)_407.wav
+#WAVAP fuelbloods 2 (Acid)_408.wav
+#WAVAQ fuelbloods 2 (Acid)_409.wav
+#WAVAR fuelbloods 2 (Acid)_410.wav
+#WAVAS fuelbloods 2 (Acid)_411.wav
+#WAVAT fuelbloods 2 (Acid)_412.wav
+#WAVAU fuelbloods 2 (Acid)_413.wav
+#WAVAV fuelbloods 2 (Acid)_414.wav
+#WAVAW fuelbloods 2 (Acid)_415.wav
+#WAVAX fuelbloods 2 (Acid)_416.wav
+#WAVAY fuelbloods 2 (Acid)_417.wav
+#WAVAZ fuelbloods 2 (Acid)_418.wav
+#WAVB0 fuelbloods 2 (Acid)_419.wav
+#WAVB1 fuelbloods 2 (Acid)_420.wav
+#WAVB2 fuelbloods 2 (Acid)_421.wav
+#WAVB3 fuelbloods 2 (Acid)_422.wav
+#WAVB4 fuelbloods 2 (Acid)_423.wav
+#WAVB5 fuelbloods 2 (Acid)_424.wav
+#WAVB6 fuelbloods 2 (Acid)_425.wav
+#WAVB7 fuelbloods 2 (Acid)_426.wav
+#WAVB8 fuelbloods 2 (Acid)_427.wav
+#WAVB9 fuelbloods 2 (Acid)_428.wav
+#WAVBA fuelbloods 2 (Acid)_429.wav
+#WAVBB fuelbloods 2 (Acid)_430.wav
+#WAVBC fuelbloods 2 (Acid)_431.wav
+#WAVBD fuelbloods 2 (Acid)_432.wav
+#WAVBE fuelbloods 2 (Acid)_433.wav
+#WAVBF fuelbloods 2 (Acid)_434.wav
+#WAVBG fuelbloods 2 (Acid)_435.wav
+#WAVBH fuelbloods 2 (Acid)_436.wav
+#WAVBI fuelbloods 2 (Acid)_437.wav
+#WAVBJ fuelbloods 2 (Acid)_438.wav
+#WAVBK fuelbloods 2 (Acid)_439.wav
+#WAVBL fuelbloods 2 (Acid)_440.wav
+#WAVBM fuelbloods 2 (Acid)_441.wav
+#WAVBN fuelbloods 2 (Acid)_442.wav
+#WAVBO fuelbloods 2 (Acid)_443.wav
+#WAVBP fuelbloods 2 (Acid)_444.wav
+#WAVBQ fuelbloods 2 (Acid)_445.wav
+#WAVBR fuelbloods 2 (Acid)_446.wav
+#WAVBS fuelbloods 2 (Acid)_447.wav
+#WAVBT fuelbloods 2 (Acid)_448.wav
+#WAVBU fuelbloods 2 (Acid)_449.wav
+#WAVBV fuelbloods 2 (Acid)_450.wav
+#WAVBW fuelbloods 2 (Acid)_451.wav
+#WAVBX fuelbloods 2 (Acid)_452.wav
+#WAVBY fuelbloods 2 (Acid)_453.wav
+#WAVBZ fuelbloods 2 (Acid)_454.wav
+#WAVC0 fuelbloods 2 (Acid)_455.wav
+#WAVC1 fuelbloods 2 (Acid)_456.wav
+#WAVC2 fuelbloods 2 (Acid)_457.wav
+#WAVC3 fuelbloods 2 (Acid)_458.wav
+#WAVC4 fuelbloods 2 (Acid)_459.wav
+#WAVC5 fuelbloods 2 (Acid)_460.wav
+#WAVC6 fuelbloods 2 (Acid)_461.wav
+#WAVC7 fuelbloods 2 (Acid)_462.wav
+#WAVC8 fuelbloods 2 (Acid)_463.wav
+#WAVC9 fuelbloods 2 (Acid)_464.wav
+#WAVCA fuelbloods 2 (Acid)_465.wav
+#WAVCB fuelbloods 2 (Acid)_466.wav
+#WAVCC fuelbloods 2 (Acid)_467.wav
+#WAVCD fuelbloods 2 (Acid)_468.wav
+#WAVCE fuelbloods 2 (Acid)_469.wav
+#WAVCF fuelbloods 2 (Acid)_470.wav
+#WAVCG fuelbloods 2 (Acid)_471.wav
+#WAVCH fuelbloods 2 (Acid)_472.wav
+#WAVCI fuelbloods 2 (Acid)_473.wav
+#WAVCJ fuelbloods 2 (Acid)_474.wav
+#WAVCK fuelbloods 2 (Acid)_475.wav
+#WAVCL fuelbloods 2 (Acid)_476.wav
+#WAVCM fuelbloods 2 (Acid)_477.wav
+#WAVCN fuelbloods 2 (Acid)_478.wav
+#WAVCO fuelbloods 2 (Acid)_479.wav
+#WAVCP fuelbloods 2 (Acid)_480.wav
+#WAVCQ fuelbloods 2 (Acid)_481.wav
+#WAVCR fuelbloods 2 (Acid)_482.wav
+#WAVCS fuelbloods 2 (Acid)_483.wav
+#WAVCT fuelbloods 2 (Acid)_484.wav
+#WAVCU fuelbloods 2 (Acid)_485.wav
+#WAVCV fuelbloods 2 (Acid)_486.wav
+#WAVCW fuelbloods 2 (Acid)_487.wav
+#WAVCX fuelbloods 2 (Acid)_488.wav
+#WAVCY fuelbloods 2 (Acid)_489.wav
+#WAVCZ fuelbloods 2 (Acid)_490.wav
+#WAVD0 fuelbloods 2 (Acid)_491.wav
+#WAVD1 fuelbloods 2 (Acid)_492.wav
+#WAVD2 fuelbloods 2 (Acid)_493.wav
+#WAVD3 fuelbloods 2 (Acid)_494.wav
+#WAVD4 fuelbloods 2 (Acid)_495.wav
+#WAVD5 fuelbloods 2 (Acid)_496.wav
+#WAVD6 fuelbloods 2 (Acid)_497.wav
+#WAVD7 fuelbloods 2 (Acid)_498.wav
+#WAVD8 fuelbloods 2 (Acid)_499.wav
+#WAVD9 fuelbloods 2 (Acid)_500.wav
+#WAVDA fuelbloods 2 (Acid)_501.wav
+#WAVDB fuelbloods 2 (Acid)_502.wav
+#WAVDC fuelbloods 2 (Acid)_503.wav
+#WAVDD fuelbloods 2 (Acid)_504.wav
+#WAVDE fuelbloods 2 (Acid)_505.wav
+#WAVDF fuelbloods 2 (Acid)_506.wav
+#WAVDG fuelbloods 2 (Acid)_507.wav
+#WAVDH fuelbloods 2 (Acid)_508.wav
+#WAVDI fuelbloods 2 (Acid)_509.wav
+#WAVDJ fuelbloods 2 (Acid)_510.wav
+#WAVDK fuelbloods 2 (Acid)_511.wav
+#WAVDL fuelbloods 2 (Acid)_512.wav
+#WAVDM fuelbloods 2 (Acid)_513.wav
+#WAVDN fuelbloods 2 (Acid)_514.wav
+#WAVDO fuelbloods 2 (Acid)_515.wav
+#WAVDP fuelbloods 2 (Acid)_516.wav
+#WAVDQ fuelbloods 2 (Acid)_517.wav
+#WAVDR fuelbloods 2 (Acid)_518.wav
+#WAVDS fuelbloods 2 (Acid)_519.wav
+#WAVDT fuelbloods 2 (Acid)_520.wav
+#WAVDU fuelbloods 2 (Acid)_521.wav
+#WAVDV fuelbloods 2 (Acid)_522.wav
+#WAVDW fuelbloods 2 (Acid)_523.wav
+#WAVDX fuelbloods 2 (Acid)_524.wav
+#WAVDY fuelbloods 2 (Acid)_525.wav
+#WAVDZ fuelbloods 2 (Acid)_526.wav
+#WAVE0 fuelbloods 2 (Acid)_527.wav
+#WAVE1 fuelbloods 2 (Acid)_528.wav
+#WAVE2 fuelbloods 2 (Acid)_529.wav
+#WAVE3 fuelbloods 2 (Acid)_530.wav
+#WAVE4 fuelbloods 2 (Acid)_531.wav
+#WAVE5 fuelbloods 2 (Acid)_532.wav
+#WAVE6 fuelbloods 2 (Acid)_533.wav
+#WAVE7 fuelbloods 2 (Acid)_534.wav
+#WAVE8 fuelbloods 2 (Acid)_535.wav
+#WAVE9 fuelbloods 2 (Acid)_536.wav
+#WAVEA fuelbloods 2 (Acid)_537.wav
+#WAVEB fuelbloods 2 (Acid)_538.wav
+#WAVEC fuelbloods 2 (Acid)_539.wav
+#WAVED fuelbloods 2 (Acid)_540.wav
+#WAVEE fuelbloods 2 (Acid)_541.wav
+#WAVEF fuelbloods 2 (Acid)_542.wav
+#WAVEG fuelbloods 2 (Acid)_543.wav
+#WAVEH fuelbloods 2 (Acid)_544.wav
+#WAVEI fuelbloods 2 (Acid)_545.wav
+#WAVEJ fuelbloods 2 (Acid)_546.wav
+#WAVEK fuelbloods 2 (Acid)_547.wav
+#WAVEL fuelbloods 2 (Acid)_548.wav
+#WAVEM fuelbloods 2 (Acid)_549.wav
+#WAVEN fuelbloods 2 (Acid)_550.wav
+#WAVEO fuelbloods 2 (Acid)_551.wav
+#WAVEP fuelbloods 2 (Acid)_552.wav
+#WAVEQ fuelbloods 2 (Acid)_553.wav
+#WAVER fuelbloods 2 (Acid)_554.wav
+#WAVES fuelbloods 2 (Acid)_555.wav
+#WAVET fuelbloods 2 (Acid)_556.wav
+#WAVEU fuelbloods 2 (Acid)_557.wav
+#WAVEV fuelbloods 2 (Acid)_558.wav
+#WAVEW fuelbloods 2 (Acid)_559.wav
+#WAVEX fuelbloods 2 (Acid)_560.wav
+#WAVEY fuelbloods 2 (Acid)_561.wav
+#WAVEZ fuelbloods 2 (Acid)_562.wav
+#WAVF0 fuelbloods 2 (Acid)_563.wav
+#WAVF1 fuelbloods 2 (Acid)_564.wav
+#WAVF2 808 Snare.wav
+#WAVF3 808 Snare.wav
+#WAVF4 909 Clap.wav
+#WAVF5 909 Clap.wav
+#WAVF6 909 Hat closed.wav
+#WAVF7 909 Hat open.wav
+#WAVF8 909 Hat opencut.wav
+#WAVF9 Breaks Kick.wav
+#WAVFA Breaks Hat closed 2.wav
+#WAVFB Breaks hat closed cut 2.wav
+#WAVFC Breaks Hat closed cut.wav
+#WAVFD Breaks Hat closed.wav
+#WAVFE Breaks Hat open.wav
+#WAVFF Breaks Snare 1.wav
+#WAVFG Breaks Snare 2.wav
+#WAVFH Breaks Snare 3.wav
+#WAVFI Breaks Snare 4.wav
+#WAVFJ Drill Kick.wav
+#WAVFK fuelbloods 2 (Drill Kick)_001.wav
+#WAVFL fuelbloods 2 (Drill Kick)_002.wav
+#WAVFM fuelbloods 2 (Drill Kick)_003.wav
+#WAVFN fuelbloods 2 (Drill Kick)_004.wav
+#WAVFO fuelbloods 2 (Drill Kick)_005.wav
+#WAVFP fuelbloods 2 (Drill Kick)_006.wav
+#WAVFQ fuelbloods 2 (Drill Kick)_009.wav
+#WAVFR fuelbloods 2 (Drill Kick)_010.wav
+#WAVFS fuelbloods 2 (Drill Kick)_011.wav
+#WAVFT fuelbloods 2 (Drill Kick)_012.wav
+#WAVFU fuelbloods 2 (Drill Kick)_013.wav
+#WAVFV fuelbloods 2 (Drill Kick)_014.wav
+#WAVFW fuelbloods 2 (Drill Kick)_015.wav
+#WAVFX fuelbloods 2 (Drill Kick)_016.wav
+#WAVFY fuelbloods 2 (Drill Kick)_017.wav
+#WAVFZ fuelbloods 2 (Drill Kick)_018.wav
+#WAVG0 fuelbloods 2 (Drill Kick)_019.wav
+#WAVG1 fuelbloods 2 (Drill Kick)_020.wav
+#WAVG2 fuelbloods 2 (Drill Kick)_021.wav
+#WAVG3 fuelbloods 2 (Drill Kick)_022.wav
+#WAVG4 fuelbloods 2 (Drill Kick)_023.wav
+#WAVG5 fuelbloods 2 (Drill Kick)_024.wav
+#WAVG6 Drill Kick.wav
+#WAVG7 Drill Clap.wav
+#WAVG8 Drill Snare.wav
+#WAVG9 Drill Snare.wav
+#WAVGA Drum fill_001.wav
+#WAVGB Drum fill_002.wav
+#WAVGC Drum fill_003.wav
+#WAVGD Drum fill_004.wav
+#WAVGE Drum fill_005.wav
+#WAVGF Drum fill_006.wav
+#WAVGG Drum fill_007.wav
+#WAVGH Drum fill_008.wav
+#WAVGI Drum fill_009.wav
+#WAVGJ Drum fill_010.wav
+#WAVGK Drum fill_011.wav
+#WAVGL Drum fill_012.wav
+#WAVGM fuelbloods 2 (Drum fill 2)_001.wav
+#WAVGN fuelbloods 2 (Drum fill 2)_002.wav
+#WAVGO fuelbloods 2 (Drum fill 2)_003.wav
+#WAVGP fuelbloods 2 (Drum fill 2)_004.wav
+#WAVGQ fuelbloods 2 (Drum fill 2)_005.wav
+#WAVGR fuelbloods 2 (Drum fill 3)_001.wav
+#WAVGS fuelbloods 2 (Drum fill 3)_002.wav
+#WAVGT fuelbloods 2 (Drum fill 3)_003.wav
+#WAVGU fuelbloods 2 (Drum fill 3)_004.wav
+#WAVGV fuelbloods 2 (Drum fill 3)_005.wav
+#WAVGW fuelbloods 2 (Drum fill 3)_006.wav
+#WAVGX fuelbloods 2 (Drum fill 3)_007.wav
+#WAVGY fuelbloods 2 (Drum fill 3)_008.wav
+#WAVGZ fuelbloods 2 (Drum fill 3)_009.wav
+#WAVH0 fuelbloods 2 (Drum fill 3)_010.wav
+#WAVH1 fuelbloods 2 (Noise Drums)_001.wav
+#WAVH2 fuelbloods 2 (Noise Drums)_002.wav
+#WAVH3 fuelbloods 2 (Noise Drums)_003.wav
+#WAVH4 fuelbloods 2 (Noise Drums)_004.wav
+#WAVH5 fuelbloods 2 (Noise Drums)_005.wav
+#WAVH6 fuelbloods 2 (Noise Drums)_006.wav
+#WAVH7 fuelbloods 2 (Noise Drums)_007.wav
+#WAVH8 fuelbloods 2 (Noise Drums)_008.wav
+#WAVH9 fuelbloods 2 (Noise Drums)_009.wav
+#WAVHA fuelbloods 2 (Noise Drums)_010.wav
+#WAVHB fuelbloods 2 (Noise Drums)_011.wav
+#WAVHC fuelbloods 2 (Noise Drums)_012.wav
+#WAVHD fuelbloods 2 (Noise Drums)_013.wav
+#WAVHE fuelbloods 2 (Noise Drums)_014.wav
+#WAVHF fuelbloods 2 (Noise Drums)_015.wav
+#WAVHG fuelbloods 2 (Noise Drums)_016.wav
+#WAVHH fuelbloods 2 (Noise Drums)_017.wav
+#WAVHI fuelbloods 2 (Noise Drums)_018.wav
+#WAVHJ fuelbloods 2 (Noise Drums)_019.wav
+#WAVHK fuelbloods 2 (Noise Drums)_020.wav
+#WAVHL Bass_001.wav
+#WAVHM Bass_002.wav
+#WAVHN Bass_003.wav
+#WAVHO Bass_004.wav
+#WAVHP Bass_005.wav
+#WAVHQ Bass_006.wav
+#WAVHR Bass_007.wav
+#WAVHS Bass_008.wav
+#WAVHT Bass_009.wav
+#WAVHU Bass_010.wav
+#WAVHV Bass_011.wav
+#WAVHW Bass_012.wav
+#WAVHX Bass_013.wav
+#WAVHY Bass_014.wav
+#WAVHZ Bass_015.wav
+#WAVI0 Bass_016.wav
+#WAVI1 Bass_017.wav
+#WAVI2 Bass_018.wav
+#WAVI3 Bass_019.wav
+#WAVI4 Bass_020.wav
+#WAVI5 Bass_021.wav
+#WAVI6 Bass_022.wav
+#WAVI7 Bass_023.wav
+#WAVI8 Bass_024.wav
+#WAVI9 Bass_025.wav
+#WAVIA Bass_026.wav
+#WAVIB Bass_027.wav
+#WAVIC Bass_028.wav
+#WAVID Bass_029.wav
+#WAVIE Bass_030.wav
+#WAVIF Bass_031.wav
+#WAVIG Bass_032.wav
+#WAVIH Bass_033.wav
+#WAVII Bass_034.wav
+#WAVIJ Bass_035.wav
+#WAVIK Bass_036.wav
+#WAVIL Bass_037.wav
+#WAVIM Bass_038.wav
+#WAVIN Bass_039.wav
+#WAVIO Bass_040.wav
+#WAVIP Bass_041.wav
+#WAVIQ Bass_042.wav
+#WAVIR Bass_043.wav
+#WAVIS Bass_044.wav
+#WAVIT Bass_045.wav
+#WAVIU Bass_046.wav
+#WAVIV Bass_047.wav
+#WAVIW Bass_048.wav
+#WAVIX Bass_049.wav
+#WAVIY Bass_050.wav
+#WAVIZ Bass_051.wav
+#WAVJ0 Bass_052.wav
+#WAVJ1 Bass_053.wav
+#WAVJ2 Bass_054.wav
+#WAVJ3 Bass_055.wav
+#WAVJ4 Bass_056.wav
+#WAVJ5 Bass_057.wav
+#WAVJ6 Bass_058.wav
+#WAVJ7 Bass_059.wav
+#WAVJ8 Bass_060.wav
+#WAVJ9 Bass_061.wav
+#WAVJA Bass_062.wav
+#WAVJB Bass_063.wav
+#WAVJC Bass_064.wav
+#WAVJD Bass_065.wav
+#WAVJE Bass_066.wav
+#WAVJF Bass_067.wav
+#WAVJG Bass_068.wav
+#WAVJH Bass_069.wav
+#WAVJI Bass_070.wav
+#WAVJJ Bass_071.wav
+#WAVJK Bass_072.wav
+#WAVJL Bass_073.wav
+#WAVJM Bass_074.wav
+#WAVJN Bass_075.wav
+#WAVJO Bass_076.wav
+#WAVJP Bass_077.wav
+#WAVJQ Bass_078.wav
+#WAVJR Bass_079.wav
+#WAVJS Bass_080.wav
+#WAVJT Bass_081.wav
+#WAVJU Bass_082.wav
+#WAVJV Bass_083.wav
+#WAVJW Bass_084.wav
+#WAVJX Bass_085.wav
+#WAVJY Bass_086.wav
+#WAVJZ Bass_087.wav
+#WAVK0 Bass_088.wav
+#WAVK1 Bass_089.wav
+#WAVK2 Bass_090.wav
+#WAVK3 Bass_091.wav
+#WAVK4 Bass_092.wav
+#WAVK5 Bass_093.wav
+#WAVK6 Bass_094.wav
+#WAVK7 Bass_095.wav
+#WAVK8 Bass_096.wav
+#WAVK9 Bass_097.wav
+#WAVKA Bass_098.wav
+#WAVKB Bass_099.wav
+#WAVKC Bass_100.wav
+#WAVKD Bass_101.wav
+#WAVKE Bass_102.wav
+#WAVKF Bass_103.wav
+#WAVKG Bass_104.wav
+#WAVKH Bass_105.wav
+#WAVKI Bass_106.wav
+#WAVKJ Bass_107.wav
+#WAVKK Bass_108.wav
+#WAVKL Bass_109.wav
+#WAVKM Bass_110.wav
+#WAVKN Bass_111.wav
+#WAVKO Bass_112.wav
+#WAVKP Bass_113.wav
+#WAVKQ Bass_114.wav
+#WAVKR Bass_115.wav
+#WAVKS Bass_116.wav
+#WAVKT Bass_117.wav
+#WAVKU Bass_118.wav
+#WAVKV Bass_119.wav
+#WAVKW Bass_120.wav
+#WAVKX Wobble_001.wav
+#WAVKY Wobble_002.wav
+#WAVKZ Wobble_003.wav
+#WAVL0 Wobble_004.wav
+#WAVL1 Wobble_005.wav
+#WAVL2 Wobble_006.wav
+#WAVL3 Wobble_007.wav
+#WAVL4 Wobble_008.wav
+#WAVL5 Wobble_009.wav
+#WAVL6 Wobble_010.wav
+#WAVL7 Wobble_011.wav
+#WAVL8 Wobble_012.wav
+#WAVL9 Wobble_013.wav
+#WAVLA Wobble_014.wav
+#WAVLB Wobble_015.wav
+#WAVLC Wobble_016.wav
+#WAVLD Wobble_017.wav
+#WAVLE Wobble_018.wav
+#WAVLF Wobble_019.wav
+#WAVLG Wobble_020.wav
+#WAVLH Wobble_021.wav
+#WAVLI Wobble_022.wav
+#WAVLJ Wobble_023.wav
+#WAVLK Wobble_024.wav
+#WAVLL Wobble_025.wav
+#WAVLM Wobble_026.wav
+#WAVLN Wobble_027.wav
+#WAVLO Wobble_028.wav
+#WAVLP Wobble_029.wav
+#WAVLQ Wobble_030.wav
+#WAVLR Wobble_031.wav
+#WAVLS Wobble_032.wav
+#WAVLT Wobble_033.wav
+#WAVLU Wobble_034.wav
+#WAVLV Wobble_035.wav
+#WAVLW Wobble_036.wav
+#WAVLX Wobble_037.wav
+#WAVLY Wobble_038.wav
+#WAVLZ Wobble_039.wav
+#WAVM0 Wobble_040.wav
+#WAVM1 Wobble_041.wav
+#WAVM2 Wobble_042.wav
+#WAVM3 Wobble_043.wav
+#WAVM4 Wobble_044.wav
+#WAVM5 Wobble_045.wav
+#WAVM6 Wobble_046.wav
+#WAVM7 Wobble_047.wav
+#WAVM8 Wobble_048.wav
+#WAVM9 Wobble_049.wav
+#WAVMA Wobble_050.wav
+#WAVMB Wobble_051.wav
+#WAVMC Wobble_052.wav
+#WAVMD Wobble Synth_001.wav
+#WAVME Wobble Synth_002.wav
+#WAVMF Wobble Synth_003.wav
+#WAVMG Wobble Synth_004.wav
+#WAVMH Wobble Synth_005.wav
+#WAVMI Wobble Synth_006.wav
+#WAVMJ Wobble Synth_007.wav
+#WAVMK Wobble Snare.wav
+#WAVML FX Cymbal.wav
+#WAVMM FX Acid 1.wav
+#WAVMN FX Acid 2.wav
+#WAVMO FX Acid 3.wav
+#WAVMP FX Acid 4.wav
+#WAVMQ FX Gabba 1.wav
+#WAVMR FX Gabba 2.wav
+#WAVMS Up Clap.wav
+#WAVMT Up Clap.wav
+#WAVMU Up Clap rise1.wav
+#WAVMV Up Clap rise2.wav
+#WAVMW Up Clap rise3.wav
+#WAVMX Up Clap rise4.wav
+#WAVMY Up Clap rise5.wav
+#WAVMZ fuelbloods 2 pad_001.wav
+#WAVN0 fuelbloods 2 pad_002.wav
+#WAVN1 fuelbloods 2 pad_003.wav
+#WAVN2 fuelbloods 2 pad_004.wav
+#WAVN3 fuelbloods 2 pad_005.wav
+#WAVN4 fuelbloods 2 pad_006.wav
+#WAVN5 fuelbloods 2 pad_007.wav
+#WAVN6 fuelbloods 2 pad_008.wav
+#WAVN7 fuelbloods 2 pad_009.wav
+#WAVN8 fuelbloods 2 pad_010.wav
+#WAVN9 fuelbloods 2 pad_011.wav
+#WAVNA fuelbloods 2 pad_012.wav
+#WAVNB fuelbloods 2 pad_013.wav
+#WAVNC fuelbloods 2 pad_014.wav
+#WAVND fuelbloods 2 pad_015.wav
+#WAVNE fuelbloods 2 pad_016.wav
+#WAVNF fuelbloods 2 pad_017.wav
+#WAVNG fuelbloods 2 pad_018.wav
+#WAVNH fuelbloods 2 pad_019.wav
+#WAVNI fuelbloods 2 pad_020.wav
+#WAVNJ fuelbloods 2 pad_021.wav
+#WAVNK fuelbloods 2 pad_022.wav
+#WAVNL fuelbloods 2 pad_023.wav
+#WAVNM fuelbloods 2 pad_024.wav
+#WAVNN fuelbloods 2 pad_025.wav
+#WAVNO fuelbloods 2 pad_026.wav
+#WAVNP fuelbloods 2 pad_027.wav
+#WAVNQ fuelbloods 2 pad_028.wav
+#WAVNR fuelbloods 2 pad_029.wav
+#WAVNS fuelbloods 2 pad_030.wav
+#WAVNT fuelbloods 2 pad_031.wav
+#WAVNU fuelbloods 2 pad_032.wav
+#WAVNV fuelbloods 2 pad_033.wav
+#WAVNW fuelbloods 2 pad_034.wav
+#WAVNX fuelbloods 2 pad_035.wav
+#WAVNY fuelbloods 2 pad_036.wav
+#WAVNZ fuelbloods 2 pad_037.wav
+#WAVO0 fuelbloods 2 pad_038.wav
+#WAVO1 fuelbloods 2 pad_039.wav
+#WAVO2 fuelbloods 2 pad_040.wav
+#WAVO3 fuelbloods 2 pad_041.wav
+#WAVO4 fuelbloods 2 pad_042.wav
+#WAVO5 fuelbloods 2 pad_043.wav
+#WAVO6 fuelbloods 2 pad_044.wav
+#WAVO7 fuelbloods 2 pad_045.wav
+#WAVO8 fuelbloods 2 pad_046.wav
+#WAVO9 fuelbloods 2 pad_047.wav
+#WAVOA fuelbloods 2 pad_048.wav
+#WAVOB fuelbloods 2 pad_049.wav
+#WAVOC fuelbloods 2 pad_050.wav
+#WAVOD fuelbloods 2 pad_051.wav
+#WAVOE fuelbloods 2 pad_052.wav
+#WAVOF fuelbloods 2 pad_053.wav
+#WAVOG fuelbloods 2 pad_054.wav
+#WAVOH fuelbloods 2 pad_055.wav
+#WAVOI fuelbloods 2 pad_056.wav
+#WAVOJ fuelbloods 2 pad_057.wav
+#WAVOK fuelbloods 2 pad_058.wav
+#WAVOL fuelbloods 2 pad_059.wav
+#WAVOM fuelbloods 2 pad_060.wav
+#WAVON fuelbloods 2 pad_061.wav
+#WAVOO fuelbloods 2 pad_062.wav
+#WAVOP fuelbloods 2 pad_063.wav
+#WAVOQ fuelbloods 2 pad_064.wav
+#WAVOR fuelbloods 2 pad_065.wav
+#WAVOS fuelbloods 2 pad_066.wav
+#WAVOT fuelbloods 2 pad_067.wav
+#WAVOU fuelbloods 2 pad_068.wav
+#WAVOV fuelbloods 2 pad_069.wav
+#WAVOW fuelbloods 2 pad_070.wav
+#WAVOX fuelbloods 2 pad_071.wav
+#WAVOY fuelbloods 2 pad_072.wav
+#WAVOZ fuelbloods 2 pad_073.wav
+#WAVP0 fuelbloods 2 pad_074.wav
+#WAVP1 fuelbloods 2 pad_075.wav
+#WAVP2 fuelbloods 2 pad_076.wav
+#WAVP3 fuelbloods 2 pad_077.wav
+#WAVP4 fuelbloods 2 pad_078.wav
+#WAVP5 fuelbloods 2 pad_079.wav
+#WAVP6 fuelbloods 2 pad_080.wav
+#WAVP7 fuelbloods 2 pad_081.wav
+#WAVP8 fuelbloods 2 pad_082.wav
+#WAVP9 fuelbloods 2 pad_083.wav
+#WAVPA fuelbloods 2 pad_084.wav
+#WAVPB fuelbloods 2 pad_085.wav
+#WAVPC fuelbloods 2 pad_086.wav
+#WAVPD fuelbloods 2 pad_087.wav
+#WAVPE fuelbloods 2 pad_088.wav
+#WAVPF fuelbloods 2 pad_089.wav
+#WAVPG fuelbloods 2 pad_090.wav
+#WAVPH fuelbloods 2 pad_091.wav
+#WAVPI fuelbloods 2 pad_092.wav
+#WAVPJ fuelbloods 2 pad_093.wav
+#WAVPK fuelbloods 2 pad_094.wav
+#WAVPL fuelbloods 2 pad_095.wav
+#WAVPM fuelbloods 2 pad_096.wav
+#WAVPN fuelbloods 2 pad_097.wav
+#WAVPO fuelbloods 2 pad_098.wav
+#WAVPP fuelbloods 2 pad_099.wav
+#WAVPQ fuelbloods 2 pad_100.wav
+#WAVPR fuelbloods 2 pad_101.wav
+#WAVPS fuelbloods 2 pad_102.wav
+#WAVPT fuelbloods 2 pad_103.wav
+#WAVPU fuelbloods 2 pad_104.wav
+#WAVPV fuelbloods 2 pad_105.wav
+#WAVPW fuelbloods 2 pad_106.wav
+#WAVPX fuelbloods 2 pad_107.wav
+#WAVPY fuelbloods 2 pad_108.wav
+#WAVPZ fuelbloods 2 pad_109.wav
+#WAVQ0 fuelbloods 2 pad_110.wav
+#WAVQ1 fuelbloods 2 pad_111.wav
+#WAVQ2 fuelbloods 2 pad_112.wav
+#WAVQ3 fuelbloods 2 pad_113.wav
+#WAVQ4 fuelbloods 2 pad_114.wav
+#WAVQ5 fuelbloods 2 pad_115.wav
+#WAVQ6 fuelbloods 2 pad_116.wav
+#WAVQ7 fuelbloods 2 pad_117.wav
+#WAVQ8 fuelbloods 2 pad_118.wav
+#WAVQ9 fuelbloods 2 pad_119.wav
+#WAVQA fuelbloods 2 pad_120.wav
+#WAVQB fuelbloods 2 pad_121.wav
+#WAVQC fuelbloods 2 pad_122.wav
+#WAVQD fuelbloods 2 pad_123.wav
+#WAVQE fuelbloods 2 pad_124.wav
+#WAVQF fuelbloods 2 pad_125.wav
+#WAVQG fuelbloods 2 pad_126.wav
+#WAVQH fuelbloods 2 pad_127.wav
+#WAVQI fuelbloods 2 pad_128.wav
+#WAVQJ fuelbloods 2 pad_129.wav
+#WAVQK fuelbloods 2 pad_130.wav
+#WAVQL FX Glitch 1.wav
+#WAVQM FX Glitch 2.wav
+#WAVQN FX Noise 1.wav
+#WAVQO FX Noise 2.wav
+#WAVQP Wobble Kick hard.wav
+#WAVQQ Wobble Kick reverb 1.wav
+#WAVQR Wobble Kick reverb 2.wav
+#WAVQS Wobble Kick reverb 3.wav
+#WAVQT Wobble Kick reverb 4.wav
+#WAVQU Wobble Kick soft 1.wav
+#WAVQV Wobble Kick soft 2.wav
+#WAVQW Wobble Kick hard.wav
+#WAVQX Rev Cymbal.wav
+#WAVQY Rev Cymbal 2.wav
+#WAVQZ FX Noise Rev.wav
+#WAVR0 fuelbloods 2 (FX Noise 4)_001.wav
+#WAVR1 fuelbloods 2 (FX Noise 4)_002.wav
+#WAVR2 fuelbloods 2 (FX Noise 4)_003.wav
+#WAVR3 Breaks Hi_001.wav
+#WAVR4 Breaks Hi_002.wav
+#WAVR5 Breaks Hi_003.wav
+#WAVR6 Breaks Hi_004.wav
+#WAVR7 Breaks Hi_005.wav
+#WAVR8 Breaks Hi_013.wav
+#WAVR9 Breaks Hi_018.wav
+#WAVRA Breaks Hi_019.wav
+#WAVRB Breaks Hi_021.wav
+#WAVRC Breaks Hi_022.wav
+#WAVRD Breaks Hi_023.wav
+#WAVRE Breaks Hi_024.wav
+#WAVRF Breaks Hi_025.wav
+#WAVRG Breaks Hi_026.wav
+#WAVRH Breaks Hi_034.wav
+#WAVRI Breaks Hi_035.wav
+#WAVRJ Breaks Hi_038.wav
+#WAVRK Breaks Hi_039.wav
+#WAVRL Breaks Hi_0040.wav
+#WAVRM Breaks Hi_0041.wav
+#WAVRN Drums Glith 1_001.wav
+#WAVRO Drums Glith 1_002.wav
+#WAVRP Drums Glith 1_003.wav
+#WAVRQ Drums Glith 1_004.wav
+#WAVRR Drums Glith 1_005.wav
+#WAVRS Drums Glith 1_006.wav
+#WAVRT Drums Glith 1_007.wav
+#WAVRU Drums Glith 1_008.wav
+#WAVRV Drums Glith 1_009.wav
+#WAVRW Drums Glith 1_010.wav
+#WAVRX Drums Glith 1_011.wav
+#WAVRY Drums Glith 1_012.wav
+#WAVRZ Drums Glith 1_013.wav
+#WAVS0 Drums Glith 1_014.wav
+#WAVS1 Drums Glith 1_018.wav
+#WAVS2 Drums Glith 1_019.wav
+#WAVS3 Drums Glith 1_020.wav
+#WAVS4 Drums Glith 1_021.wav
+#WAVS5 Drums Glith 1_022.wav
+#WAVS6 Drums Glith 1_023.wav
+#WAVS7 Drums Glith 1_025.wav
+#WAVS8 Drums Glith 1_026.wav
+#WAVS9 Drums Glith 1_027.wav
+#WAVSA Drums Glith 1_028.wav
+#WAVSB Drums Glith 1_029.wav
+#WAVSC Drums Glith 1_033.wav
+#WAVSD Drums Glith 1_034.wav
+#WAVSE Drums Glith 1_037.wav
+#WAVSF Drums Glith 1_038.wav
+#WAVSG Drums Glith 1_039.wav
+#WAVSH Drums Glith 1_040.wav
+#WAVSI Drums Glith 1_041.wav
+#WAVSJ Drums Glith 1_042.wav
+#WAVSK Drums Glith 1_043.wav
+#WAVSL Drums Glith 1_044.wav
+#WAVSM Drums Glith 1_045.wav
+#WAVSN Drums Glith 1_046.wav
+#WAVSO Drums Glith 1_047.wav
+#WAVSP Drums Glith 1_048.wav
+#WAVSQ Drums Glith 1_049.wav
+#WAVSR Drums Glith 1_050.wav
+#WAVSS Drums Glith 1_051.wav
+#WAVST Drums Glith 1_052.wav
+#WAVSU Drums Glith 1_053.wav
+#WAVSV Drums Glith 1_056.wav
+#WAVSW Drums Glith 1_057.wav
+#WAVSX Drums Glith 1_059.wav
+#WAVSY Drums Glith 1_060.wav
+#WAVSZ Drums Glith 1_064.wav
+#WAVT0 Drums Glith 1_067.wav
+#WAVT1 Drums Glith 1_068.wav
+#WAVT2 Drums Glith 1_069.wav
+#WAVT3 Drums Glith 1_070.wav
+#WAVT4 Drums Glith 1_071.wav
+#WAVT5 Drums Glith 1_072.wav
+#WAVT6 Drums Glith 1_073.wav
+#WAVT7 Drums Glith 1_080.wav
+#WAVT8 Drums Glith 1_084.wav
+#WAVT9 Drums Glith 1_086.wav
+#WAVTA Drums Glith 1_087.wav
+#WAVTB Drums Glith 1_091.wav
+#WAVTC Drums Glith 1_092.wav
+#WAVTD Drums Glith 1_100.wav
+#WAVTE Drums Glith 1_101.wav
+#WAVTF Drums Glith 1_105.wav
+#WAVTG Drums Glith 1_106.wav
+#WAVTH Breaks Mid_001.wav
+#WAVTI Breaks Mid_002.wav
+#WAVTJ Breaks Mid_003.wav
+#WAVTK Breaks Mid_004.wav
+#WAVTL Breaks Mid_007.wav
+#WAVTM Breaks Mid_010.wav
+#WAVTN Breaks Mid_011.wav
+#WAVTO Breaks Mid_013.wav
+#WAVTP Breaks Mid_037.wav
+#WAVTQ Breaks Mid_043.wav
+#WAVTR Breaks Mid_045.wav
+#WAVTS Breaks Mid_048.wav
+#WAVTT Breaks Mid_083.wav
+#WAVTU Breaks Mid_096.wav
+#WAVTV Breaks Mid_097.wav
+#WAVTW Breaks Mid_130.wav
+#WAVTX Breaks Mid_131.wav
+#WAVTY Breaks Mid_135.wav
+#WAVTZ Breaks Mid_136.wav
+#WAVU0 Breaks Mid_137.wav
+#WAVU1 Breaks Mid_141.wav
+#WAVU2 Breaks Mid_147_000.wav
+#WAVU3 Breaks Mid_147_001.wav
+#WAVU4 Breaks Mid_148.wav
+#WAVU5 Breaks Mid_149.wav
+#WAVU6 Breaks Mid_150.wav
+#WAVU7 Breaks Mid_151.wav
+#WAVU8 Breaks Mid_152.wav
+#WAVU9 Breaks Mid_153.wav
+#WAVUA Breaks Mid_154.wav
+#WAVUB Breaks Mid_155.wav
+#WAVUC Breaks Mid_160.wav
+#WAVUD Breaks Mid_191.wav
+#WAVUE Breaks Mid_192.wav
+#WAVUF Breaks Mid_193.wav
+#WAVUG Breaks Mid_194.wav
+#WAVUH Breaks Mid_195.wav
+#WAVUI Breaks Mid_196.wav
+#WAVUJ Breaks Mid_200.wav
+#WAVUK Breaks Mid_240.wav
+#WAVUL fuelbloods 2 (Gabba Kick)_001.wav
+#WAVUM fuelbloods 2 (Gabba Kick)_002.wav
+#WAVUN fuelbloods 2 (Gabba Kick)_003.wav
+#WAVUO fuelbloods 2 (Gabba Kick)_004.wav
+#WAVUP fuelbloods 2 (Gabba Kick)_005.wav
+#WAVUQ fuelbloods 2 (Gabba Kick)_006.wav
+#WAVUR fuelbloods 2 (Gabba Kick)_007.wav
+#WAVUS fuelbloods 2 (Gabba Kick)_008.wav
+#WAVUT fuelbloods 2 (Gabba Kick)_009.wav
+#WAVUU fuelbloods 2 (Gabba Kick)_010.wav
+#WAVUV fuelbloods 2 (Gabba Kick)_011.wav
+#WAVUW fuelbloods 2 (Gabba Kick)_012.wav
+#WAVUX fuelbloods 2 (Gabba Kick)_013.wav
+#WAVUY fuelbloods 2 (Gabba Kick)_014.wav
+#WAVUZ fuelbloods 2 (Gabba Kick)_015.wav
+#WAVV0 fuelbloods 2 (Gabba Kick)_016.wav
+#WAVV1 fuelbloods 2 (Gabba Kick)_017.wav
+#WAVV2 fuelbloods 2 (Gabba Kick)_018.wav
+#WAVV3 fuelbloods 2 (Gabba Kick)_019.wav
+#WAVV4 fuelbloods 2 (Gabba Kick)_020.wav
+#WAVV5 fuelbloods 2 (Gabba Kick)_021.wav
+#WAVV6 fuelbloods 2 (Gabba Kick)_022.wav
+#WAVV7 fuelbloods 2 (Gabba Kick)_023.wav
+#WAVV8 fuelbloods 2 (Gabba Kick)_024.wav
+#WAVV9 fuelbloods 2 (Gabba Kick)_025.wav
+#WAVVA fuelbloods 2 (Gabba Kick)_026.wav
+#WAVVB fuelbloods 2 (Gabba Kick)_027.wav
+#WAVVC fuelbloods 2 (Gabba Kick)_028.wav
+#WAVVD fuelbloods 2 (Gabba Kick)_029.wav
+#WAVVE fuelbloods 2 (Gabba Kick)_030.wav
+#WAVVF fuelbloods 2 (Gabba Kick)_031.wav
+#WAVVG fuelbloods 2 (Gabba Kick)_032.wav
+#WAVVH fuelbloods 2 (Gabba Kick)_033.wav
+#WAVVI fuelbloods 2 (Gabba Kick)_034.wav
+#WAVVJ fuelbloods 2 (Gabba Kick)_035.wav
+#WAVVK fuelbloods 2 (Gabba Kick)_036.wav
+#WAVVL fuelbloods 2 (Gabba Kick)_037.wav
+#WAVVM fuelbloods 2 (Gabba Kick)_038.wav
+#WAVVN fuelbloods 2 (Gabba Kick)_039.wav
+#WAVVO fuelbloods 2 (Gabba Kick)_040.wav
+#WAVVP fuelbloods 2 (Gabba Kick)_041.wav
+#WAVVQ fuelbloods 2 (Gabba Kick)_042.wav
+#WAVVR fuelbloods 2 (Gabba Kick)_043.wav
+#WAVVS fuelbloods 2 (Gabba Kick)_044.wav
+#WAVVT fuelbloods 2 (Gabba Kick)_045.wav
+#WAVVU fuelbloods 2 (Gabba Kick)_046.wav
+#WAVVV fuelbloods 2 (Gabba Kick)_047.wav
+#WAVVW fuelbloods 2 (Gabba Kick)_048.wav
+#WAVVX fuelbloods 2 (Gabba Kick)_049.wav
+#WAVVY fuelbloods 2 (Gabba Kick)_050.wav
+#WAVVZ fuelbloods 2 (Gabba Kick)_051.wav
+#WAVW0 fuelbloods 2 (Gabba Kick)_052.wav
+#WAVW1 fuelbloods 2 (Gabba Kick)_053.wav
+#WAVW2 fuelbloods 2 (Gabba Kick)_054.wav
+#WAVW3 fuelbloods 2 (Gabba Kick)_055.wav
+#WAVW4 fuelbloods 2 (Gabba Kick)_056.wav
+#WAVW5 fuelbloods 2 (Gabba Kick)_057.wav
+#WAVW6 fuelbloods 2 (Gabba Kick)_058.wav
+#WAVW7 fuelbloods 2 (Gabba Kick)_059.wav
+#WAVW8 fuelbloods 2 (Gabba Kick)_060.wav
+#WAVW9 fuelbloods 2 (Gabba Kick)_061.wav
+#WAVWA fuelbloods 2 (Gabba Kick)_062.wav
+#WAVWB fuelbloods 2 (Gabba Kick)_063.wav
+#WAVWC fuelbloods 2 (Gabba Kick)_064.wav
+#WAVWD fuelbloods 2 (Gabba Kick)_065.wav
+#WAVWE fuelbloods 2 (Gabba Kick)_066.wav
+#WAVWF fuelbloods 2 (Gabba Kick)_067.wav
+#WAVWG fuelbloods 2 (Gabba Kick)_068.wav
+#WAVWH fuelbloods 2 (Gabba Kick)_069.wav
+#WAVWI fuelbloods 2 (Gabba Kick)_070.wav
+#WAVWJ fuelbloods 2 (Gabba Kick)_071.wav
+#WAVWK fuelbloods 2 (Gabba Kick)_072.wav
+#WAVWL fuelbloods 2 (Gabba Kick)_073.wav
+#WAVWM fuelbloods 2 (Gabba Kick)_074.wav
+#WAVWN fuelbloods 2 (Gabba Kick)_075.wav
+#WAVWO fuelbloods 2 (Gabba Kick)_076.wav
+#WAVWP fuelbloods 2 (Gabba Kick)_077.wav
+#WAVWQ fuelbloods 2 (Gabba Kick)_078.wav
+#WAVWR Acid reverb_001.wav
+#WAVWS Acid reverb_002.wav
+#WAVWT Acid reverb_003.wav
+#WAVWU Acid reverb_004.wav
+#WAVWV Acid reverb_005.wav
+#WAVWW Acid reverb_006.wav
+#WAVWX Acid reverb_007.wav
+#WAVWY Acid reverb_008.wav
+#WAVWZ Acid reverb_009.wav
+#WAVX0 Acid reverb_010.wav
+#WAVX1 Acid reverb_011.wav
+#WAVX2 Acid reverb_012.wav
+#WAVX3 Acid reverb_013.wav
+#WAVX4 Acid reverb_014.wav
+#WAVX5 Acid reverb_015.wav
+#WAVX6 Acid reverb_016.wav
+#WAVX7 Acid reverb_017.wav
+#WAVX8 Acid reverb_018.wav
+#WAVX9 Acid reverb_019.wav
+#WAVXA Acid reverb_020.wav
+#WAVXB Acid reverb_021.wav
+#WAVXC Acid reverb_022.wav
+#WAVXD Acid reverb_023.wav
+#WAVXE Acid reverb_024.wav
+#WAVXF Dark Bass_001.wav
+#WAVXG Dark Bass_002.wav
+#WAVXH Dark Bass_003.wav
+#WAVXI Dark Bass_004.wav
+#WAVXJ FX Cloud_001.wav
+#WAVXK FX Cloud_002.wav
+#WAVXL FX Reverse_001.wav
+#WAVXM FX Reverse_002.wav
+#WAVXN FX Reverse_003.wav
+#WAVXO FX Reverse_004.wav
+#WAVXP FX Reverse_005.wav
+#WAVXQ FX Reverse_006.wav
+#WAVXR FX Reverse_007.wav
+#WAVXS FX Reverse_008.wav
+#WAVXT Shout_001.wav
+#WAVXU Up Noise_001.wav
+#WAVXV Up Noise_003.wav
+#WAVXW Up Noise_005.wav
+#WAVXX Up Noise_007.wav
+#WAVXY Up Noise_009.wav
+#WAVXZ Up Noise_010.wav
+#WAVY0 Up Noise_011.wav
+#WAVY1 Wobble Noise_001.wav
+#WAVY2 Wobble Noise_002.wav
+#WAVY3 Wobble Noise_003.wav
+#WAVY4 Wobble Noise_004.wav
+#WAVY5 Wobble Noise_005.wav
+#WAVY6 Wobble Noise_006.wav
+#WAVY7 Wobble Noise_007.wav
+#WAVY8 Wobble Noise_008.wav
+#WAVY9 Wobble Noise_009.wav
+#WAVYA Wobble Noise_010.wav
+#WAVYB Wobble Noise_011.wav
+#WAVYC Wobble Noise_012.wav
+#WAVYD Wobble Noise_013.wav
+#WAVYE Wobble Noise_014.wav
+#WAVYF Wobble Noise_015.wav
+#WAVYG Wobble Noise_016.wav
+#WAVYH Wobble Noise_017.wav
+#WAVYI Wobble Noise_018.wav
+#WAVYJ Wobble Noise_019.wav
+#WAVYK Wobble Noise_020.wav
+#WAVYL Wobble Noise_021.wav
+#WAVYM Wobble Noise_022.wav
+#WAVYN Wobble Noise_023.wav
+#WAVYO Wobble Noise_024.wav
+#WAVYP Wobble Noise_025.wav
+#WAVYQ Vox.wav
+#WAVYR Vox.wav
+#WAVYS Pad_001.wav
+#WAVYT Pad_002.wav
+#WAVYU Pad_003.wav
+#WAVYV Pad_004.wav
+#WAVYW E Harp_001.wav
+#WAVYX E Harp_002.wav
+#WAVYY E Harp_003.wav
+#WAVYZ E Harp_004.wav
+#WAVZ0 FX Noise 3.wav
+#WAVZ1 FX Razer.wav
+#WAVZ2 fuelbloods 2 (Acid)_337_001.wav
+
+
+*---------------------- MAIN DATA FIELD
+
+
+
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:GA00GBGC00GDGEGFGGGHGIGJ00GK00GL
+#00101:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000GM0000000000000000000000GN000000000000GO00000000GP0000000000000000000000GQ0000000000000000000000
+#00101:00
+#00101:00QX000000000000
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:02000304050006070800090A0B0C0D00
+
+#00211:0E0000F4
+#00212:F40000F6
+#00213:F6000F000H00000000000L000N0000F4
+#00214:0000F500F400000J0000F500000O0000
+#00215:00F8F60I0KF800F5
+#00216:UL000000UM000000UN000000UO0000UP
+#00218:0000000G0000F500F400000M0000F800
+#00219:000000F8F800000P
+
+#00302:0.5
+#00311:0000F60U
+#00312:0Q
+#00313:000R0TF4
+#00314:F500000S0000F80V
+#00315:00F4F500
+#00316:00UQUR00
+#00318:F6
+#00319:00F80000
+
+#00402:0.25
+#00401:00000X0Y00000000
+#00403:64
+#00414:F5
+#00415:0W
+#00416:US
+#00419:F7
+
+#00503:C8
+#00511:000000001500F3F2
+#00512:000000110000000000000000000000F3
+#00513:F9000000FA00F91A
+#00514:FD00FEF30016FCFB
+#00515:0Z000000F20000F2000000170000FG00
+#00516:00FF
+#00518:0000121300001800
+#00519:00001000000000140000000000190000
+
+#00611:00F20000F3000000
+#00612:00001E0000FI0000
+#00613:0000001FF9000000
+#00614:FDFEFD00
+#00615:001C00FH001I0000
+#00616:FF0000MM
+#00618:1B1H
+#00619:0000001D0000001G0000001J00000000
+
+#00711:001KF81Q
+#00712:0000001L0000F400
+#00713:0000F400F400F61S
+#00714:000000000000F5001N001O00001R00F4
+#00715:00000000F600001M0000F5000000F800
+#00716:MM000000UT0000UU0000UV000000UW00
+#00718:000000000000F8000000001P0000F500
+#00719:0000000000F80000
+
+#00811:00001U000000001Y0000000000000000
+#00812:00001W1X00000000
+#00813:00F800F400000000
+#00814:0000001VF500F6001Z00202100000000
+#00815:1T00F60000F60000F500000000000000
+#00816:00UX0000UY000000UZ000000QLQLQLQL
+#00818:F5F6F700
+#00819:F600F400000000F60000000000000000
+
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:FD00FE00FA00FCFB
+#00901:00000000000000FG
+#00901:00
+#00901:00QY000000000000
+#00911:2200230025000027000029002B002D00
+#00912:00000024000026002800002A002C0000
+#00913:F9F9
+#00914:00000000F200F3F200000000F300F2F3
+#00915:00FF
+
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:FDFEFD00
+#01013:000000F9000000FJ
+#01014:00F20000F3000000
+#01015:FF0000FF000000RN
+#01018:0000002G00002I002K00002M002O0000
+#01019:2E002F002H00002J00002L002N00QN00
+
+#01101:00
+#01101:00
+#01101:00YQ0000
+#01101:00XT0000
+#01101:00
+#01101:00
+#01101:00RO000000000000
+#01101:2P
+#01111:0000RP0000RT0000
+#01112:00002Q2R00FJ0000
+#01113:0000FJRQ00G700RU
+#01114:0000G700RS00002U
+#01115:000000002S002TFJ
+#01118:00G9
+#01119:00000000000000RR0000000000000000
+
+#01211:0000000000002W00000000000000002Z00000000S200S300
+#01212:0000G800G7S00000
+#01213:00RYS000
+#01214:00000000G60000002Y0000S00000FJ00
+#01215:0000RWRX0000FJ0000S0000000000000
+#01218:2V00002X0000S100
+#01219:RV000000000000RZ0000000030000000
+
+#01311:00000000000000S900000000SC000000
+#01312:S40000S8000035SE
+#01313:3100003300000036
+#01314:00000000S5000000S6000000000000S70000000000000000SA0000000000SB0000000000000000000000G70000000000
+#01315:0000000000000000G7000000000000003400000000SB00000000SD0000000000
+#01318:00000000S5000000G70000SB00000000
+#01319:00000000000000003200000000000000G9000000000000SB000000000000SF00
+
+#01411:000000000000SG000000000000000000000000SM000000000000SR0000000000
+#01412:000000000000000000SL3B0000FN0000
+#01413:00000000SF000000000000000000SI0000SK0000SN000000SR0000000000SR00
+#01414:0000000000003900FK00FLFM00000000
+#01415:SE00000000000000SH00000000000000G700000000SO00003C0000000000FP00
+#01418:3700000038000000SJ0000SP0000FO00
+#01419:0000000000000000G7000000000000003A000000000000SQ00000000SR000000
+
+#01511:00SZ00SWT6SXSY00
+#01512:3D003E3F3G003H3I
+#01514:FJ00FJ00G70000FJ
+#01516:H100H200000000H4
+#01518:G800SV00H30000SV
+#01519:SV
+
+#01611:SW0000000000000000000000000000HA000000003N0000000000000000000000
+#01612:3J0000003K0000H90000T00000000000
+#01613:00000000000000000000000000H8000000000000FJ0000003O000000FJ000000
+#01614:0000FJ00G600FJ00G700000000T20000
+#01615:000000H7G900T1T3
+#01616:00H5H60000000000
+#01618:0000000000003L003M000000000000T4
+#01619:00SVSZSZT600HBHC
+
+#01711:T500T63S00HG
+#01712:0000000000000000003R00000000000000000000T6000000
+#01713:00G7G7G70000
+#01714:00G8
+#01715:00HDHEHF0000
+#01716:00MN00000000
+#01718:003Q0000
+#01719:3P000000T600000000000000T600000000003T00003U0000
+
+#01811:HHHIHJ000000
+#01812:T600000000000000T600000000000000T600000000000000T70000000000000000000000000000000000000000TA0000
+#01813:00000000G7T7T8T9
+#01814:000000000000000000T700T700T80000
+#01815:000000003Y3Z4000
+#01818:00HK
+#01819:3V003W3X00000000
+
+#01901:00
+#01901:00
+#01901:XUYR
+#01901:00XT
+#01911:41TC0000
+#01912:000042TC00000000
+#01913:0000004344000000
+#01914:00000000G7TC0000
+#01915:0000G8TB
+#01916:MM000000000000MM
+#01918:00000000000045TC
+#01919:0000000000000046
+
+#02011:00TF00TD000000000000000000000000
+#02012:TFTE00TE00000000
+#02013:00000000000000TD00000000TE000000
+#02014:47000000000049000000000000TETETE
+#02015:000048004A4B4C00
+#02016:00MM0000
+#02018:0000000000TF0000G700000000000000
+#02019:00TFG900
+
+#02111:0000TFTF
+#02112:00000000000000004G00000000TF00TD
+#02113:TF00G74H
+#02114:00000000G8TG00TF
+#02115:4D00TFTF0000004I
+#02116:MO00MO0000MO00MP
+#02118:0000TG0000TF00TD000000000000G700
+#02119:00004E4F000000G9
+
+#02211:TFTF4M00
+#02212:00TG4K00G7000000
+#02213:4JG7G900
+#02214:00G80000
+#02215:000000TF004N4O00
+#02216:0000MO0000MO0000MO000000QO000000
+#02218:0000000000TF00TD0000000000000000
+#02219:0000004L0000FJ00
+
+#02301:00
+#02301:00
+#02301:XV
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:00
+#02301:FJ
+#02311:00004Q4R4S004T00
+#02314:4P
+#02316:00V0V1V2
+
+#02412:4U4V4W004X004Y4Z
+#02416:V3V4V5V6
+
+#02513:5000515253005455
+#02516:V70000V80000V90000VA0000VB0000VC
+#02518:MSMTMSMT
+
+#02601:56
+#02611:00MWMY00
+#02612:00000000XP0000XS0000000000000000
+#02613:0000XNXO00000000MQ00000000000000
+#02614:0000VD0000XQMX000000000000000000
+#02615:XLQX0000VF000000
+#02616:0000000000MR0000
+#02618:00XM000000VEXR000000000000000000
+#02619:MUMV000000000000
+
+#02701:00
+#02701:00
+#02701:00
+#02701:00
+#02701:00
+#02701:YS
+#02711:570000005D00005I
+#02712:VG00VH00VI00VJVK
+#02713:0000005900005B000000005F005H0000
+#02714:F6F600F6
+#02715:000058000000005C00005E005G000000
+#02716:ML
+#02718:00F800F8F8F800F8
+#02719:005A0000
+
+#02811:5J0000005P00005U
+#02812:VL000000VM000000VN0000VOVP00VQ00
+#02813:0000005L00005N000000005R00000000
+#02814:F600F60000F6F600
+#02815:00005K000000005O00005Q005S000000
+#02818:00F800F8F80000F8
+#02819:000000005M00000000000000005T0000
+
+#02901:00
+#02901:00
+#02901:00
+#02901:00
+#02901:00
+#02901:000000YT00000000
+#02911:5V00000061000066
+#02912:VR000000VS000000VT000000VU00VVVW
+#02913:0000005X00005Z000000006300000000
+#02914:F6F600F6
+#02915:00005W00000000600000620064000000
+#02918:00F800F8F8F800F8
+#02919:000000005Y0000000000000000650000
+
+#03011:F6F8F6F800000000
+#03013:VXVYVZW000000000
+#03015:0000000000F6F600
+#03016:MZ00N000N100N200N3N4N5N6N7N8N9NA
+#03018:00000000F80000F8
+#03019:00000000W1W2W3W4
+
+#03101:67
+#03101:00
+#03101:00
+#03101:00
+#03101:00
+#03101:YU
+#03111:00000069000000000000006F00000000
+#03112:00686A6B6D6E6G6I
+#03113:ML0000000000006C00000000006H0000
+#03115:F6F600F6
+#03118:00F800F8F8F800F8
+#03119:W5000000W600W700W80000W90000WA00
+
+#03211:00006M6N006Q6S6U
+#03212:6J00006L0000006O0000006R006T0000
+#03213:006K00006P000000
+#03215:F600F60000F6F600
+#03218:00F800F8F80000F8
+#03219:00WB0000WC000000WD0000WE0000WF00
+
+#03301:00
+#03301:00
+#03301:00
+#03301:00
+#03301:00
+#03301:000000YV00000000
+#03311:0000000000006Z007100000000750000
+#03312:6V00006X000000700000720074007600
+#03313:00006W006Y0000000000007300000000
+#03315:F6F600F6
+#03318:00F800F8F8F800F8
+#03319:0000WGWHWI000000WJ000000WK00WLWM
+
+#03402:0.5
+#03401:00
+#03401:00NC00NE00NG
+#03401:00
+#03401:F6F8F6F8
+#03413:NBWONF
+#03415:WNNDWP
+
+#03501:00000000HLHM0000HPHQ0000HTHU0000
+#03501:00
+#03501:00
+#03501:00YQ0000
+#03501:00
+#03501:00
+#03501:00YW0000
+#03503:64
+#03512:WQ
+#03516:000000000000HNHO0000HRHS0000HVHW
+#03518:F7
+#03519:00XJ0000
+
+#03601:HXHY0000I1I20000I5I60000I9IA0000
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00YX0000
+#03616:0000HZI00000I3I40000I7I80000IBIC
+
+#03701:IDIE0000IHII0000ILIM0000IPIQ0000
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00YY0000
+#03716:0000IFIG0000IJIK0000INIO0000IRIS
+
+#03801:ITIU0000IXIY0000J1J20000J5J60000
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00YZ0000
+#03816:0000IVIW0000IZJ00000J3J40000J7J8
+
+#03902:0.25
+#03901:J9JA0000
+#03901:00
+#03901:QZ
+#03916:0000JBJC
+
+#04001:00JE00JG00JI00JK
+#04001:00
+#04001:XW
+#04001:YR
+#04003:C8
+#04015:JDJFJHJJ
+#04016:NHNINJNKNLNMNNNONPNQNRNSNTNUNVNW
+#04018:G6FJG6FJ
+#04019:MSMTMSMT
+
+#04101:00JM00JO00JQ0000
+#04115:JL00JN00JP00JRJS
+#04116:NXNYNZO0O1O2O3O4O5O6O7O8O9OAOBOC
+#04118:G600FJ00G600FJG6
+#04119:MS00MT00MS00MTMS
+
+#04201:00JU00JW00JY0000
+#04215:JT00JV00JX00JZK0
+#04216:ODOEOFOGOHOIOJOKOLOMONOOOPOQOROS
+#04218:FJ00G600FJ00G6FJ
+#04219:MT00MS00MT00MSMT
+
+#04301:00K2K300K5K600K8
+#04301:00
+#04301:00
+#04301:00
+#04301:00
+#04301:K10000K40000G600
+#04315:G60000FJ0000G60000FJ0000K7000000
+#04316:OTOUOVOWOXOYOZP0P1P2P3P4P5P6P7P8
+#04319:MS0000MT0000MS0000MT0000MS000000
+
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:FJFJFJFJ
+#04415:K9KAKBKCKDKEKFKG
+#04416:P9PAPBPCPDPEPFPGPHPIPJPKPLPMPNPO
+#04419:MTG6MSG6MTG6MSG6
+
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00QY000000000000
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:FJFJFJFJ
+#04515:KHKIKJKKKLKMKNKO
+#04516:PPPQPRPSPTPUPVPWPXPYPZQ0Q1Q2Q3Q4
+#04519:MTG6MSG6MTG6MSG6
+
+#04611:000000FT00FV00QC000000QG00QI00G5
+#04612:00Q6000000QA000000FZ000000G30000
+#04613:00FR00Q8000000FX00QE00G1000000QK
+#04614:KPMSMTKSKTKUKVKW
+#04615:FQQ7Q9QBQDQFQHQJ
+#04618:MTKQKRMSMTMSMTMS
+#04619:Q5FSFUFWFYG0G2G4
+
+#04713:000000GT00GV000000GY00H000000000
+#04714:GR0000KX
+#04715:0000GUGW00GZ0000
+#04716:00GS0000GX000000
+#04718:FJ0000QP
+
+#04811:00000000000000L2
+#04812:0000000000L10000
+#04813:000000KZ00000000
+#04814:00KY000000000000
+#04815:00L0
+#04819:QUQW00QUQPQW00QU
+
+#04914:0000L5L600000000
+#04918:L3L4000000000000
+#04919:QWQPQW00
+#04955:0000000000MDMD00
+#04958:0000000000QUQUME
+#04959:00000000000000QU
+
+#05013:0000000000QU0000
+#05015:000000000000QWQP
+#05016:00MK
+#05051:0000000000000000QW00000000000000000000000000QW00QW000000000000QW0000000000000000000000000000000000000000000000000000000000000000
+#05052:0000000000000000L700000000000000000000000000L700L8000000000000L800000000000000000000000000000000LA0000000000000000000000000000LA
+#05054:0000000000000000000000000000000000000000000000000000000000000000L90000000000000000000000000000L900000000000000000000000000000000
+#05058:ME
+#05059:QU
+
+#05115:QW00QP0000QW00QP
+#05119:00MK
+#05152:000000000000LDLD0000000000000000
+#05153:LB0000000000LB0000000000LC000000000000LC000000000000000000000000LE0000000000LE00000000000000000000000000000000000000000000000000
+#05158:00000000000000000000000000000000000000000000000000000000000000000000000000000000LF000000000000LF00000000000000000000000000000000
+
+#05201:00
+#05201:00
+#05201:00
+#05201:00000000000000Y1
+#05212:0000LG00000000LL
+#05213:00MK
+#05215:0000QW00000000QW
+#05216:0000000000000000LHLILJLK00000000
+
+#05301:00
+#05301:00
+#05301:00
+#05301:Y2Y3Y4Y500000000
+#05301:00
+#05301:00MK
+#05315:00QP0000
+#05316:0000LMLNLOLPLQLRLSLT000000000000
+#05356:00000000000000000000000000000000000000000000000000000000000000000000000000000000MF0000000000000000MF000000000000MG00000000000000
+
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00QY000000000000
+#05411:00Y700Y900000000
+#05412:MKMKMKMKMK000000
+#05413:Y6Y8YA00
+#05415:0000000000YB00YD
+#05418:0000000000QUQVQQ
+#05419:000000YC
+#05456:MG
+
+#05501:00
+#05501:00
+#05501:XX
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:0000000000000000XLXMXNXOXPXQXRXS
+#05556:77000000000077000000000000000000787800000000000079007900000000007A0000007A0000007B000000007B00007C00000000000000000000007C000000
+
+#05613:LU
+#05615:QP
+#05616:0000QMQMQMQMQM00
+#05658:00000000000000MH
+#05659:00000000000000MK
+
+#05754:00000000000000000000MJ00000000MJ
+#05755:00000000MI00000000MIMK00000000MK
+#05758:000000MHMK00000000MK000000000000
+#05759:000000MK000000000000000000000000
+
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00YF000000000000
+#05811:LV0000LW0000LX000000000000000000
+#05812:QP0000MK00000000
+#05813:YE0000QW0000YG000000000000000000
+#05815:00000000LYLZ0000
+#05816:000000QR
+#05818:00QP
+#05819:00000000YHMK0000
+
+#05911:00MK
+#05912:0000000000000000YIYJYK0000000000
+#05913:0000QMQM000000YN
+#05914:0000000000QM00QM0000000000000000
+#05915:7D00007F00000000
+#05916:QS000000000000M0
+#05918:000000000000000000000000YLYMQP00
+#05919:007E0000
+
+#06011:7G
+#06012:00M1000000000000
+#06013:00M3
+#06014:00M20000
+#06015:0000YO0000YP0000
+#06016:0000000000000000000000000000M5M6
+#06018:0000QP0000QP0000
+#06019:0000000000M40000
+
+#06111:000000QU
+#06112:000000007H0000MC
+#06113:000000M9007I0000
+#06114:M70000M800000000MA0000007J000000
+#06115:0000000000MB0000
+#06118:00000000MKMK0000
+#06119:QPQWQPQW000000QW
+
+#06212:0000MC00000000MC
+#06213:7K00007M00000000
+#06214:007L0000
+#06218:00MK
+#06219:0000QW00000000QW
+
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00QZ
+#06312:00MC0000
+#06316:00MK
+#06319:00QW0000
+
+#06401:WR00WSWTWU00WVWW
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:YQ
+#06416:XK
+
+#06501:WX00WYWZX0X1X200
+
+#06601:X300X4X5X600X7X8
+
+#06701:X90000000000000000000000GB0000000000GC0000000000XA0000000000GD0000000000XB0000000000GF0000000000GG0000000000GH0000000000XD0000000000GJGO00000000XE0000000000GK0000000000GQ0000000000GL0000000000
+#06701:GA0000GEXCGNGP00
+#06701:00000000GMGI0000
+#06701:00
+#06701:00QX000000000000
+#06701:00
+#06701:00
+#06701:00QZ
+
+#06801:00
+#06801:00
+#06801:00
+#06801:YR
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:XF
+#06801:Z0
+#06801:Z1
+#06811:0000007R00000000
+#06812:0000007P0000TH000000000000000000
+#06813:007O7Q007S007V00
+#06814:0000TI00TK00000000TL000000007W00
+#06815:000000TJ00000000TI00TI00TM00007X
+#06816:R0
+#06818:7N00000000000000007T00TJ0000TN00
+#06819:TH000000007U0000
+
+#06911:7Y00000000008789
+#06912:TI0000000000TMTK
+#06913:0000TK00810000000000850000880000
+#06914:000000800000008300TO008600000000
+#06915:00007Z00TN0000TL0000TM0000000000
+#06918:0000008284000000
+#06919:00TO00000000TI00TI00000000000000
+
+#07011:0000000000000000000000000000008K
+#07012:0000000000TI8I00
+#07013:8A008B008D00000000TO00TL00000000
+#07014:00TL008C00008E008F008H00TH000000
+#07015:TI00TM00TN0000TL008G000000000000
+#07018:000000TITI00008J
+#07019:00000000000000TH
+
+#07111:0000000000008N000000000000000000000000000000000000TR000000000000
+#07112:00000000000000008M000000TP0000008O0000000000000000000000000000000000000000000000000000008S00000000TQ0000000000008V00000000000000
+#07113:00TITH00008RTQ00
+#07114:000000000000000000000000008U00TS
+#07115:000000000000TI00TM00TH0000TR0000
+#07118:8L00000000000000000000008P00TL00Z2000000000000008T0000TR00000000
+#07119:TM0000000000008Q000000000000TS00
+
+#07201:00
+#07201:00
+#07201:R1
+#07211:008X8Z0000TI00TI
+#07212:0000008Y00000000000000TO00000000
+#07213:8WTITI0000930097
+#07214:000000TL00TO009100TL0094009600TO
+#07215:TK0000TNTI00TK00
+#07219:0000009092009500
+
+#07311:000000009E9F9H00
+#07312:9800009A00009C000000000000009J00
+#07313:0000TI009B00000000000000009I0000
+#07314:0000000000TO009D00TL009G000000TL
+#07315:00009900TI0000000000000000TO0000
+#07318:TK0000TL0000TN00000000000000TI00
+#07319:00000000TITKTI00
+
+#07411:TK000000TITK0000
+#07412:9K0000000000000000TT0000009U0000
+#07413:0000TI9M00009O009Q009R0000000000
+#07414:00000000TI00009P0000009S00000000
+#07415:00009LTO0000TK00000000009T009V00
+#07418:000000009N0000000000000000TL0000
+#07419:0000000000TL000000000000TI00TN00
+
+#07501:00
+#07501:00
+#07501:XY
+#07501:00
+#07501:00
+#07501:00
+#07501:000000000000GPGQ
+#07511:0000000000000000000000000000000000000000000000009Z0000000000000000000000A00000000000000000000000000000000000TO000000000000000000000000GO00000000000000000000000000000000000000000000000000000000
+#07512:000000TL000000A10000GN0000000000
+#07513:0000TKTI00000000
+#07514:0000009Y000000TL0000A30000000000
+#07515:009X0000A2000000
+#07518:9W00TI0000000000TI0000A400000000
+#07519:TK000000GMTU0000
+
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:XG0000000000000000000000000000TL
+#07601:00
+#07601:00
+#07601:00
+#07601:YQ0000000000000000TL000000000000
+#07611:A500A600A80000000000ACAD0000R600
+#07612:QP0000A70000TH00TI00000000AFAG00
+#07613:00TITK0000TITKTI
+#07614:000000TT0000R600R700R600R5000000
+#07615:00R4MK0000QPMK00
+#07616:TV
+#07618:R3000000000000AAAB0000TT00000000
+#07619:ML00R5A90000AE00
+
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:000000000000000000TL000000000000
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:000000000000000000000000000000TL
+#07711:00AIAK0000R6MK00
+#07712:TH000000TK00TH00000000TT0000TI00
+#07713:0000TV000000ALAM0000QP00AQ000000
+#07714:R400R600R500R6000000000000ARAS00
+#07715:00QU0000R8TIR500
+#07718:QP000000MK000000AN0000AP0000R600
+#07719:AH0000AJ00000000TI00AO00TK000000
+
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:000000000000000000TL000000000000
+#07801:00
+#07801:00
+#07801:00
+#07801:000000000000000000000000000000TL
+#07811:0000AU000000AX000000TI0000B30000
+#07812:00TITKTH00R6B200
+#07813:00R4R5R600QPTKTI
+#07814:AT0000TT000000AY000000TT0000B400
+#07815:TV00000000000000TI00B0B10000R600
+#07818:R30000AVAW000000R7000000R5000000
+#07819:QPMKAZMK
+
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:000000000000000000000000000000TL
+#07901:00
+#07901:00
+#07901:00
+#07901:000000000000000000TL000000000000
+#07911:0000B80000TI0000
+#07912:0000B600TK00B9BA0000BC000000TI00
+#07913:B5TVR50000QPR500
+#07914:TH00R600MK00TH00000000TT00BFBG00
+#07915:R4QU0000TIR6TK00
+#07918:QP0000000000R600R80000BDBE00R600
+#07919:000000B700000000BB000000MK000000
+
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:000000000000000000000000000000TL
+#08001:000000000000000000TL000000000000
+#08011:BH000000BK000000TI0000BP0000R600
+#08012:TV00BIBJ0000TH000000TI00R5000000
+#08013:R3TI0000R7BOBQTI
+#08014:00000000R5000000000000TT00BR0000
+#08015:QP0000TT0000BL000000R600TK00BS00
+#08018:ML00R400MK0000BMBN00QP00MK000000
+#08019:0000TKR600000000
+
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:000000000000000000000000000000TL
+#08101:00
+#08101:00
+#08101:000000000000000000TL000000000000
+#08111:000000BV0000THBY0000QPC100000000
+#08112:TH0000BX00TI00TI
+#08113:00TV00R6BZR600C4
+#08114:R400BU00TK000000000000TTC200R600
+#08115:00R6R500R800R500
+#08118:QPQUBW000000MK00
+#08119:BT000000MK000000TI00C000TKC30000
+
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00000000000000CG
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000TX000000000000000000000000
+#08201:00000000000000TZ
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000TX0000000000000000000000000000
+#08211:000000C7000000TT0000TI00TW00QU00
+#08212:C500000000000000C600000000000000C800000000000000R400000000000000MK00000000000000QP00000000000000R9000000000000000000000000U10000
+#08213:00000000000000000000000000000000QP00000000000000TI00000000000000TK0000000000000000000000TL00000000000000TX000000000000U000000000
+#08214:0000000000000000R4000000TT000000R3000000000000000000000000000000R500000000000000R600000000000000000000000000000000U0000000000000
+#08215:QP000000TI000000TV0000000000CA00000000000000CD0000TX0000RA000000
+#08218:R30000000000000000000000000000000000000000000000C90000000000000000000000000000000000000000000000CE00000000TY000000000000U0000000
+#08219:TV000000000000000000000000000000CB000000CC0000000000CF0000U00000
+
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00000000GM0000GQ
+#08311:CH0000THTKQP0000
+#08312:000000CJ0000R300R500CO00GP000000
+#08313:TH0000CLCNGN0000
+#08314:000000000000000000000000TH0000000000000000000000TH0000000000000000000000QW0000000000000000000000MK0000000000000000000000U2000000000000GO00000000000000000000000000000000000000000000000000000000
+#08315:R300000000000000R300000000000000R3000000000000000000000000000000000000000000000000U300000000000000000000000000000000000000000000
+#08318:0000CI00CK0000CM000000CP00000000
+#08319:QPQWQP0000RL0000
+
+#08402:0.25
+#08412:QP
+#08413:U4
+#08414:CQ
+#08418:RB
+
+#08502:0.125
+#08512:QU
+#08514:U5
+#08515:CR
+#08518:RC
+
+#08602:0.125
+#08611:CS
+#08614:U6
+
+#08702:0.125
+#08714:U7
+#08716:MK
+#08718:RD
+#08719:CT
+
+#08802:0.125
+#08812:QU
+#08814:U8
+
+#08902:0.125
+#08911:CU
+#08914:U9
+#08918:RE
+
+#09002:0.03125
+#09014:RF
+#09015:CV
+#09018:UA
+#09019:QP
+
+#09102:0.03125
+#09114:RG
+#09118:UB
+
+#09202:0.03125
+#09215:RG
+#09219:UB
+
+#09302:0.03125
+#09314:RG
+#09318:UB
+
+#09402:0.03125
+#09415:RG
+#09419:UB
+
+#09502:0.03125
+#09514:UB
+#09518:RG
+
+#09602:0.03125
+#09615:UC
+#09619:RG
+
+#09702:0.03125
+#09718:RG
+
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:000000000000000000TT000000TL0000
+#09801:00
+#09801:00
+#09801:00000000000000TL0000000000000000
+#09801:00
+#09801:00
+#09801:XH
+#09801:00
+#09801:YR
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:XZ
+#09811:MLCY00D100D400D7
+#09812:TVR500R800R500R3
+#09813:R600000000D0000000D3000000000000
+#09814:QUTKTHTITITKTITV
+#09815:00CX000000000000D2000000D6000000
+#09818:00MKCZ00R6MKR600
+#09819:CW000000R6000000QP0000D50000QP00
+
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00TT00000000000000TT000000000000
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00000000000000TL0000000000000000
+#09901:00
+#09901:00
+#09901:00000000000000000000000000TL0000
+#09911:00R50000QPR500QP
+#09912:00MK00R700MK00R4
+#09913:00DA00DD00DG00DJ
+#09914:TITKTHTITITKTITH
+#09915:00D9000000DC000000DF00DH00000000
+#09918:R4R6R6R6
+#09919:D8DBDEDI
+
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00000000000000XI
+#10011:00000000R5000000DN00000000000000DQ00TT00000000RI0000UI00TK000000
+#10012:0000DM00R60000TL00000000RJRKR500
+#10013:00000000MK0000000000DO0000000000TI00000000UE0000UG000000DS000000
+#10014:TV000000TK000000TH000000TI0000000000DR0000RI0000000000RK00000000
+#10015:R600000000000000R600UDUF0000ML00
+#10018:DK00DL000000000000000000DP000000QP000000RH00RI0000RK0000Y0000000
+#10019:QU0000000000000000000000R800000000000000MK00000000UH0000MK000000
+
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00000000000000TL0000000000TL0000
+#10101:00
+#10101:0000QPQU
+#10101:0000000000DX00000000000000000000
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:TIUJ000000000000
+#10111:0000MKQUUJTKTIE4
+#10112:R600QP000000000000E000E200000000
+#10113:00TL0000DW00DY00R400R500R600UJ00
+#10114:QUDV0000DZE1E300
+#10115:00DU0000R500TI00000000000000R400
+#10118:DTR4000000000000
+#10119:0000TKR600MK00QP
+
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:0000QPQU
+#10201:00QU000000000000
+#10201:00
+#10201:000000TL000000TL0000000000TL0000
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:000000TI00000000
+#10211:MK0000QU00MK0000
+#10212:0000TI0000E9R600EB000000TI000000
+#10213:00E6R6000000EA00UJ0000EER6000000
+#10214:00E7E800R400EFR4
+#10215:TK00R50000TK00UJ
+#10218:R5000000TK00000000ECED000000EG00
+#10219:E500MK0000R500QP
+
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00QU00QUQPQUQP00
+#10301:00
+#10301:00
+#10301:000000TL000000TL0000000000000000
+#10311:MK000000000000R5
+#10312:TK00TI000000000000TL00TL0000TK00
+#10313:R5R6EKEMTITIUJ00
+#10314:00EI000000EL0000R400R400R4000000
+#10315:EHEJTKTIENEPER00
+#10318:00000000R500R60000EO00EQ0000ES00
+#10319:0000MK00000000MK
+
+#10401:00000000000000F1
+#10401:00
+#10401:00
+#10401:00
+#10401:QU00QUQP00000000
+#10401:00
+#10401:000000GM00000000
+#10401:00000000000000TL0000000000000000
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000GO00000000000000000000000000000000000000000000000000000000000000000000000000000000
+#10411:00UJ0000MKGP0000
+#10412:00TL00000000000000F000000000XT00
+#10413:R6EVTKTI00TK0000
+#10414:ET000000R6EXR400TK0000000000QT00
+#10415:TIR5EWEYEZ00GQ00
+#10418:00EU000000000000GN00MK000000R200
+#10419:00MK0000RM00UK00
+
+#10531:01
+#10532:01
+#10533:01
+#10534:01
+#10535:01
+#10538:01
+#10539:01
+
+

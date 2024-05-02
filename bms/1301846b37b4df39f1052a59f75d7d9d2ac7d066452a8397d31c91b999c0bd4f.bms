@@ -9,7 +9,7 @@
 #PLAYLEVEL 16
 #RANK 3
 
-#SUBTITLE [6K UE -5Â°C]
+#SUBTITLE [6K UE -5‹C]
 #SUBARTIST Movie : mi / obj : ClassICNooB
 #STAGEFILE _STAGEFILE.jpg
 #BANNER _BANNER.jpg
@@ -53,36 +53,36 @@
 #WAV0X fire 3.wav
 #WAV0Y dooooooooon.wav
 #WAV0Z fire 4.wav
-#WAV10 clap filter æœ€åˆ_000.wav
-#WAV11 clap filter æœ€åˆ_001.wav
-#WAV12 clap filter æœ€åˆ_002.wav
-#WAV13 clap filter æœ€åˆ_003.wav
-#WAV14 clap filter æœ€åˆ_004.wav
-#WAV15 clap filter æœ€åˆ_005.wav
-#WAV16 open filter æœ€åˆ_000.wav
-#WAV17 open filter æœ€åˆ_001.wav
-#WAV18 open filter æœ€åˆ_002.wav
-#WAV19 open filter æœ€åˆ_003.wav
-#WAV1A open filter æœ€åˆ_004.wav
-#WAV1B open filter æœ€åˆ_005.wav
-#WAV1C open filter æœ€åˆ_006.wav
-#WAV1D open filter æœ€åˆ_007.wav
-#WAV1E open filter æœ€åˆ_008.wav
-#WAV1F open filter æœ€åˆ_009.wav
-#WAV1G open filter æœ€åˆ_010.wav
-#WAV1H open filter æœ€åˆ_011.wav
-#WAV1I clap filter æœ€å¾Œ_000.wav
-#WAV1J clap filter æœ€å¾Œ_001.wav
-#WAV1K clap filter æœ€å¾Œ_002.wav
-#WAV1L clap filter æœ€å¾Œ_003.wav
-#WAV1M open filter æœ€å¾Œ_000.wav
-#WAV1N open filter æœ€å¾Œ_001.wav
-#WAV1O open filter æœ€å¾Œ_002.wav
-#WAV1P open filter æœ€å¾Œ_003.wav
-#WAV1Q open filter æœ€å¾Œ_004.wav
-#WAV1R open filter æœ€å¾Œ_005.wav
-#WAV1S open filter æœ€å¾Œ_006.wav
-#WAV1T open filter æœ€å¾Œ_007.wav
+#WAV10 clap filter Å‰_000.wav
+#WAV11 clap filter Å‰_001.wav
+#WAV12 clap filter Å‰_002.wav
+#WAV13 clap filter Å‰_003.wav
+#WAV14 clap filter Å‰_004.wav
+#WAV15 clap filter Å‰_005.wav
+#WAV16 open filter Å‰_000.wav
+#WAV17 open filter Å‰_001.wav
+#WAV18 open filter Å‰_002.wav
+#WAV19 open filter Å‰_003.wav
+#WAV1A open filter Å‰_004.wav
+#WAV1B open filter Å‰_005.wav
+#WAV1C open filter Å‰_006.wav
+#WAV1D open filter Å‰_007.wav
+#WAV1E open filter Å‰_008.wav
+#WAV1F open filter Å‰_009.wav
+#WAV1G open filter Å‰_010.wav
+#WAV1H open filter Å‰_011.wav
+#WAV1I clap filter ÅŒã_000.wav
+#WAV1J clap filter ÅŒã_001.wav
+#WAV1K clap filter ÅŒã_002.wav
+#WAV1L clap filter ÅŒã_003.wav
+#WAV1M open filter ÅŒã_000.wav
+#WAV1N open filter ÅŒã_001.wav
+#WAV1O open filter ÅŒã_002.wav
+#WAV1P open filter ÅŒã_003.wav
+#WAV1Q open filter ÅŒã_004.wav
+#WAV1R open filter ÅŒã_005.wav
+#WAV1S open filter ÅŒã_006.wav
+#WAV1T open filter ÅŒã_007.wav
 #WAV1U Tom 01.wav
 #WAV1V Tom 02.wav
 #WAV1W Tom 03.wav
@@ -117,14 +117,14 @@
 #WAV2P Tom 32.wav
 #WAV2Q ka L.wav
 #WAV2R ka R.wav
-#WAV2S Fill in æœ€åˆ_000.wav
-#WAV2T Fill in æœ€åˆ_001.wav
-#WAV2U Fill in æœ€åˆ_002.wav
-#WAV2V Fill in æœ€åˆ_003.wav
-#WAV2W Fill in æœ€åˆ_004.wav
-#WAV2X Fill in æœ€åˆ_005.wav
-#WAV2Y Fill in æœ€åˆ_006.wav
-#WAV2Z Fill in æœ€åˆ_007.wav
+#WAV2S Fill in Å‰_000.wav
+#WAV2T Fill in Å‰_001.wav
+#WAV2U Fill in Å‰_002.wav
+#WAV2V Fill in Å‰_003.wav
+#WAV2W Fill in Å‰_004.wav
+#WAV2X Fill in Å‰_005.wav
+#WAV2Y Fill in Å‰_006.wav
+#WAV2Z Fill in Å‰_007.wav
 #WAV30 snare roll_000.wav
 #WAV31 snare roll_001.wav
 #WAV32 snare roll_002.wav
@@ -142,37 +142,37 @@
 #WAV3E snare roll_014.wav
 #WAV3F snare roll_015.wav
 #WAV3G snare roll_016.wav
-#WAV3H kick filter æœ€å¾Œ_000.wav
-#WAV3I kick filter æœ€å¾Œ_001.wav
-#WAV3J kick filter æœ€å¾Œ_002.wav
-#WAV3K kick filter æœ€å¾Œ_003.wav
-#WAV3L kick filter æœ€å¾Œ_004.wav
-#WAV3M kick filter æœ€å¾Œ_005.wav
-#WAV3N kick filter æœ€å¾Œ_006.wav
-#WAV3O kick filter æœ€å¾Œ_007.wav
-#WAV3P kick filter æœ€å¾Œ_008.wav
-#WAV3Q kick filter æœ€å¾Œ_009.wav
-#WAV3R kick filter æœ€å¾Œ_010.wav
-#WAV3S kick filter æœ€å¾Œ_011.wav
-#WAV3T kick filter æœ€å¾Œ_012.wav
-#WAV3U kick filter æœ€å¾Œ_013.wav
-#WAV3V kick filter æœ€å¾Œ_014.wav
-#WAV3W kick filter æœ€å¾Œ_015.wav
-#WAV3X kick filter æœ€å¾Œ_016.wav
-#WAV3Y kick filter æœ€å¾Œ_017.wav
-#WAV3Z kick filter æœ€å¾Œ_018.wav
-#WAV40 kick filter æœ€å¾Œ_019.wav
-#WAV41 kick filter æœ€å¾Œ_020.wav
-#WAV42 kick filter æœ€å¾Œ_021.wav
-#WAV43 kick filter æœ€å¾Œ_022.wav
-#WAV44 kick filter æœ€å¾Œ_023.wav
-#WAV45 kick filter æœ€å¾Œ_024.wav
-#WAV46 kick filter æœ€å¾Œ_025.wav
-#WAV47 kick filter æœ€å¾Œ_026.wav
-#WAV48 kick filter æœ€å¾Œ_027.wav
-#WAV49 kick filter æœ€å¾Œ_028.wav
-#WAV4A kick filter æœ€å¾Œ_029.wav
-#WAV4B kick filter æœ€å¾Œ_030.wav
+#WAV3H kick filter ÅŒã_000.wav
+#WAV3I kick filter ÅŒã_001.wav
+#WAV3J kick filter ÅŒã_002.wav
+#WAV3K kick filter ÅŒã_003.wav
+#WAV3L kick filter ÅŒã_004.wav
+#WAV3M kick filter ÅŒã_005.wav
+#WAV3N kick filter ÅŒã_006.wav
+#WAV3O kick filter ÅŒã_007.wav
+#WAV3P kick filter ÅŒã_008.wav
+#WAV3Q kick filter ÅŒã_009.wav
+#WAV3R kick filter ÅŒã_010.wav
+#WAV3S kick filter ÅŒã_011.wav
+#WAV3T kick filter ÅŒã_012.wav
+#WAV3U kick filter ÅŒã_013.wav
+#WAV3V kick filter ÅŒã_014.wav
+#WAV3W kick filter ÅŒã_015.wav
+#WAV3X kick filter ÅŒã_016.wav
+#WAV3Y kick filter ÅŒã_017.wav
+#WAV3Z kick filter ÅŒã_018.wav
+#WAV40 kick filter ÅŒã_019.wav
+#WAV41 kick filter ÅŒã_020.wav
+#WAV42 kick filter ÅŒã_021.wav
+#WAV43 kick filter ÅŒã_022.wav
+#WAV44 kick filter ÅŒã_023.wav
+#WAV45 kick filter ÅŒã_024.wav
+#WAV46 kick filter ÅŒã_025.wav
+#WAV47 kick filter ÅŒã_026.wav
+#WAV48 kick filter ÅŒã_027.wav
+#WAV49 kick filter ÅŒã_028.wav
+#WAV4A kick filter ÅŒã_029.wav
+#WAV4B kick filter ÅŒã_030.wav
 #WAV4C loop150_000.wav
 #WAV4D loop150_001.wav
 #WAV4E loop150_002.wav
@@ -726,8 +726,8 @@
 #WAVJM b_Trump._v46l4o5e.wav
 #WAVJN b_Trump._v61l4o5f.wav
 #WAVJO b_Trump._v97l2o5gp.wav
-#WAVJP Trump.ãƒ‰.wav
-#WAVJQ Trump. ãƒ¬â™­.wav
+#WAVJP Trump.ƒh.wav
+#WAVJQ Trump. ƒŒó.wav
 #WAVJR b_Trump._v105l16o6dp.wav
 #WAVJS b_Trump._v107l16o6dp.wav
 #WAVJT b_Trump._v109l2o6dp.wav

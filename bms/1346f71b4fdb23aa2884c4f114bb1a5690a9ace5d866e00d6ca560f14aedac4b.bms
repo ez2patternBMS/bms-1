@@ -2,9 +2,9 @@
 *---------------------- HEADER FIELD
 
 #PLAYER 3
-#GENRE ゆめにっき (HYPER)
+#GENRE ��߂ɂ��� (HYPER)
 #TITLE subconsciousness
-#ARTIST guna with チーム・キュッキュ
+#ARTIST guna with �`�[���E�L���b�L��
 #BPM 136
 #PLAYLEVEL 20
 #RANK 2
@@ -214,11 +214,11 @@
 
 #DIFFICULTY 3
 #CHARFILE cc2_mado.chp
-#COMMENT "○月×日　ゆめのなかで　きょうも　おでかけ。"
+#COMMENT "�����~���@��߂̂Ȃ��Ł@���傤���@���ł����B"
 #SUBARTIST object by wosderge
 #BANNER yume_banner.bmp
 #BACKBMP yume_bg.png
-#TEXT01 "78.0MHz 「Win Press X」"
+#TEXT01 "78.0MHz �uWin Press X�v"
 
 
 

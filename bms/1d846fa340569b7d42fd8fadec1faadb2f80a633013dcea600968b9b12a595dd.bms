@@ -101,18 +101,18 @@
 #WAV2G HiString 5 1.wav
 #WAV2H HiString 3 1.wav
 #WAV2I HiString 1 5.wav
-#WAV2J HiString 5+Ë˜Åž 1.wav
-#WAV2K HiString 6Ë˜Åž 1.wav
-#WAV2L HiString 7Ë˜Åž 1.wav
+#WAV2J HiString 5+¢ª 1.wav
+#WAV2K HiString 6¢ª 1.wav
+#WAV2L HiString 7¢ª 1.wav
 #WAV2M HiString 2 2.wav
 #WAV2N HiString 1 2.wav
-#WAV2O HiString 7Ë˜Åž 2.wav
+#WAV2O HiString 7¢ª 2.wav
 #WAV2P HiString 3 5.wav
 #WAV2Q HiString 2 1.wav
 #WAV2R HiString 1 1.wav
-#WAV2S HiString 5Ë˜Åž 2.wav
-#WAV2T HiString 2Ë˜Åž 2.wav
-#WAV2U HiString 7Ë˜Åž 0.5.wav
+#WAV2S HiString 5¢ª 2.wav
+#WAV2T HiString 2¢ª 2.wav
+#WAV2U HiString 7¢ª 0.5.wav
 #WAV2V HiString 1 0.5.wav
 #WAV2W HiString 2 4.wav
 #WAV2X HiString 3 4.wav
@@ -120,18 +120,18 @@
 #WAV2Z LeadA 1'.wav
 #WAV30 LeadA 4.wav
 #WAV31 LeadA 1.wav
-#WAV32 LeadA 4Ë˜Åž.wav
+#WAV32 LeadA 4¢ª.wav
 #WAV33 LeadA 2'.wav
 #WAV34 LeadA 6.wav
 #WAV35 LeadA 3'.wav
 #WAV36 LeadA 7.wav
-#WAV37 LeadA 6Ë˜Åž.wav
+#WAV37 LeadA 6¢ª.wav
 #WAV38 LeadA 3.wav
 #WAV39 LeadA 5'.wav
 #WAV3A LeadA 4'.wav
-#WAV3B LeadA 2Ë˜Åž.wav
-#WAV3C LeadA 3Ë˜Åž.wav
-#WAV3D LeadA 5+Ë˜Åž.wav
+#WAV3B LeadA 2¢ª.wav
+#WAV3C LeadA 3¢ª.wav
+#WAV3D LeadA 5+¢ª.wav
 #WAV3E LeadA 5+.wav
 #WAV3F LeadA 7.wav
 #WAV3G LeadA 1''.wav
@@ -319,7 +319,7 @@
 #WAV8I BellA 7''.wav
 #WAV8J BellA 2'''.wav
 #WAV8K BellA 6''.wav
-#WAV8L BellB 6Ë˜Åž.wav
+#WAV8L BellB 6¢ª.wav
 #WAV8M BellB 1'.wav
 #WAV8N BellB 7.wav
 #WAV8O BellB 5.wav
@@ -527,8 +527,8 @@
 #WAVEA PianoA 4 1 ff.wav
 #WAVEB PianoA 2 1 ff.wav
 #WAVEC PianoA 1 1 ff.wav
-#WAVED PianoA 5Ë˜Åž 1 ff.wav
-#WAVEE PianoA 7Ë˜Åž 1 ff.wav
+#WAVED PianoA 5¢ª 1 ff.wav
+#WAVEE PianoA 7¢ª 1 ff.wav
 #WAVEF PianoA Chord 1.wav
 #WAVEG PianoA Chord 2.wav
 #WAVEH PianoA Chord 3.wav
@@ -608,19 +608,19 @@
 #WAVGJ PianoB 7' 1 f.wav
 #WAVGK PianoB 1'' 1 ff.wav
 #WAVGL PianoB 7 8 ff.wav
-#WAVGM PianoC 6Ë˜Åž 1.wav
-#WAVGN PianoC 7Ë˜Åž 1.wav
+#WAVGM PianoC 6¢ª 1.wav
+#WAVGN PianoC 7¢ª 1.wav
 #WAVGO PianoC 1 2.wav
 #WAVGP PianoC 3 6.wav
 #WAVGQ PianoC 1 6.wav
-#WAVGR PianoC 6Ë˜Åž 6.wav
+#WAVGR PianoC 6¢ª 6.wav
 #WAVGS PianoC 2 4.wav
-#WAVGT PianoC 5Ë˜Åž 4.wav
+#WAVGT PianoC 5¢ª 4.wav
 #WAVGU PianoC 1 4.wav
-#WAVGV PianoC 4Ë˜Åž 4.wav
-#WAVGW PianoC 7Ë˜Åž 4.wav
-#WAVGX PianoC 3Ë˜Åž 4.wav
-#WAVGY PianoC 1Ë˜Åž 4.wav
+#WAVGV PianoC 4¢ª 4.wav
+#WAVGW PianoC 7¢ª 4.wav
+#WAVGX PianoC 3¢ª 4.wav
+#WAVGY PianoC 1¢ª 4.wav
 #WAVGZ PianoC 1 1.wav
 #WAVH0 PianoC 5 1.wav
 #WAVH1 PianoC 2 1.wav
@@ -636,21 +636,21 @@
 #WAVHB PianoC 4' 1.wav
 #WAVHC PianoC 4 1.wav
 #WAVHD PianoC 3' 1.wav
-#WAVHE PianoC 6Ë˜ÅžË˜Åž 1.wav
-#WAVHF PianoC 7Ë˜ÅžË˜Åž 1.wav
-#WAVHG PianoC 1Ë˜Åž 1.wav
-#WAVHH PianoC 2Ë˜Åž 1.wav
+#WAVHE PianoC 6¢ª¢ª 1.wav
+#WAVHF PianoC 7¢ª¢ª 1.wav
+#WAVHG PianoC 1¢ª 1.wav
+#WAVHH PianoC 2¢ª 1.wav
 #WAVHI PianoC 1' 2.wav
 #WAVHJ PianoC 2 2.wav
-#WAVHK PianoC 7Ë˜Åž 2.wav
-#WAVHL PianoC 5Ë˜Åž 2.wav
-#WAVHM PianoC 4Ë˜Åž 6.wav
+#WAVHK PianoC 7¢ª 2.wav
+#WAVHL PianoC 5¢ª 2.wav
+#WAVHM PianoC 4¢ª 6.wav
 #WAVHN PianoC 2 6.wav
-#WAVHO PianoC 7Ë˜Åž 6.wav
-#WAVHP PianoC 6+Ë˜Åž 4.wav
-#WAVHQ PianoC 4Ë˜Åž 1.wav
-#WAVHR PianoC 3Ë˜Åž 1.wav
-#WAVHS PianoC 5Ë˜Åž 1.wav
+#WAVHO PianoC 7¢ª 6.wav
+#WAVHP PianoC 6+¢ª 4.wav
+#WAVHQ PianoC 4¢ª 1.wav
+#WAVHR PianoC 3¢ª 1.wav
+#WAVHS PianoC 5¢ª 1.wav
 #WAVZS MR 4.wav
 #WAVZT MR 3.wav
 #WAVZU MR 2.wav

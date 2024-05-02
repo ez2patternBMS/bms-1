@@ -1,0 +1,1808 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE UK HARDCORE
+#TITLE Beyond the Horizon[EX]
+#ARTIST 3R2 (object: blazar)/PMSobj:sugar
+#BPM 175
+#PLAYLEVEL 42
+#RANK 3
+#TOTAL 350
+#STAGEFILE stage.jpg
+
+#WAV02 Background Kala.wav
+#WAV03 Bell - Marker #1.wav
+#WAV04 Bell - Marker #2.wav
+#WAV05 Bell - Marker #3.wav
+#WAV06 Bell - Marker #4.wav
+#WAV07 Bell - Marker #5.wav
+#WAV08 Bell - Marker #6.wav
+#WAV09 Bell - Marker #7.wav
+#WAV0A Bell - Marker #8.wav
+#WAV0B Bell - Marker #9.wav
+#WAV0C Bell - Marker #10.wav
+#WAV0D Bell - Marker #11.wav
+#WAV0E Bell - Marker #12.wav
+#WAV0F Bell - Marker #13.wav
+#WAV0G Bell - Marker #14.wav
+#WAV0H Bell - Marker #15.wav
+#WAV0I Bell - Marker #16.wav
+#WAV0J Bell - Marker #17.wav
+#WAV0K Bell - Marker #18.wav
+#WAV0L Bell - Marker #19.wav
+#WAV0M Bell - Marker #20.wav
+#WAV0N Bell - Marker #21.wav
+#WAV0O Bell - Marker #22.wav
+#WAV0P Bell - Marker #23.wav
+#WAV0Q Bell - Marker #24.wav
+#WAV0R Bell - Marker #25.wav
+#WAV0S Bell - Marker #26.wav
+#WAV0T Bell - Marker #27.wav
+#WAV0U Bell - Marker #28.wav
+#WAV0V Bell - Marker #29.wav
+#WAV0W Bell - Marker #30.wav
+#WAV0X Bell - Marker #31.wav
+#WAV0Y Bell - Marker #32.wav
+#WAV0Z Bell - Marker #33.wav
+#WAV10 Bell - Marker #34.wav
+#WAV11 Bell - Marker #35.wav
+#WAV12 Bell - Marker #36.wav
+#WAV13 Bell - Marker #37.wav
+#WAV14 Bell - Marker #38.wav
+#WAV15 Bell - Marker #39.wav
+#WAV16 Bell - Marker #40.wav
+#WAV17 Bell - Marker #41.wav
+#WAV18 Bell 2 - Marker #1.wav
+#WAV19 Bell 2 - Marker #2.wav
+#WAV1A Bell 2 - Marker #3.wav
+#WAV1B Bell 2 - Marker #4.wav
+#WAV1C Bell 2 - Marker #5.wav
+#WAV1D Bell 2 - Marker #6.wav
+#WAV1E Bell 2 - Marker #7.wav
+#WAV1F Bell 2 - Marker #8.wav
+#WAV1G Bell 2 - Marker #9.wav
+#WAV1H Bell 2 - Marker #10.wav
+#WAV1I Bell 2 - Marker #11.wav
+#WAV1J Bell 2 - Marker #12.wav
+#WAV1K Bell 2 - Marker #13.wav
+#WAV1L Bell 2 - Marker #14.wav
+#WAV1M Bell 2 - Marker #15.wav
+#WAV1N Bell 2 - Marker #16.wav
+#WAV1O Bell 2 - Marker #17.wav
+#WAV1P Bell 2 - Marker #18.wav
+#WAV1Q Bell 2 - Marker #19.wav
+#WAV1R Bell 2 - Marker #20.wav
+#WAV1S Bell 2 - Marker #21.wav
+#WAV1T Bell 2 - Marker #22.wav
+#WAV1U Bell 2 - Marker #23.wav
+#WAV1V Bell 2 - Marker #24.wav
+#WAV1W Bell 2 - Marker #25.wav
+#WAV1X Bell 2 - Marker #26.wav
+#WAV1Y Bell 2 - Marker #27.wav
+#WAV1Z Bell 2 - Marker #28.wav
+#WAV20 Bell 2 - Marker #29.wav
+#WAV21 Bell 2 - Marker #30.wav
+#WAV22 Bell 2 - Marker #31.wav
+#WAV23 Bell 2 - Marker #32.wav
+#WAV24 Bell 2 - Marker #33.wav
+#WAV25 Bell 2 - Marker #34.wav
+#WAV26 Bell 2 - Marker #35.wav
+#WAV27 Bell 2 - Marker #36.wav
+#WAV28 Bell 2 - Marker #37.wav
+#WAV29 Bell 2 - Marker #38.wav
+#WAV2A Bell 2 - Marker #39.wav
+#WAV2B Bell 2 - Marker #40.wav
+#WAV2C Bell 2 - Marker #41.wav
+#WAV2D Bell 2 - Marker #42.wav
+#WAV2E Bell 2 - Marker #43.wav
+#WAV2F Bell 2 - Marker #44.wav
+#WAV2G Bell 3 - Marker #1.wav
+#WAV2H Bell 3 - Marker #2.wav
+#WAV2I Bell 3 - Marker #3.wav
+#WAV2J Bell 3 - Marker #4.wav
+#WAV2K Bell 3 - Marker #5.wav
+#WAV2L Drums - Clap.wav
+#WAV2M Drums - Cymbal.wav
+#WAV2N Drums - Cymbal Reverse.wav
+#WAV2O Drums - FX Kick 2.wav
+#WAV2P Drums - FX Kick.wav
+#WAV2Q Drums - Kick 16th.wav
+#WAV2R Drums - Kick.wav
+#WAV2S Drums - Open Hihats.wav
+#WAV2T Drums - Snare.wav
+#WAV2U Loop Fill - Marker #1.wav
+#WAV2V Loop Fill - Marker #2.wav
+#WAV2W Loop Fill - Marker #3.wav
+#WAV2X Loop Fill - Marker #4.wav
+#WAV2Y Loop Fill - Marker #5.wav
+#WAV2Z Loop Fill 2 - Marker #1.wav
+#WAV30 Loop Fill 2 - Marker #2.wav
+#WAV31 Loop Fill 2 - Marker #3.wav
+#WAV32 Loop Fill 2 - Marker #4.wav
+#WAV33 Loop Fill 2 - Marker #5.wav
+#WAV34 Loop Fill 2 - Marker #6.wav
+#WAV35 Loop Fill 2 - Marker #7.wav
+#WAV36 Loop Fill 2 - Marker #8.wav
+#WAV37 Loop Fill 2 - Marker #9.wav
+#WAV38 Loop Fill 3 - Marker #1.wav
+#WAV39 Loop Fill 3 - Marker #2.wav
+#WAV3A Loop Fill 3 - Marker #3.wav
+#WAV3B Loop Fill 3 - Marker #4.wav
+#WAV3C Loop Fill 3 - Marker #5.wav
+#WAV3D Piano - Marker #1.wav
+#WAV3E Piano - Marker #2.wav
+#WAV3F Piano - Marker #3.wav
+#WAV3G Piano - Marker #4.wav
+#WAV3H Piano - Marker #5.wav
+#WAV3I Piano - Marker #6.wav
+#WAV3J Piano - Marker #7.wav
+#WAV3K Piano - Marker #8.wav
+#WAV3L Piano - Marker #9.wav
+#WAV3M Piano - Marker #10.wav
+#WAV3N Piano - Marker #11.wav
+#WAV3O Piano - Marker #12.wav
+#WAV3P Piano - Marker #13.wav
+#WAV3Q Piano - Marker #14.wav
+#WAV3R Piano - Marker #15.wav
+#WAV3S Piano - Marker #16.wav
+#WAV3T Piano - Marker #17.wav
+#WAV3U Piano - Marker #18.wav
+#WAV3V Piano - Marker #19.wav
+#WAV3W Piano - Marker #20.wav
+#WAV3X Piano - Marker #21.wav
+#WAV3Y Piano - Marker #22.wav
+#WAV3Z Piano - Marker #23.wav
+#WAV40 Piano - Marker #24.wav
+#WAV41 Piano - Marker #25.wav
+#WAV42 Piano - Marker #26.wav
+#WAV43 Piano - Marker #27.wav
+#WAV44 Piano - Marker #28.wav
+#WAV45 Piano - Marker #29.wav
+#WAV46 Piano - Marker #30.wav
+#WAV47 Piano - Marker #31.wav
+#WAV48 Piano - Marker #32.wav
+#WAV49 Piano - Marker #33.wav
+#WAV4A Piano - Marker #34.wav
+#WAV4B Piano - Marker #35.wav
+#WAV4C Piano - Marker #36.wav
+#WAV4D Piano - Marker #37.wav
+#WAV4E Piano - Marker #38.wav
+#WAV4F Piano Riff - Marker #1.wav
+#WAV4G Piano Riff - Marker #2.wav
+#WAV4H Piano Riff - Marker #3.wav
+#WAV4I Piano Riff - Marker #4.wav
+#WAV4J Piano Riff - Marker #5.wav
+#WAV4K Piano Riff - Marker #6.wav
+#WAV4L Piano Riff - Marker #7.wav
+#WAV4M Piano Riff - Marker #8.wav
+#WAV4N Piano Riff - Marker #9.wav
+#WAV4O Piano Riff - Marker #10.wav
+#WAV4P Piano Riff - Marker #11.wav
+#WAV4Q Piano Riff - Marker #12.wav
+#WAV4R Piano Riff - Marker #13.wav
+#WAV4S Piano Riff - Marker #14.wav
+#WAV4T Piano Riff - Marker #15.wav
+#WAV4U Piano Riff - Marker #16.wav
+#WAV4V Piano Riff - Marker #17.wav
+#WAV4W Piano Riff - Marker #18.wav
+#WAV4X Piano Riff - Marker #19.wav
+#WAV4Y Piano Riff - Marker #20.wav
+#WAV4Z Piano Riff - Marker #21.wav
+#WAV50 Piano Riff - Marker #22.wav
+#WAV51 Piano Riff - Marker #23.wav
+#WAV52 Piano Riff - Marker #24.wav
+#WAV53 Piano Riff - Marker #25.wav
+#WAV54 Piano Riff - Marker #26.wav
+#WAV55 Piano Riff - Marker #27.wav
+#WAV56 Piano Riff - Marker #28.wav
+#WAV57 Piano Riff - Marker #29.wav
+#WAV58 Piano Riff - Marker #30.wav
+#WAV59 Piano Riff - Marker #31.wav
+#WAV5A Piano Riff - Marker #32.wav
+#WAV5B Piano Riff - Marker #33.wav
+#WAV5C Piano Riff - Marker #34.wav
+#WAV5D Piano Riff - Marker #35.wav
+#WAV5E Piano Riff - Marker #36.wav
+#WAV5F Piano Riff - Marker #37.wav
+#WAV5G Piano Riff - Marker #38.wav
+#WAV5H Piano Riff - Marker #39.wav
+#WAV5I Piano Riff - Marker #40.wav
+#WAV5J Piano Riff - Marker #41.wav
+#WAV5K Piano Riff - Marker #42.wav
+#WAV5L Piano Riff - Marker #43.wav
+#WAV5M Piano Riff - Marker #44.wav
+#WAV5N Piano Riff - Marker #45.wav
+#WAV5O Piano Riff - Marker #46.wav
+#WAV5P Piano Riff - Marker #47.wav
+#WAV5Q Piano Riff - Marker #48.wav
+#WAV5R Piano Riff - Marker #49.wav
+#WAV5S Piano Riff - Marker #50.wav
+#WAV5T Piano Riff - Marker #51.wav
+#WAV5U Piano Riff - Marker #52.wav
+#WAV5V Piano Riff - Marker #53.wav
+#WAV5W Piano Riff - Marker #54.wav
+#WAV5X Piano Riff - Marker #55.wav
+#WAV5Y Piano Riff - Marker #56.wav
+#WAV5Z Piano Riff - Marker #57.wav
+#WAV60 Piano Riff - Marker #58.wav
+#WAV61 Piano Riff - Marker #59.wav
+#WAV62 Piano Riff - Marker #60.wav
+#WAV63 Piano Riff - Marker #61.wav
+#WAV64 Piano Riff - Marker #62.wav
+#WAV65 Piano Riff - Marker #63.wav
+#WAV66 Piano Riff - Marker #64.wav
+#WAV67 Piano Riff - Marker #65.wav
+#WAV68 Piano Riff - Marker #66.wav
+#WAV69 Piano Riff - Marker #67.wav
+#WAV6A Piano Riff - Marker #68.wav
+#WAV6B Piano Riff - Marker #69.wav
+#WAV6C Piano Riff - Marker #70.wav
+#WAV6D Piano Riff - Marker #71.wav
+#WAV6E Piano Riff - Marker #72.wav
+#WAV6F Piano Riff - Marker #73.wav
+#WAV6G Piano Riff - Marker #74.wav
+#WAV6H Piano Riff - Marker #75.wav
+#WAV6I Piano Riff - Marker #76.wav
+#WAV6J Piano Riff - Marker #77.wav
+#WAV6K Piano Riff - Marker #78.wav
+#WAV6L Piano Riff - Marker #79.wav
+#WAV6M Piano Riff - Marker #80.wav
+#WAV6N Piano Riff - Marker #81.wav
+#WAV6O Piano Riff - Marker #82.wav
+#WAV6P Piano Riff - Marker #83.wav
+#WAV6Q Piano Riff - Marker #84.wav
+#WAV6R Piano Riff - Marker #85.wav
+#WAV6S Piano Riff - Marker #86.wav
+#WAV6T Piano Riff - Marker #87.wav
+#WAV6U Piano Riff - Marker #88.wav
+#WAV6V Piano Riff - Marker #89.wav
+#WAV6W Piano Riff - Marker #90.wav
+#WAV6X Piano Riff - Marker #91.wav
+#WAV6Y Piano Riff - Marker #92.wav
+#WAV6Z Piano Riff - Marker #93.wav
+#WAV70 Piano Riff - Marker #94.wav
+#WAV71 Piano Riff - Marker #95.wav
+#WAV72 Piano Riff - Marker #96.wav
+#WAV73 Piano Riff - Marker #97.wav
+#WAV74 Piano Riff - Marker #98.wav
+#WAV75 Piano Riff - Marker #99.wav
+#WAV76 Piano Riff - Marker #100.wav
+#WAV77 Piano Riff - Marker #101.wav
+#WAV78 Piano Riff - Marker #102.wav
+#WAV79 Piano Riff - Marker #103.wav
+#WAV7A Piano Riff - Marker #104.wav
+#WAV7B Piano Riff - Marker #105.wav
+#WAV7C Piano Riff - Marker #106.wav
+#WAV7D Piano Riff - Marker #107.wav
+#WAV7E Piano Riff - Marker #108.wav
+#WAV7F Piano Riff - Marker #109.wav
+#WAV7G Piano Riff - Marker #110.wav
+#WAV7H Piano Riff - Marker #111.wav
+#WAV7I Piano Riff - Marker #112.wav
+#WAV7J Piano Riff - Marker #113.wav
+#WAV7K Piano Riff - Marker #114.wav
+#WAV7L Piano Riff - Marker #115.wav
+#WAV7M Piano Riff - Marker #116.wav
+#WAV7N Piano Riff - Marker #117.wav
+#WAV7O Piano Riff - Marker #118.wav
+#WAV7P Piano Riff - Marker #119.wav
+#WAV7Q Piano Riff - Marker #120.wav
+#WAV7R Piano Riff - Marker #121.wav
+#WAV7S Piano Riff - Marker #122.wav
+#WAV7T Piano Riff - Marker #123.wav
+#WAV7U Piano Riff - Marker #124.wav
+#WAV7V Piano Riff - Marker #125.wav
+#WAV7W Piano Riff - Marker #126.wav
+#WAV7X Piano Riff - Marker #127.wav
+#WAV7Y Piano Riff - Marker #128.wav
+#WAV7Z Piano Riff - Marker #129.wav
+#WAV80 Piano Riff - Marker #130.wav
+#WAV81 Piano Riff - Marker #131.wav
+#WAV82 Piano Riff - Marker #132.wav
+#WAV83 Piano Riff - Marker #133.wav
+#WAV84 Piano Riff - Marker #134.wav
+#WAV85 Piano Riff - Marker #135.wav
+#WAV86 Piano Riff - Marker #136.wav
+#WAV87 Piano Riff - Marker #137.wav
+#WAV88 Piano Riff - Marker #138.wav
+#WAV89 Piano Riff - Marker #139.wav
+#WAV8A Piano Riff - Marker #140.wav
+#WAV8B Piano Riff - Marker #141.wav
+#WAV8C Piano Riff - Marker #142.wav
+#WAV8D Piano Riff - Marker #143.wav
+#WAV8E Piano Riff - Marker #144.wav
+#WAV8F Piano Riff - Marker #145.wav
+#WAV8G Piano Riff - Marker #146.wav
+#WAV8H Piano Riff - Marker #147.wav
+#WAV8I Piano Riff - Marker #148.wav
+#WAV8J Saw Lead - Marker #1.wav
+#WAV8K Saw Lead - Marker #2.wav
+#WAV8L Saw Lead - Marker #3.wav
+#WAV8M Saw Lead - Marker #4.wav
+#WAV8N Saw Lead - Marker #5.wav
+#WAV8O Saw Lead - Marker #6.wav
+#WAV8P Saw Lead - Marker #7.wav
+#WAV8Q Saw Lead - Marker #8.wav
+#WAV8R Saw Lead - Marker #9.wav
+#WAV8S Saw Lead - Marker #10.wav
+#WAV8T Saw Lead - Marker #11.wav
+#WAV8U Saw Lead - Marker #12.wav
+#WAV8V Saw Lead - Marker #13.wav
+#WAV8W Saw Lead - Marker #14.wav
+#WAV8X Saw Lead - Marker #15.wav
+#WAV8Y Saw Lead - Marker #16.wav
+#WAV8Z Saw Lead - Marker #17.wav
+#WAV90 Saw Lead - Marker #18.wav
+#WAV91 Saw Lead - Marker #19.wav
+#WAV92 Saw Lead - Marker #20.wav
+#WAV93 Saw Lead - Marker #21.wav
+#WAV94 Saw Lead - Marker #22.wav
+#WAV95 Saw Lead - Marker #23.wav
+#WAV96 Saw Lead - Marker #24.wav
+#WAV97 Saw Lead - Marker #25.wav
+#WAV98 Saw Lead - Marker #26.wav
+#WAV99 Saw Lead - Marker #27.wav
+#WAV9A Saw Lead - Marker #28.wav
+#WAV9B Saw Lead - Marker #29.wav
+#WAV9C Saw Lead - Marker #30.wav
+#WAV9D Saw Lead - Marker #31.wav
+#WAV9E Saw Lead - Marker #32.wav
+#WAV9F Saw Lead - Marker #33.wav
+#WAV9G Saw Lead - Marker #34.wav
+#WAV9H Saw Lead - Marker #35.wav
+#WAV9I Saw Lead - Marker #36.wav
+#WAV9J Saw Lead - Marker #37.wav
+#WAV9K Saw Lead - Marker #38.wav
+#WAV9L Saw Lead - Marker #39.wav
+#WAV9M Saw Lead - Marker #40.wav
+#WAV9N Saw Lead - Marker #41.wav
+#WAV9O Saw Lead - Marker #42.wav
+#WAV9P Saw Lead - Marker #43.wav
+#WAV9Q Saw Lead - Marker #44.wav
+#WAV9R Saw Lead - Marker #45.wav
+#WAV9S Saw Lead - Marker #46.wav
+#WAV9T Saw Lead - Marker #47.wav
+#WAV9U Saw Lead - Marker #48.wav
+#WAV9V Saw Lead - Marker #49.wav
+#WAV9W Saw Lead - Marker #50.wav
+#WAV9X Saw Lead - Marker #51.wav
+#WAV9Y Saw Lead - Marker #52.wav
+#WAV9Z Saw Lead - Marker #53.wav
+#WAVA0 Saw Lead - Marker #54.wav
+#WAVA1 Saw Lead - Marker #55.wav
+#WAVA2 Saw Lead - Marker #56.wav
+#WAVA3 Saw Lead - Marker #57.wav
+#WAVA4 Saw Lead - Marker #58.wav
+#WAVA5 Saw Lead - Marker #59.wav
+#WAVA6 Saw Lead - Marker #60.wav
+#WAVA7 Saw Lead - Marker #61.wav
+#WAVA8 Saw Lead - Marker #62.wav
+#WAVA9 Saw Lead - Marker #63.wav
+#WAVAA Saw Lead - Marker #64.wav
+#WAVAB Saw Lead - Marker #65.wav
+#WAVAC Saw Lead - Marker #66.wav
+#WAVAD Saw Lead - Marker #67.wav
+#WAVAE Saw Lead - Marker #68.wav
+#WAVAF Saw Lead - Marker #69.wav
+#WAVAG Saw Lead - Marker #70.wav
+#WAVAH Saw Lead - Marker #71.wav
+#WAVAI Saw Lead - Marker #72.wav
+#WAVAJ Saw Lead - Marker #73.wav
+#WAVAK Saw Lead - Marker #74.wav
+#WAVAL Saw Lead - Marker #75.wav
+#WAVAM Saw Lead - Marker #76.wav
+#WAVAN Saw Lead - Marker #77.wav
+#WAVAO Saw Lead - Marker #78.wav
+#WAVAP Saw Lead - Marker #79.wav
+#WAVAQ Saw Lead - Marker #80.wav
+#WAVAR Saw Lead - Marker #81.wav
+#WAVAS Saw Lead - Marker #82.wav
+#WAVAT Saw Lead - Marker #83.wav
+#WAVAU Saw Lead - Marker #84.wav
+#WAVAV Saw Lead - Marker #85.wav
+#WAVAW Saw Lead - Marker #86.wav
+#WAVAX Saw Lead - Marker #87.wav
+#WAVAY Saw Lead - Marker #88.wav
+#WAVAZ Saw Lead - Marker #89.wav
+#WAVB0 Saw Lead - Marker #90.wav
+#WAVB1 Saw Lead - Marker #91.wav
+#WAVB2 Saw Lead - Marker #92.wav
+#WAVB3 Saw Lead - Marker #93.wav
+#WAVB4 Saw Lead - Marker #94.wav
+#WAVB5 Saw Lead - Marker #95.wav
+#WAVB6 Saw Lead - Marker #96.wav
+#WAVB7 Saw Lead - Marker #97.wav
+#WAVB8 Saw Lead - Marker #98.wav
+#WAVB9 Saw Lead - Marker #99.wav
+#WAVBA Saw Lead - Marker #100.wav
+#WAVBB Saw Lead - Marker #101.wav
+#WAVBC Saw Lead - Marker #102.wav
+#WAVBD Saw Lead - Marker #103.wav
+#WAVBE Saw Lead - Marker #104.wav
+#WAVBF Saw Lead - Marker #105.wav
+#WAVBG Saw Lead - Marker #106.wav
+#WAVBH Saw Lead - Marker #107.wav
+#WAVBI Saw Lead - Marker #108.wav
+#WAVBJ Saw Lead - Marker #109.wav
+#WAVBK Saw Lead - Marker #110.wav
+#WAVBL Saw Lead - Marker #111.wav
+#WAVBM Saw Lead - Marker #112.wav
+#WAVBN Saw Lead - Marker #113.wav
+#WAVBO Saw Lead - Marker #114.wav
+#WAVBP Saw Lead - Marker #115.wav
+#WAVBQ Saw Lead - Marker #116.wav
+#WAVBR Saw Lead - Marker #117.wav
+#WAVBS Saw Lead - Marker #118.wav
+#WAVBT Saw Lead - Marker #119.wav
+#WAVBU Saw Lead - Marker #120.wav
+#WAVBV Saw Lead - Marker #121.wav
+#WAVBW Saw Lead - Marker #122.wav
+#WAVBX Saw Lead - Marker #123.wav
+#WAVBY Saw Lead - Marker #124.wav
+#WAVBZ Saw Lead - Marker #125.wav
+#WAVC0 Saw Lead - Marker #126.wav
+#WAVC1 Saw Lead - Marker #127.wav
+#WAVC2 Saw Lead - Marker #128.wav
+#WAVC3 Saw Lead - Marker #129.wav
+#WAVC4 Saw Lead - Marker #130.wav
+#WAVC5 Saw Lead - Marker #131.wav
+#WAVC6 Saw Lead - Marker #132.wav
+#WAVC7 Saw Lead - Marker #133.wav
+#WAVC8 Saw Lead - Marker #134.wav
+#WAVC9 Saw Lead - Marker #135.wav
+#WAVCA Saw Lead - Marker #136.wav
+#WAVCB Saw Lead - Marker #137.wav
+#WAVCC Saw Lead - Marker #138.wav
+#WAVCD Saw Lead - Marker #139.wav
+#WAVCE Saw Lead - Marker #140.wav
+#WAVCF Saw Lead - Marker #141.wav
+#WAVCG Saw Lead - Marker #142.wav
+#WAVCH Saw Lead - Marker #143.wav
+#WAVCI Saw Lead - Marker #144.wav
+#WAVCJ Saw Lead - Marker #145.wav
+#WAVCK Saw Lead - Marker #146.wav
+#WAVCL Saw Lead - Marker #147.wav
+#WAVCM Saw Lead - Marker #148.wav
+#WAVCN Saw Lead - Marker #149.wav
+#WAVCO Saw Lead - Marker #166.wav
+#WAVCP Saw Lead - Marker #167.wav
+#WAVCQ Saw Lead - Marker #168.wav
+#WAVCR Saw Lead - Marker #169.wav
+#WAVCS Saw Lead - Marker #170.wav
+#WAVCT Saw Lead - Marker #171.wav
+#WAVCU Saw Lead - Marker #172.wav
+#WAVCV Saw Lead - Marker #173.wav
+#WAVCW Saw Lead - Marker #174.wav
+#WAVCX Saw Lead - Marker #175.wav
+#WAVCY Saw Lead - Marker #176.wav
+#WAVCZ Saw Lead - Marker #177.wav
+#WAVD0 Saw Lead - Marker #178.wav
+#WAVD1 Saw Lead - Marker #179.wav
+#WAVD2 Saw Lead - Marker #180.wav
+#WAVD3 Saw Lead - Marker #181.wav
+#WAVD4 Saw Lead - Marker #182.wav
+#WAVD5 Saw Lead - Marker #183.wav
+#WAVD6 Saw Lead - Marker #184.wav
+#WAVD7 Saw Lead - Marker #185.wav
+#WAVD8 Saw Lead - Marker #186.wav
+#WAVD9 Saw Lead - Marker #187.wav
+#WAVDA Saw Lead - Marker #188.wav
+#WAVDB Saw Lead - Marker #189.wav
+#WAVDC Saw Lead - Marker #190.wav
+#WAVDD Saw Lead - Marker #191.wav
+#WAVDE Saw Lead - Marker #192.wav
+#WAVDF Saw Lead - Marker #193.wav
+#WAVDG Saw Lead - Marker #194.wav
+#WAVDH Saw Lead - Marker #195.wav
+#WAVDI Saw Lead - Marker #196.wav
+#WAVDJ Saw Lead - Marker #197.wav
+#WAVDK Saw Lead - Marker #198.wav
+#WAVDL Saw Lead - Marker #199.wav
+#WAVDM Saw Lead - Marker #200.wav
+#WAVDN Saw Lead - Marker #201.wav
+#WAVDO Saw Lead - Marker #202.wav
+#WAVDP Saw Lead - Marker #203.wav
+#WAVDQ Saw Lead - Marker #204.wav
+#WAVDR Saw Lead - Marker #205.wav
+#WAVDS Saw Lead - Marker #206.wav
+#WAVDT Saw Lead - Marker #207.wav
+#WAVDU Saw Lead - Marker #208.wav
+#WAVDV Saw Lead - Marker #209.wav
+#WAVDW Saw Lead - Marker #210.wav
+#WAVDX Saw Lead - Marker #211.wav
+#WAVDY Saw Lead - Marker #212.wav
+#WAVDZ Saw Lead - Marker #213.wav
+#WAVE0 Saw Lead - Marker #214.wav
+#WAVE1 Saw Lead - Marker #215.wav
+#WAVE2 Saw Lead - Marker #216.wav
+#WAVE3 Saw Lead - Marker #217.wav
+#WAVE4 Saw Lead - Marker #218.wav
+#WAVE5 Saw Lead - Marker #219.wav
+#WAVE6 Saw Lead - Marker #220.wav
+#WAVE7 Saw Lead - Marker #221.wav
+#WAVE8 Saw Lead - Marker #222.wav
+#WAVE9 Saw Lead - Marker #223.wav
+#WAVEA Saw Lead - Marker #224.wav
+#WAVEB Saw Lead - Marker #225.wav
+#WAVEC Saw Lead - Marker #226.wav
+#WAVED Saw Lead - Marker #227.wav
+#WAVEE Saw Lead - Marker #228.wav
+#WAVEF Saw Lead - Marker #229.wav
+#WAVEG Saw Lead - Marker #230.wav
+#WAVEH Saw Lead - Marker #231.wav
+#WAVEI Saw Lead - Marker #232.wav
+#WAVEJ Saw Lead - Marker #233.wav
+#WAVEK Saw Lead - Marker #234.wav
+#WAVEL Saw Lead - Marker #235.wav
+#WAVEM Saw Lead - Marker #236.wav
+#WAVEN Saw Lead - Marker #237.wav
+#WAVEO Saw Lead - Marker #238.wav
+#WAVEP Saw Lead - Marker #239.wav
+#WAVEQ Saw Lead - Marker #240.wav
+#WAVER Saw Lead - Marker #241.wav
+#WAVES Saw Lead - Marker #242.wav
+#WAVET Saw Lead - Marker #243.wav
+#WAVEU Saw Lead - Marker #244.wav
+#WAVEV Saw Lead - Marker #245.wav
+#WAVEW Saw Lead - Marker #246.wav
+#WAVEX Saw Lead - Marker #247.wav
+#WAVEY Saw Lead - Marker #248.wav
+#WAVEZ Saw Lead - Marker #249.wav
+#WAVF0 Saw Lead - Marker #250.wav
+#WAVF1 Saw Lead - Marker #251.wav
+#WAVF2 Saw Lead - Marker #252.wav
+#WAVF3 Saw Lead - Marker #253.wav
+#WAVF4 Saw Lead - Marker #254.wav
+#WAVF5 Saw Lead - Marker #255.wav
+#WAVF6 Saw Lead - Marker #256.wav
+#WAVF7 Saw Lead - Marker #257.wav
+#WAVF8 Saw Lead - Marker #258.wav
+#WAVF9 Saw Lead - Marker #259.wav
+#WAVFA Saw Lead - Marker #260.wav
+#WAVFB Saw Lead - Marker #261.wav
+#WAVFC Saw Lead - Marker #262.wav
+#WAVFD Saw Lead - Marker #263.wav
+#WAVFE Saw Lead - Marker #264.wav
+#WAVFF Saw Lead - Marker #265.wav
+#WAVFG Saw Lead - Marker #266.wav
+#WAVFH Saw Lead - Marker #267.wav
+#WAVFI Saw Lead - Marker #268.wav
+#WAVFJ Saw Lead - Marker #269.wav
+#WAVFK Saw Lead - Marker #270.wav
+#WAVFL Saw Lead - Marker #271.wav
+#WAVFM Saw Lead - Marker #272.wav
+#WAVFN Saw Lead - Marker #273.wav
+#WAVFO Saw Lead - Marker #274.wav
+#WAVFP Saw Lead - Marker #275.wav
+#WAVFQ Saw Lead - Marker #276.wav
+#WAVFR Saw Lead - Marker #277.wav
+#WAVFS Saw Lead - Marker #278.wav
+#WAVFT Saw Lead - Marker #279.wav
+#WAVFU Saw Lead - Marker #280.wav
+#WAVFV Saw Lead - Marker #281.wav
+#WAVFW Saw Lead - Marker #282.wav
+#WAVFX Saw Lead - Marker #283.wav
+#WAVFY Saw Lead - Marker #284.wav
+#WAVFZ Saw Lead - Marker #285.wav
+#WAVG0 Saw Lead - Marker #286.wav
+#WAVG1 Saw Lead - Marker #287.wav
+#WAVG2 Saw Lead - Marker #288.wav
+#WAVG3 Saw Lead - Marker #289.wav
+#WAVG4 Saw Lead - Marker #290.wav
+#WAVG5 Saw Lead - Marker #291.wav
+#WAVG6 Saw Lead - Marker #292.wav
+#WAVG7 Saw Lead - Marker #293.wav
+#WAVG8 Saw Lead - Marker #294.wav
+#WAVG9 Saw Lead - Marker #295.wav
+#WAVGA Saw Lead - Marker #296.wav
+#WAVGB Saw Lead - Marker #297.wav
+#WAVGC Saw Lead - Marker #298.wav
+#WAVGD Saw Lead - Marker #299.wav
+#WAVGE Saw Lead - Marker #300.wav
+#WAVGF Saw Lead - Marker #301.wav
+#WAVGG Saw Lead - Marker #302.wav
+#WAVGH Saw Lead - Marker #303.wav
+#WAVGI Saw Lead - Marker #304.wav
+#WAVGJ Saw Lead - Marker #305.wav
+#WAVGK Saw Lead - Marker #306.wav
+#WAVGL Saw Lead - Marker #307.wav
+#WAVGM Saw Lead - Marker #308.wav
+#WAVGN Saw Lead - Marker #309.wav
+#WAVGO Saw Lead - Marker #310.wav
+#WAVGP Saw Lead - Marker #311.wav
+#WAVGQ Saw Lead - Marker #312.wav
+#WAVGR Saw Lead - Marker #313.wav
+#WAVGS Saw Lead - Marker #314.wav
+#WAVGT Saw Lead - Marker #316.wav
+#WAVGU Saw Lead - Marker #317.wav
+#WAVGV Saw Lead - Marker #318.wav
+#WAVGW Saw Lead - Marker #319.wav
+#WAVGX Saw Lead - Marker #320.wav
+#WAVGY Saw Lead - Marker #321.wav
+#WAVGZ Saw Lead - Marker #322.wav
+#WAVH0 Saw Lead - Marker #323.wav
+#WAVH1 Saw Lead - Marker #324.wav
+#WAVH2 Saw Lead - Marker #325.wav
+#WAVH3 Saw Lead - Marker #326.wav
+#WAVH4 Saw Lead - Marker #327.wav
+#WAVH5 Saw Lead - Marker #328.wav
+#WAVH6 Saw Lead - Marker #329.wav
+#WAVH7 Saw Lead - Marker #330.wav
+#WAVH8 Saw Lead - Marker #331.wav
+#WAVH9 Saw Lead - Marker #332.wav
+#WAVHA Saw Lead - Marker #333.wav
+#WAVHB Saw Lead - Marker #334.wav
+#WAVHC Saw Lead - Marker #335.wav
+#WAVHD Saw Lead - Marker #336.wav
+#WAVHE Saw Lead - Marker #337.wav
+#WAVHF Saw Lead - Marker #338.wav
+#WAVHG Saw Lead - Marker #339.wav
+#WAVHH Saw Lead - Marker #340.wav
+#WAVHI Saw Lead - Marker #341.wav
+#WAVHJ Saw Lead - Marker #342.wav
+#WAVHK Saw Lead - Marker #343.wav
+#WAVHL Saw Lead - Marker #344.wav
+#WAVHM Saw Lead - Marker #345.wav
+#WAVHN Saw Lead - Marker #346.wav
+#WAVHO Saw Lead - Marker #347.wav
+#WAVHP Saw Lead - Marker #348.wav
+#WAVHQ Saw Lead - Marker #349.wav
+#WAVHR Saw Lead - Marker #350.wav
+#WAVHS Saw Lead - Marker #351.wav
+#WAVHT Saw Lead - Marker #352.wav
+#WAVHU Saw Lead - Marker #353.wav
+#WAVHV Saw Lead - Marker #354.wav
+#WAVHW Saw Lead - Marker #355.wav
+#WAVHX Saw Lead - Marker #356.wav
+#WAVHY Saw Lead - Marker #357.wav
+#WAVHZ Saw Lead - Marker #358.wav
+#WAVI0 Saw Lead - Marker #359.wav
+#WAVI1 Saw Lead - Marker #360.wav
+#WAVI2 Saw Lead - Marker #361.wav
+#WAVI3 Saw Lead - Marker #362.wav
+#WAVI4 Saw Lead - Marker #363.wav
+#WAVI5 Saw Lead - Marker #364.wav
+#WAVI6 Saw Lead - Marker #365.wav
+#WAVI7 Saw Lead - Marker #366.wav
+#WAVI8 Saw Lead - Marker #367.wav
+#WAVI9 Saw Lead - Marker #368.wav
+#WAVIA Saw Lead - Marker #369.wav
+#WAVIB Saw Lead - Marker #370.wav
+#WAVIC Saw Lead - Marker #371.wav
+#WAVID Saw Lead - Marker #372.wav
+#WAVIE Saw Lead - Marker #373.wav
+#WAVIF Saw Lead - Marker #374.wav
+#WAVIG Saw Lead - Marker #375.wav
+#WAVIH Saw Lead - Marker #376.wav
+#WAVII Saw Lead - Marker #377.wav
+#WAVIJ Saw Lead - Marker #378.wav
+#WAVIK Saw Lead - Marker #379.wav
+#WAVIL Saw Lead - Marker #380.wav
+#WAVIM Saw Lead - Marker #381.wav
+#WAVIN Saw Lead - Marker #382.wav
+#WAVIO Saw Lead - Marker #383.wav
+#WAVIP Saw Lead - Marker #384.wav
+#WAVIQ Saw Lead - Marker #385.wav
+#WAVIR Saw Lead - Marker #386.wav
+#WAVIS Saw Lead - Marker #387.wav
+#WAVIT Saw Lead - Marker #388.wav
+#WAVIU Saw Lead - Marker #389.wav
+#WAVIV Saw Lead - Marker #390.wav
+#WAVIW Saw Lead - Marker #391.wav
+#WAVIX Saw Lead - Marker #392.wav
+#WAVIY Saw Lead - Marker #393.wav
+#WAVIZ Saw Lead - Marker #394.wav
+#WAVJ0 Saw Lead - Marker #395.wav
+#WAVJ1 Saw Lead - Marker #396.wav
+#WAVJ2 Saw Lead - Marker #397.wav
+#WAVJ3 Saw Lead - Marker #398.wav
+#WAVJ4 Saw Lead - Marker #399.wav
+#WAVJ5 Saw Lead - Marker #400.wav
+#WAVJ6 Saw Lead - Marker #401.wav
+#WAVJ7 Saw Lead - Marker #402.wav
+#WAVJ8 Saw Lead - Marker #403.wav
+#WAVJ9 Saw Lead - Marker #404.wav
+#WAVJA Saw Lead - Marker #405.wav
+#WAVJB Saw Lead - Marker #406.wav
+#WAVJC Saw Lead - Marker #407.wav
+#WAVJD Saw Lead - Marker #408.wav
+#WAVJE Saw Lead - Marker #409.wav
+#WAVJF Saw Lead - Marker #410.wav
+#WAVJG Saw Lead - Marker #411.wav
+#WAVJH Saw Lead - Marker #412.wav
+#WAVJI Saw Lead - Marker #413.wav
+#WAVJJ Saw Lead - Marker #414.wav
+#WAVJK Saw Lead - Marker #415.wav
+#WAVJL Saw Lead - Marker #416.wav
+#WAVJM Saw Lead - Marker #417.wav
+#WAVJN Saw Lead - Marker #418.wav
+#WAVJO Saw Lead - Marker #419.wav
+#WAVJP Saw Lead - Marker #420.wav
+#WAVJQ Saw Lead - Marker #421.wav
+#WAVJR Saw Lead - Marker #422.wav
+#WAVJS Saw Lead - Marker #423.wav
+#WAVJT Saw Lead - Marker #424.wav
+#WAVJU Saw Lead - Marker #425.wav
+#WAVJV Saw Lead - Marker #426.wav
+#WAVJW Saw Lead - Marker #427.wav
+#WAVJX Saw Lead - Marker #428.wav
+#WAVJY Saw Lead - Marker #429.wav
+#WAVJZ Saw Lead - Marker #430.wav
+#WAVK0 Saw Lead - Marker #431.wav
+#WAVK1 Saw Lead - Marker #432.wav
+#WAVK2 Saw Lead - Marker #433.wav
+#WAVK3 Saw Lead - Marker #434.wav
+#WAVK4 Saw Lead - Marker #435.wav
+#WAVK5 Saw Lead - Marker #436.wav
+#WAVK6 Saw Lead - Marker #437.wav
+#WAVK7 Saw Lead - Marker #438.wav
+#WAVK8 Saw Lead - Marker #439.wav
+#WAVK9 Saw Lead - Marker #440.wav
+#WAVKA Saw Lead - Marker #441.wav
+#WAVKB Saw Lead - Marker #442.wav
+#WAVKC Saw Lead - Marker #443.wav
+#WAVKD Saw Lead - Marker #444.wav
+#WAVKE Saw Lead - Marker #445.wav
+#WAVKF Saw Lead - Marker #446.wav
+#WAVKG Saw Lead - Marker #447.wav
+#WAVKH Saw Lead - Marker #448.wav
+#WAVKI Saw Lead - Marker #449.wav
+#WAVKJ Saw Lead - Marker #450.wav
+#WAVKK Saw Lead - Marker #451.wav
+#WAVKL Saw Lead - Marker #452.wav
+#WAVKM Saw Lead - Marker #453.wav
+#WAVKN Saw Lead - Marker #454.wav
+#WAVKO Saw Lead - Marker #455.wav
+#WAVKP Saw Lead - Marker #456.wav
+#WAVKQ Saw Lead - Marker #457.wav
+#WAVKR Saw Lead - Marker #458.wav
+#WAVKS Saw Lead - Marker #459.wav
+#WAVKT Saw Lead - Marker #460.wav
+#WAVKU Saw Lead - Marker #461.wav
+#WAVKV Saw Lead - Marker #462.wav
+#WAVKW Saw Lead - Marker #463.wav
+#WAVKX Saw Lead - Marker #464.wav
+#WAVKY Saw Lead - Marker #465.wav
+#WAVKZ Saw Lead - Marker #466.wav
+#WAVL0 Saw Lead - Marker #467.wav
+#WAVL1 Saw Lead - Marker #468.wav
+#WAVL2 Saw Lead - Marker #469.wav
+#WAVL3 Saw Lead - Marker #470.wav
+#WAVL4 Saw Lead - Marker #471.wav
+#WAVL5 Saw Lead - Marker #472.wav
+#WAVL6 Saw Lead - Marker #473.wav
+#WAVL7 Square Lead - Marker #1.wav
+#WAVL8 Square Lead - Marker #2.wav
+#WAVL9 Square Lead - Marker #3.wav
+#WAVLA Square Lead - Marker #4.wav
+#WAVLB Square Lead - Marker #5.wav
+#WAVLC Square Lead - Marker #6.wav
+#WAVLD Square Lead - Marker #7.wav
+#WAVLE Square Lead - Marker #8.wav
+#WAVLF Square Lead - Marker #9.wav
+#WAVLG Square Lead - Marker #10.wav
+#WAVLH Square Lead - Marker #11.wav
+#WAVLI Square Lead - Marker #12.wav
+#WAVLJ Square Lead - Marker #13.wav
+#WAVLK Square Lead - Marker #14.wav
+#WAVLL Square Lead - Marker #15.wav
+#WAVLM Square Lead - Marker #16.wav
+#WAVLN Square Lead - Marker #17.wav
+#WAVLO Square Lead - Marker #18.wav
+#WAVLP Square Lead - Marker #19.wav
+#WAVLQ Square Lead - Marker #20.wav
+#WAVLR Stabs - Marker #1.wav
+#WAVLS Stabs - Marker #2.wav
+#WAVLT Stabs - Marker #3.wav
+#WAVLU Stabs - Marker #4.wav
+#WAVLV Stabs - Marker #5.wav
+#WAVLW Stabs - Marker #6.wav
+#WAVLX Stabs - Marker #7.wav
+#WAVLY Stabs - Marker #8.wav
+#WAVLZ Stabs - Marker #9.wav
+#WAVM0 Stabs - Marker #10.wav
+#WAVM1 Stabs - Marker #11.wav
+#WAVM2 Stabs - Marker #12.wav
+#WAVM3 Stabs - Marker #13.wav
+#WAVM4 Stabs - Marker #14.wav
+#WAVM5 Stabs - Marker #15.wav
+#WAVM6 Stabs - Marker #16.wav
+#WAVM7 Stabs - Marker #17.wav
+#WAVM8 Stabs - Marker #18.wav
+#WAVM9 Stabs - Marker #19.wav
+#WAVMA Stabs - Marker #20.wav
+#WAVMB Stabs - Marker #21.wav
+#WAVMC Stabs - Marker #22.wav
+#WAVMD Stabs - Marker #23.wav
+#WAVME Stabs - Marker #24.wav
+#WAVMF Stabs - Marker #25.wav
+#WAVMG Stabs - Marker #26.wav
+#WAVMH Stabs - Marker #27.wav
+#WAVMI Stabs - Marker #28.wav
+#WAVMJ Stabs - Marker #29.wav
+#WAVMK Stabs - Marker #30.wav
+#WAVML Stabs - Marker #31.wav
+#WAVMM Stabs - Marker #32.wav
+#WAVMN Stabs - Marker #33.wav
+#WAVMO Stabs - Marker #34.wav
+#WAVMP Stabs - Marker #35.wav
+
+#BMP01 00BGA_HQ.mpg
+
+
+
+
+#DIFFICULTY 4
+#COMMENT "ëÂâFíàÇÃêÖïΩê¸ÇÃîﬁï˚Ç…å©Ç¶ÇÈÅAî˜Ç©Ç»åıÇñ⁄éwÇµÇƒ"
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00004:0000000000000001
+
+#00101:00
+#00101:02
+#00125:000000000000002N0000000000000000
+
+#00212:00000000003000320000003500000000
+#00215:2R00000033003637
+#00224:00002Z3100340000
+
+#00311:2R2R2R2R
+#00313:002L002L
+#00314:2M00000500000000
+#00323:00040000
+#00324:002S002S002S002S
+#00325:0003000000000000
+
+#00411:2R2R2R2R
+#00413:002L002L
+#00424:002S002S002S002S
+
+#00512:2R2R2R2R
+#00514:002L002L
+#00515:0000000500000000
+#00522:00040000
+#00523:0003000000000000
+#00525:002S002S002S002S
+
+#00612:2R2R2R2R
+#00613:000000LA
+#00614:002L0000
+#00615:0000000000L900LB
+#00622:000000L800000000
+#00623:0000002L
+#00624:00L7000000000000
+#00625:002S002S002S002S
+
+#00711:0000000500000000
+#00712:2R2R2R2R
+#00714:00040000
+#00715:0003000000000000
+#00722:002L002L
+#00724:002S002S002S002S
+
+#00812:2R2R2R2R
+#00814:002L002L
+#00824:002S002S002S002S
+
+#00911:2R2R2R2R
+#00912:002L002L
+#00913:0000000500000000
+#00915:00040000
+#00922:0003000000000000
+#00925:002S002S002S002S
+
+#01011:2R2R2R00
+#01012:002L0000
+#01015:0000002L
+#01025:002S002S00000000
+
+#01101:00
+#01101:00
+#01101:00
+#01101:2T2T2T2T
+#01111:2R2R2R2R
+#01112:000000LU
+#01113:00LR00LS00LT00LV
+#01114:0000002L
+#01115:2M00002S002S002S
+#01122:002L0000
+#01123:002S000500000000
+#01124:00040000
+#01125:0003000000000000
+
+#01201:00
+#01201:00
+#01201:00
+#01201:2T2T2T2T
+#01211:2R2R2R2R
+#01213:00000000000000M0
+#01214:00LW00LX00LY0000
+#01215:002L002L
+#01223:000000LZ
+#01224:002S002S002S002S
+
+#01301:00
+#01301:00
+#01301:00
+#01301:2T2T2T2T
+#01311:000000M4
+#01312:2R2R2R2R
+#01313:00M100M200M300M5
+#01314:002L0000
+#01315:0000002S00000000
+#01323:002S0005002S002S
+#01324:00040000
+#01325:0003000000002L00
+
+#01401:00
+#01401:00
+#01401:00
+#01401:2T2T2T2T
+#01412:2R2R2R2R
+#01413:00000000000000MA
+#01414:00M600M700002L00
+#01415:00002L0000M8LA00
+#01422:0000000000L900LB
+#01423:000000L80000M900
+#01424:002S002S002S002S
+#01425:00L7000000000000
+
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00LR00LS00LTLULV
+#01511:2T2T2T2T
+#01513:2R
+#01514:0000000500000000
+#01515:002S002S002S002S
+#01522:00040000
+#01523:2M2L002L
+#01524:0003000000000000
+#01525:002T002T002T002T
+
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00LR00LS00LTLULV
+#01611:2T0000000000002R
+#01612:002T002T002T0000
+#01613:2R
+#01614:002L002L
+#01615:002S002S002S002S
+#01624:2M
+#01625:002T2T2T
+
+#01701:00
+#01701:002L0000
+#01701:00000000002S002S
+#01701:002T2T00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00LR00LS00LTLULV
+#01711:2R2R2R2R00002L00
+#01712:0000000000000000002Q000000000000
+#01713:00002S0000002S000000002Q00000000
+#01714:000000000000050000000000002Q0000
+#01715:00000000000000002Q0000000000002Q
+#01722:00000400002Q0000
+#01723:2T00002Q
+#01724:000300000000002Q
+#01725:2M2M
+
+#01811:002Y
+#01813:0000002X00000000
+#01814:2M
+#01815:002W0000
+#01822:2R
+#01823:002V000000000000
+#01825:2U
+
+#01913:3D
+#01923:2P
+#01924:003E
+
+#02012:0000003I00000000
+#02014:003H0000
+#02015:3F
+#02022:003G0000000000LF
+#02023:000000LE
+#02024:0000000000LD0000
+#02025:00LC
+
+#02111:3J
+#02115:003K
+
+#02211:0000003O00000000
+#02213:003N0000
+#02215:003M000000000000
+#02222:3L000000000000LJ
+#02223:000000LI
+#02224:0000000000LH0000
+#02225:00LG
+
+#02311:3P
+#02324:003Q
+
+#02411:0000003T
+#02412:0000003S00000000
+#02415:3R
+
+#02511:0000000000LK0000
+#02512:3U000000000000LL
+#02522:00LJ
+#02523:000000LI00000000
+#02524:00LH0000
+#02525:00LG000000000000
+
+#02614:00LM00000000LP00
+#02615:0000000000LO00LQ
+#02622:000000LN00000000
+
+#02711:3D
+#02724:003E
+
+#02812:0000003I00000000
+#02813:003H0000
+#02814:3F
+#02818:003G000000000000
+#02822:00000000000000LF
+#02823:000000LE
+#02824:0000000000LD0000
+#02825:00LC
+
+#02911:3J
+#02915:003K
+
+#03012:0000003O00000000
+#03014:003N0000
+#03015:003M000000000000
+#03022:00000000000000LJ
+#03023:3L0000LI
+#03024:0000000000LH0000
+#03025:00LG
+
+#03111:47
+#03124:00000048
+
+#03211:00000000004B0000
+#03212:0000004C
+#03215:0000004A0000004D
+#03222:49
+
+#03311:0000000000LK0000
+#03312:00000000000000LL
+#03313:00LJ
+#03314:4E
+#03322:000000LI00000000
+#03324:00LH0000
+#03325:00LG000000000000
+
+#03413:000000LP
+#03414:00LM000000000000
+#03415:0000000000LO00LQ
+#03423:000000LN00000000
+
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:8J008K8L008M8N008O8P008Q8R8S8T8U
+#03511:2R2R2R2R
+#03525:2M
+
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:8V008W008X008Y8Z0090910092009300
+#03611:2R2R2R2R
+
+#03711:0000009C
+#03712:2R2R2R2R
+#03714:0000009600009800009A000000000000
+#03722:00009500009700009900009B00000000
+#03724:94
+#03725:000000000000009D
+
+#03812:2R2R2R2R
+#03813:0000009H00000000
+#03814:0000009L
+#03815:9E000000009K0000
+#03818:000000000000009M
+#03823:009G0000
+#03824:000000000000009I009J000000000000
+#03825:009F000000000000
+
+#03911:0000009P000000000000000000000000
+#03912:00000000009Q0000009T000000000000
+#03913:2R2R2R2R
+#03915:009O00009S000000
+#03918:00000000000000000000009U00000000
+#03923:0000009R00000000
+#03924:9N0000000000009W
+#03925:0000009V
+
+#04011:000000A4
+#04012:0000000000A300A5
+#04013:2R2R2R2R
+#04015:00009Y00000000A10000000000000000
+#04022:9X0000009Z00000000A2000000000000
+#04023:000000A000000000
+
+#04112:00000000000000000000AC0000AE0000
+#04114:2R2R2R2R
+#04115:00A7000000000000
+#04122:0000000000A90000000000000000AF00
+#04123:000000A800000000AB0000AD00000000
+#04124:000000AA00000000
+#04125:A6
+
+#04211:AGAI00AO
+#04212:00000000000000000000000000AP0000
+#04213:0000000000AM00AQ
+#04214:2R0000002R0000002R000000000000AR
+#04215:000000000000000000AL00AN00000000
+#04222:000000AJ00000000
+#04223:00AH0000AK000000
+
+#04301:00
+#04301:00
+#04301:00
+#04301:2T2T2T2T
+#04311:002L00B0
+#04312:000000AU0000000000AY000000B10000
+#04313:0000002L
+#04314:0000000000AV0000000000000000B200
+#04315:2R2R2R2R
+#04322:000000000000000000000000000000B3
+#04323:2MAX
+#04324:0000AT0000000000000000AZ00000000
+#04325:AS0000AW00000000
+
+#04401:00
+#04401:00
+#04401:00
+#04401:2T2T2T2T
+#04411:000000BB
+#04412:00002L00000000BC
+#04415:2R2R2R2R
+#04422:00B6002L
+#04423:B40000B700BA0000
+#04424:0000B500000000B800B9000000000000
+
+#04501:00
+#04501:00
+#04501:00
+#04501:2T2T2T2T
+#04511:000000BF000000000000000000000000
+#04512:0000000000BG0000BI0000BK00000000
+#04513:0000002L
+#04514:00BE000000000000
+#04515:2R2R2R2R
+#04523:00002L00000000BM
+#04524:BD0000BL
+#04525:000000000000BH0000BJ000000000000
+
+#04601:00
+#04601:00
+#04601:00
+#04601:2T2T2T2T
+#04612:BN0000BQ00000000
+#04613:002L0000
+#04614:000000BU
+#04615:2R2R2R2R
+#04622:0000BP0000BT00BV
+#04623:0000BO00000000BR00BS000000000000
+#04625:0000002L
+
+#04701:00
+#04701:00
+#04701:00
+#04701:2T2T2T2T
+#04711:000000000000000000C2000000000000
+#04712:2R2R2R2R
+#04713:000000BY00000000000000C300000000
+#04714:2M00000000BZ00000000000000000000
+#04715:002L0000
+#04722:00BX0000C10000C5
+#04723:0000002L
+#04724:002T002T002T002T
+#04725:BW0000C00000C400
+
+#04801:00
+#04801:00
+#04801:00
+#04801:2T2T2T2T
+#04811:2R2R2R2R
+#04812:000000002L0000000000CB0000CD0000
+#04813:2M00002L
+#04815:C6C80000
+#04822:00C700C9000000CE
+#04823:0000000000000000000000CC00000000
+#04824:00CA
+#04825:002T002T002T002T
+
+#04901:00
+#04901:00
+#04901:00
+#04901:2T2T2T2T
+#04911:2R2R2R2R
+#04912:002L002L
+#04913:002T002T002T002T
+#04914:00CG000000000000
+#04915:CF0000000000CI000000CK0000CM0000
+#04922:0000CH00000000CN
+#04923:2MCJ
+#04924:0000000000000000000000CL00000000
+#04925:002M
+
+#05011:2R
+#05012:0000002G00000000
+#05014:000000000000002K
+#05022:0000002J
+#05024:00000000002I0000
+#05025:002H
+
+#05101:00
+#05101:00
+#05101:002S002S0000002S
+#05111:2R2R2R2R
+#05112:002L002L
+#05113:000000000000000000CU000000000000
+#05114:0000000000CR000000000000CW000000
+#05115:000000CQ000000000000000000CX0000
+#05122:00000000CT0000CY
+#05123:2M0000000000CS00000000CV000000CZ
+#05124:00CP000000000000
+#05125:CO000000002S0000
+
+#05201:00
+#05201:00
+#05201:002S002S002S002S
+#05211:2R2R2R2R
+#05212:002L002L
+#05213:000000D300000000
+#05215:D0
+#05222:00D200D7
+#05223:0000000000D600D8
+#05224:00000000000000D400D5000000000000
+#05225:00D1000000000000
+
+#05301:00
+#05301:00
+#05301:002S002S0000002S
+#05311:00000000002S0000
+#05312:2R2R2R2R
+#05313:002L002L
+#05315:000000DB00000000DE0000DG00000000
+#05322:0000000000DC00000000000000000000
+#05323:00DA0000000000DI
+#05324:D90000DH
+#05325:000000000000DD0000DF000000000000
+
+#05401:00
+#05401:00
+#05401:002S002S002S002S
+#05411:000000DM00000000
+#05412:2R2R2R2R
+#05413:002L002L
+#05414:DJ
+#05415:000000DQ
+#05422:0000DL00000000DR
+#05423:0000000000DP0000
+#05424:0000DK00000000DN00DO000000000000
+
+#05501:00
+#05501:00
+#05501:002S002S0000002S
+#05512:002L002L
+#05513:2R2R2R2R
+#05514:000000DU0000000000002S0000000000
+#05515:0000DT0000DV000000DY000000000000
+#05522:0000000000000000DX0000DZ00000000
+#05524:DS0000DW000000E1
+#05525:000000E0
+
+#05601:00
+#05601:00
+#05601:002S002S002S002S
+#05611:000000E9
+#05612:000000E5000000EA
+#05613:2R2R2R2R
+#05614:002L002L
+#05615:0000E300000000E60000E80000000000
+#05622:E20000000000000000E7000000000000
+#05623:00E40000
+
+#05701:00
+#05701:00
+#05701:002S002S002S002S
+#05711:0000EC00000000000000EH0000EJ0000
+#05712:0000000000EE00000000000000000000
+#05713:002L002L
+#05714:2R2R2R2R
+#05715:00000000000000EK
+#05722:0000000000000000000000EI00000000
+#05723:000000ED00000000EG00000000000000
+#05725:EB0000EF00000000
+
+#05811:ELEN00ET
+#05812:00000000000000000000ER0000EU0000
+#05813:000000EO000000EV
+#05814:2R00000000000000000000ES000000EW
+#05815:000000000000000000EQ000000000000
+#05822:2M
+#05823:00EP
+#05824:00EM000000000000
+
+#05911:2R2R2R2R
+#05912:002S002S002S002S
+#05913:002L002L
+#05914:0000000000F00000F200000000000000
+#05915:000000000000000000F30000F5000000
+#05922:000000EZ00000000000000F400F60000
+#05923:2M000000000000F7
+#05924:0000EY000000F10000000000000000F8
+#05925:EX
+
+#06011:2R2R2R2R
+#06012:000000FC00000000
+#06013:002S002S002S002S
+#06014:002L002L
+#06015:F9
+#06022:00FB00FG
+#06024:0000000000FF00FH
+#06025:0000FA00000000FD00FE000000000000
+
+#06111:002L002L
+#06112:2R2R2R2R
+#06113:002S002S002S002S
+#06114:0000000000FL00000000000000000000
+#06115:000000FK00000000FN0000FP00000000
+#06123:00FJ0000000000FR
+#06124:000000FQ
+#06125:FI0000000000FM0000FO000000000000
+
+#06211:002L002L
+#06212:2R2R2R2R
+#06213:000000FV00000000
+#06214:FS2S002S002S002S
+#06215:000000FZ
+#06222:0000FU0000FY00G0
+#06223:0000FT00000000FW00FX000000000000
+
+#06311:000000G3000000000000000000000000
+#06312:000000000000000000G7000000000000
+#06313:2M00000000G400000000000000000000
+#06314:0000G20000000000G60000G80000GA00
+#06315:G10000G50000G900
+#06322:002S002S002S002S
+#06324:2R2R2R2R
+#06325:002L002L
+
+#06411:2M000000000000000000000000GI0000
+#06412:0000GD0000GG0000
+#06413:GB
+#06414:00GC00GE000000GJ
+#06415:0000000000000000000000GH00000000
+#06422:00GF
+#06423:002S002S002S002S
+#06424:002L002L
+#06425:2R2R2R2R
+
+#06511:2M000000000000000000000000GR0000
+#06512:00GL000000GP0000
+#06513:GK0000GN00000000
+#06514:0000GM00000000GS
+#06515:00000000000000002M0000GQ00000000
+#06522:00GO
+#06523:002L002L
+#06524:002S002S002S002S
+#06525:2R2R2R2R
+
+#06611:38
+#06613:003A
+#06615:0000003C
+#06623:00000000003B0000
+#06625:00390000
+
+#06701:00
+#06701:00
+#06701:002S002S002S002S
+#06711:002L0000
+#06712:000000001800000000GZ000000000000
+#06713:2M0000GV0000000019000000H1000000
+#06714:0000000000GW00000000000000H20000
+#06715:2R2R2R2R
+#06722:0000000000000000GY0000H00000H300
+#06723:00GU000000001A00
+#06724:000000000000GX0000000000000000H4
+#06725:GT00002L
+
+#06801:00
+#06801:00
+#06801:002S002S002S002S
+#06811:H500002L
+#06812:000000H80000HC00
+#06813:0000H70000HB00HD
+#06814:0000001E
+#06815:2R2R2R2R
+#06822:1B1D
+#06823:001C0000
+#06824:0000H600000000H900HA000000000000
+#06825:002L0000
+
+#06901:00
+#06901:00
+#06901:002S002S002S002S
+#06911:002L0000
+#06912:000000HG00000000HJ0000HL00000000
+#06913:001F1G00
+#06914:00HF000000000000
+#06915:2R2R2R2R
+#06922:0000000000HH0000000000001H000000
+#06923:00000000000000HN
+#06924:HE0000HM
+#06925:000000000000HI0000HK00002L000000
+
+#07001:00
+#07001:00
+#07001:002S002S002S002S
+#07011:000000HR00002L00
+#07013:HO0000HV
+#07014:0000HQ0000HU00HW
+#07015:2R2R2R2R
+#07022:00000000000000HS00HT00001L000000
+#07023:00HP00001K000000
+#07024:001J0000
+#07025:1I2L0000
+
+#07101:00
+#07101:00
+#07101:002S002S002S002S
+#07111:000000HZ0000000000I3000000000000
+#07112:002L0000
+#07113:001MI200
+#07114:0000HY0000I00000000000I40000I600
+#07115:2R2R2R2R
+#07122:000000I5
+#07123:001N
+#07124:HX00002L
+#07125:000000I100001O00
+
+#07201:00
+#07201:00
+#07201:002S002S002S002S
+#07211:000000IA0000IE00
+#07212:I700000000ID2L00
+#07213:0000I800000000IB00IC00000000IF00
+#07214:00I9001S
+#07215:2R2R2R2R
+#07223:1P1R
+#07224:002L0000
+#07225:001Q0000
+
+#07301:00
+#07301:00
+#07301:002S002S002S002S
+#07311:0000IH0000IJ00000000000000000000
+#07312:000000002L0000000000IM0000IO0000
+#07314:00000000000000IP
+#07315:2R2R2R2R
+#07322:0000000000000000000000IN00000000
+#07323:1T
+#07324:000000II00000000IL0000002L000000
+#07325:IG0000IK00000000
+
+#07401:00
+#07401:00
+#07401:002S002S002S002S
+#07411:000000IY
+#07412:IQ00000000IW2L00
+#07413:00IS0000
+#07414:0000IR0000000000000000IX00IZ0000
+#07415:2R002R002R002R2R
+#07422:000000IT000000J0
+#07423:000000000000000000IV000000000000
+#07424:000000002L00000000000000000000J1
+#07425:00IU
+
+#07511:00180000
+#07512:0019
+#07513:2R2R2R2R
+#07514:000000J400000000000000J900000000
+#07515:0000J30000J50000J7000000JA000000
+#07522:00000000000000000000000000JB0000
+#07523:2M2S002S002S2L2S
+#07524:000000000000J60000J800000000JC00
+#07525:J20000002L000000000000001A0000JD
+
+#07611:000000JH00002L00
+#07613:2R2R2R2R
+#07614:JE0000JL
+#07615:0000JG00000000JM
+#07622:00JF000000001E00
+#07623:002S002S002S002S
+#07624:1B002L001DJK0000
+#07625:000000001C0000JI00JJ000000000000
+
+#07711:001F002L
+#07712:000000JP000000001G00000000000000
+#07713:2R2R2R2R
+#07714:0000000000JQ00000000000000000000
+#07715:0000JO0000000000JS0000JU00000000
+#07716:2M
+#07722:JN00001H
+#07723:002S002S002S002S
+#07724:00002L000000JVJW
+#07725:000000000000JR0000JT000000000000
+
+#07811:JX0000K000002L00
+#07812:0000001L
+#07813:2R2R2R2R
+#07814:000000K4
+#07815:0000JZ0000K300K5
+#07822:001K
+#07823:002S002S002S002S
+#07824:0000JY001J0000K100K2000000000000
+#07825:1I2L0000
+
+#07911:001M0000
+#07912:000000K8000000001N00000000000000
+#07913:0000K70000K9000000KC00002R000000
+#07914:2R2R2R00
+#07915:002LKB2L
+#07922:002S002S002S002S
+#07923:0000000000000000000000KD0000KF00
+#07924:2M00001O
+#07925:K60000KA0000KE00
+
+#08011:00000000000000000000KL0000KN0000
+#08012:KGKI002L
+#08013:00KH00KJ0000002R
+#08014:2R2R2R2R
+#08015:0000000000001SKO
+#08022:002S002S002S002S
+#08023:1P1R
+#08024:000000001Q000000000000KM00000000
+#08025:2M2LKK00
+
+#08111:00KQ00KS00000000
+#08112:KP000000000000002M00000000KW0000
+#08113:0000KR0000KU0000
+#08114:2R0000002R0000002R00002R00002R00
+#08115:002L002L
+#08122:002S002S002S002S
+#08123:1T000000000000KX
+#08124:0000000000000000000000KV00000000
+#08125:2MKT
+
+#08211:KY00L00000L30000
+#08212:00000000000000000000000000L50000
+#08213:2R00000000000000000000L400000000
+#08214:00000000L20000L6
+#08215:00KZ00L100000000
+#08223:00000000000000000000002T00000000
+#08225:2M0000002T2T2T2T
+
+#08301:2R2R2R2R
+#08301:00
+#08301:002S002S002S002S
+#08311:004G004I004L004N
+#08313:4F0000004H00004J004K00004M000000
+#08315:062L002L
+#08323:2M
+#08325:0007
+
+#08401:2R2R2R2R
+#08401:00
+#08401:002S002S002S002S
+#08411:004P004R004U004W
+#08413:4O0000004Q00004S004T00004V000000
+#08415:002L002L
+#08422:0000000B00000000
+#08424:080A0000
+#08425:0009000000000000
+
+#08501:2R2R2R2R
+#08501:00
+#08501:002S002S002S002S
+#08511:0C
+#08513:000D
+#08515:002L002L
+#08522:004Y005000530055
+#08524:4X0000004Z0000510052000054000000
+
+#08601:2R2R2R2R
+#08601:00
+#08601:002S002S002S002S
+#08611:0000000H00000000
+#08613:000G0000
+#08614:000F000000000000
+#08615:0E2L002L
+#08623:00570059005C005E
+#08625:560000005800005A005B00005D000000
+
+#08701:2R2R2R2R
+#08701:00
+#08701:002S002S002S002S
+#08711:005G005I005L005N
+#08713:5F0000005H00005J005K00005M000000
+#08715:002L002L
+#08722:0I
+#08725:000J
+
+#08801:2R2R2R2R
+#08801:00
+#08801:002S002S002S002S
+#08811:0000000M
+#08812:005P005R005U005W
+#08814:5O0000005Q00005S005T00005V000000
+#08815:002L002L
+#08823:0000000L00000000
+#08824:0K
+
+#08901:2R2R2R2R
+#08901:00
+#08901:002S002S002S002S
+#08913:0N
+#08915:002L002L
+#08923:005Y006000630065
+#08925:5X0000005Z0000610062000064000000
+
+#09001:2R002R2R
+#09001:00
+#09001:002S002S002S002S
+#09011:2M
+#09015:002L002L
+#09023:00670069006C006E
+#09025:660000006800006A006B00006D000000
+
+#09101:2R2R2R2R
+#09101:00
+#09101:002S002S002S002S
+#09101:2T2T2T2T
+#09111:006G006I006L006N
+#09112:6F0000006H00006J006K00006M000000
+#09114:0O
+#09115:002L002L
+#09123:2M
+#09125:000P
+
+#09201:2R2R2R2R
+#09201:00
+#09201:002S002S002S002S
+#09201:2T2T2T2T
+#09212:006P006R006U006W
+#09213:6O0000006Q00006S006T00006V000000
+#09215:002L002L
+#09222:0000000T00000000
+#09223:000S0000
+#09224:0Q
+#09225:000R000000000000
+
+#09301:2R2R2R2R
+#09301:00
+#09301:002S002S002S002S
+#09301:2T2T2T2T
+#09311:0U
+#09313:2M
+#09314:000V
+#09315:002L002L
+#09323:006Y007000730075
+#09324:6X0000006Z0000710072000074000000
+
+#09401:2R2R2R2R
+#09401:00
+#09401:002S002S002S002S
+#09401:2T2T2T2T
+#09411:0000000Z00000000
+#09413:000Y0000
+#09414:000X000000000000
+#09415:002L002L
+#09422:0W
+#09424:00770079007C007E
+#09425:760000007800007A007B00007D000000
+
+#09501:00
+#09501:00
+#09501:002S002S002S002S
+#09501:2T2T2T2T2T2T2T2T
+#09511:007G007I007L007N
+#09512:002L0000
+#09513:7F0000007H00007J007K00007M000000
+#09515:2R2R2R2R
+#09523:10
+#09524:0000002L
+#09525:2M000011
+
+#09601:00
+#09601:00
+#09601:002S002S002S002S
+#09601:2T2T2T2T2T2T2T2T
+#09611:0000000000140000
+#09613:00000015
+#09614:2R00001300000016
+#09615:002R2R2R
+#09622:12000000007U007W
+#09623:007P007R00000000
+#09624:2M0000002L000000007T00007V000000
+#09625:7O0000007Q00007S000000002L000000
+
+#09701:00
+#09701:00
+#09701:00
+#09701:2T
+#09711:2R2R2R2R
+#09712:002T002T2T002T00
+#09713:17002T00002T002T
+#09714:002S002S002S002S
+#09715:2M2M
+#09722:007Y008000830085
+#09723:7X7Z0000
+#09724:00000000000000810082000084000000
+#09725:002L002L
+
+#09811:2R
+#09812:008700898B000000
+#09813:0000000000000000008C000000000000
+#09814:00000000008D0000
+#09815:00000000000000000000008E00000000
+#09822:0000000000000000000000000000008I
+#09823:000000000000008H
+#09824:860000008800008A00000000008G0000
+#09825:2M00008F
+
+#09911:2M
+#09915:2O
+

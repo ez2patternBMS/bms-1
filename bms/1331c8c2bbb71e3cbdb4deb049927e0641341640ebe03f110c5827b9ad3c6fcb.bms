@@ -1,0 +1,1425 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE トランステップ
+#TITLE Syndrome
+#ARTIST めろん
+#BPM 150
+#PLAYLEVEL 0
+#RANK 0
+
+#SUBARTIST PMS:Sisera Siren
+#BANNER __syndrome_bn.png
+
+#DIFFICULTY 5
+#TOTAL 180
+#LNTYPE 1
+
+#WAV01 Syndrome BMS edit_wobble3 - Marker #6.wav
+#WAV02 Syndrome BMS edit_wobble3 - Marker #7.wav
+#WAV03 Syndrome BMS edit_wobble3 - Marker #8.wav
+#WAV04 Syndrome BMS edit_woble 5 - Marker #1.wav
+#WAV05 Syndrome BMS edit_Cymbal - Marker #1.wav
+#WAV06 Syndrome BMS edit_Cymbal - Marker #2.wav
+#WAV07 Syndrome BMS edit_Cymbal - Marker #3.wav
+#WAV08 Syndrome BMS edit_Cymbal - Marker #4.wav
+#WAV09 Syndrome BMS edit_Cymbal - Marker #6.wav
+#WAV0A Syndrome BMS edit_Cymbal - Marker #7.wav
+#WAV0B Syndrome BMS edit_Cymbal - Marker #8.wav
+#WAV0C Syndrome BMS edit_Cymbal - Marker #9.wav
+#WAV0D Syndrome BMS edit_Cymbal - Marker #10.wav
+#WAV0E Syndrome BMS edit_Cymbal - Marker #11.wav
+#WAV0F Syndrome BMS edit_Cymbal - Marker #12.wav
+#WAV0G Syndrome BMS edit_intro lead_2 - Marker #136-1 - Marker #2.wav
+#WAV0H Syndrome BMS edit_kick - Marker #1.wav
+#WAV0I Syndrome BMS edit_kick - Marker #2.wav
+#WAV0J Syndrome BMS edit_kick - Marker #3.wav
+#WAV0K Syndrome BMS edit_kick - Marker #4.wav
+#WAV0L Syndrome BMS edit_kick - Marker #5.wav
+#WAV0M Syndrome BMS edit_kick - Marker #6.wav
+#WAV0N Syndrome BMS edit_kick - Marker #7.wav
+#WAV0O Syndrome BMS edit_kick - Marker #8.wav
+#WAV0P Syndrome BMS edit_kick - Marker #9.wav
+#WAV0Q Syndrome BMS edit_kick - Marker #10.wav
+#WAV0R Syndrome BMS edit_kick - Marker #11.wav
+#WAV0S Syndrome BMS edit_kick - Marker #12.wav
+#WAV0T Syndrome BMS edit_kick - Marker #13.wav
+#WAV0U Syndrome BMS edit_kick - Marker #14.wav
+#WAV0V Syndrome BMS edit_kick - Marker #15.wav
+#WAV0W Syndrome BMS edit_kick - Marker #16.wav
+#WAV0X Syndrome BMS edit_kick - Marker #17.wav
+#WAV0Y Syndrome BMS edit_kick - Marker #18.wav
+#WAV0Z Syndrome BMS edit_kick - Marker #19.wav
+#WAV10 Syndrome BMS edit_kick - Marker #20.wav
+#WAV11 Syndrome BMS edit_kick - Marker #22.wav
+#WAV12 Syndrome BMS edit_kick - Marker #23.wav
+#WAV13 Syndrome BMS edit_kick - Marker #24.wav
+#WAV14 Syndrome BMS edit_kick - Marker #25.wav
+#WAV15 Syndrome BMS edit_kick - Marker #26.wav
+#WAV16 Syndrome BMS edit_kick - Marker #27.wav
+#WAV17 Syndrome BMS edit_kick - Marker #28.wav
+#WAV18 Syndrome BMS edit_kick - Marker #29.wav
+#WAV19 Syndrome BMS edit_kick - Marker #30.wav
+#WAV1A Syndrome BMS edit_kick - Marker #31.wav
+#WAV1B Syndrome BMS edit_kick - Marker #32.wav
+#WAV1C Syndrome BMS edit_kick - Marker #33.wav
+#WAV1D Syndrome BMS edit_kick - Marker #34.wav
+#WAV1E Syndrome BMS edit_kick - Marker #35.wav
+#WAV1F Syndrome BMS edit_kick - Marker #36.wav
+#WAV1G Syndrome BMS edit_kick - Marker #37.wav
+#WAV1H Syndrome BMS edit_kick - Marker #38.wav
+#WAV1I Syndrome BMS edit_kick - Marker #39.wav
+#WAV1J Syndrome BMS edit_kick - Marker #40.wav
+#WAV1K Syndrome BMS edit_kick - Marker #41.wav
+#WAV1L Syndrome BMS edit_kick - Marker #42.wav
+#WAV1M Syndrome BMS edit_kick - Marker #43.wav
+#WAV1N Syndrome BMS edit_kick - Marker #44.wav
+#WAV1O Syndrome BMS edit_kick - Marker #45.wav
+#WAV1P Syndrome BMS edit_kick - Marker #46.wav
+#WAV1Q Syndrome BMS edit_kick - Marker #47.wav
+#WAV1R Syndrome BMS edit_kick - Marker #48.wav
+#WAV1S Syndrome BMS edit_kick - Marker #49.wav
+#WAV1T Syndrome BMS edit_kick - Marker #50.wav
+#WAV1U Syndrome BMS edit_kick - Marker #51.wav
+#WAV1V Syndrome BMS edit_kick - Marker #52.wav
+#WAV1W Syndrome BMS edit_kick - Marker #53.wav
+#WAV1X Syndrome BMS edit_kick - Marker #54.wav
+#WAV1Y Syndrome BMS edit_kick - Marker #55.wav
+#WAV1Z Syndrome BMS edit_kick - Marker #56.wav
+#WAV20 Syndrome BMS edit_kick - Marker #57.wav
+#WAV21 Syndrome BMS edit_kick - Marker #58.wav
+#WAV22 Syndrome BMS edit_kick - Marker #59.wav
+#WAV23 Syndrome BMS edit_kick - Marker #60.wav
+#WAV24 Syndrome BMS edit_kick - Marker #61.wav
+#WAV25 Syndrome BMS edit_kick - Marker #62.wav
+#WAV26 Syndrome BMS edit_kick - Marker #63.wav
+#WAV27 Syndrome BMS edit_kick - Marker #64.wav
+#WAV28 Syndrome BMS edit_kick - Marker #65.wav
+#WAV29 Syndrome BMS edit_kick - Marker #66.wav
+#WAV2A Syndrome BMS edit_kick - Marker #67.wav
+#WAV2B Syndrome BMS edit_kick - Marker #68.wav
+#WAV2C Syndrome BMS edit_kick - Marker #69.wav
+#WAV2D Syndrome BMS edit_kick - Marker #70.wav
+#WAV2E Syndrome BMS edit_kick - Marker #71.wav
+#WAV2F Syndrome BMS edit_kick - Marker #72.wav
+#WAV2G Syndrome BMS edit_kick - Marker #73.wav
+#WAV2H Syndrome BMS edit_kick - Marker #74.wav
+#WAV2I Syndrome BMS edit_kick - Marker #75.wav
+#WAV2J Syndrome BMS edit_kick - Marker #76.wav
+#WAV2K Syndrome BMS edit_kick - Marker #77.wav
+#WAV2L Syndrome BMS edit_kick - Marker #78.wav
+#WAV2M Syndrome BMS edit_kick - Marker #79.wav
+#WAV2N Syndrome BMS edit_kick - Marker #80.wav
+#WAV2O Syndrome BMS edit_kick - Marker #81.wav
+#WAV2P Syndrome BMS edit_kick - Marker #82.wav
+#WAV2Q Syndrome BMS edit_kick - Marker #83.wav
+#WAV2R Syndrome BMS edit_kick - Marker #84.wav
+#WAV2S Syndrome BMS edit_kick - Marker #85.wav
+#WAV2T Syndrome BMS edit_kick - Marker #86.wav
+#WAV2U Syndrome BMS edit_kick - Marker #87.wav
+#WAV2V Syndrome BMS edit_kick - Marker #88.wav
+#WAV2W Syndrome BMS edit_kick - Marker #89.wav
+#WAV2X Syndrome BMS edit_kick - Marker #90.wav
+#WAV2Y Syndrome BMS edit_kick - Marker #91.wav
+#WAV2Z Syndrome BMS edit_kick - Marker #92.wav
+#WAV30 Syndrome BMS edit_kick - Marker #93.wav
+#WAV31 Syndrome BMS edit_kick - Marker #94.wav
+#WAV32 Syndrome BMS edit_kick - Marker #95.wav
+#WAV33 Syndrome BMS edit_kick - Marker #96.wav
+#WAV34 Syndrome BMS edit_kick - Marker #97.wav
+#WAV35 Syndrome BMS edit_kick - Marker #98.wav
+#WAV36 Syndrome BMS edit_kick - Marker #99.wav
+#WAV37 Syndrome BMS edit_kick - Marker #100.wav
+#WAV38 Syndrome BMS edit_kick - Marker #101.wav
+#WAV39 Syndrome BMS edit_kick - Marker #102.wav
+#WAV3A Syndrome BMS edit_kick - Marker #103.wav
+#WAV3B Syndrome BMS edit_kick - Marker #104.wav
+#WAV3C Syndrome BMS edit_kick - Marker #105.wav
+#WAV3D Syndrome BMS edit_kick - Marker #106.wav
+#WAV3E Syndrome BMS edit_kick - Marker #107.wav
+#WAV3F Syndrome BMS edit_kick - Marker #108.wav
+#WAV3G Syndrome BMS edit_kick - Marker #109.wav
+#WAV3H Syndrome BMS edit_kick - Marker #110.wav
+#WAV3I Syndrome BMS edit_kick - Marker #111.wav
+#WAV3J Syndrome BMS edit_kick - Marker #112.wav
+#WAV3K Syndrome BMS edit_kick - Marker #113.wav
+#WAV3L Syndrome BMS edit_kick - Marker #114.wav
+#WAV3M Syndrome BMS edit_kick - Marker #115.wav
+#WAV3N Syndrome BMS edit_kick - Marker #117.wav
+#WAV3O Syndrome BMS edit_kick - Marker #118.wav
+#WAV3P Syndrome BMS edit_kick - Marker #119.wav
+#WAV3Q Syndrome BMS edit_kick - Marker #120.wav
+#WAV3R Syndrome BMS edit_kick - Marker #121.wav
+#WAV3S Syndrome BMS edit_kick - Marker #122.wav
+#WAV3T Syndrome BMS edit_kick - Marker #123.wav
+#WAV3U Syndrome BMS edit_kick - Marker #124.wav
+#WAV3V Syndrome BMS edit_kick - Marker #125.wav
+#WAV3W Syndrome BMS edit_kick - Marker #126.wav
+#WAV3X Syndrome BMS edit_kick - Marker #127.wav
+#WAV3Y Syndrome BMS edit_kick - Marker #128.wav
+#WAV3Z Syndrome BMS edit_kick - Marker #129.wav
+#WAV40 Syndrome BMS edit_kick - Marker #130.wav
+#WAV41 Syndrome BMS edit_kick - Marker #131.wav
+#WAV42 Syndrome BMS edit_kick - Marker #132.wav
+#WAV43 Syndrome BMS edit_kick - Marker #133.wav
+#WAV44 Syndrome BMS edit_kick - Marker #134.wav
+#WAV45 Syndrome BMS edit_kick - Marker #135.wav
+#WAV46 Syndrome BMS edit_kick - Marker #136.wav
+#WAV47 Syndrome BMS edit_kick - Marker #137.wav
+#WAV48 Syndrome BMS edit_kick - Marker #138.wav
+#WAV49 Syndrome BMS edit_kick - Marker #139.wav
+#WAV4A Syndrome BMS edit_kick - Marker #140.wav
+#WAV4B Syndrome BMS edit_kick - Marker #141.wav
+#WAV4C Syndrome BMS edit_kick - Marker #142.wav
+#WAV4D Syndrome BMS edit_kick - Marker #143.wav
+#WAV4E Syndrome BMS edit_kick - Marker #144.wav
+#WAV4F Syndrome BMS edit_kick - Marker #145.wav
+#WAV4G Syndrome BMS edit_kick - Marker #146.wav
+#WAV4H Syndrome BMS edit_kick - Marker #147.wav
+#WAV4I Syndrome BMS edit_kick - Marker #148.wav
+#WAV4J Syndrome BMS edit_kick - Marker #149.wav
+#WAV4K Syndrome BMS edit_kick - Marker #150.wav
+#WAV4L Syndrome BMS edit_kick - Marker #151.wav
+#WAV4M Syndrome BMS edit_kick - Marker #152.wav
+#WAV4N Syndrome BMS edit_kick - Marker #153.wav
+#WAV4O Syndrome BMS edit_kick - Marker #154.wav
+#WAV4P Syndrome BMS edit_kick - Marker #155.wav
+#WAV4Q Syndrome BMS edit_kick - Marker #156.wav
+#WAV4R Syndrome BMS edit_kick - Marker #157.wav
+#WAV4S Syndrome BMS edit_kick - Marker #158.wav
+#WAV4T Syndrome BMS edit_kick - Marker #159.wav
+#WAV4U Syndrome BMS edit_kick - Marker #160.wav
+#WAV4V Syndrome BMS edit_kick - Marker #161.wav
+#WAV4W Syndrome BMS edit_kick - Marker #162.wav
+#WAV4X Syndrome BMS edit_kick - Marker #163.wav
+#WAV4Y Syndrome BMS edit_kick - Marker #164.wav
+#WAV4Z Syndrome BMS edit_kick - Marker #165.wav
+#WAV50 Syndrome BMS edit_kick - Marker #166.wav
+#WAV51 Syndrome BMS edit_kick - Marker #167.wav
+#WAV52 Syndrome BMS edit_kick - Marker #168.wav
+#WAV53 Syndrome BMS edit_kick - Marker #169.wav
+#WAV54 Syndrome BMS edit_kick - Marker #171.wav
+#WAV55 Syndrome BMS edit_kick - Marker #172.wav
+#WAV56 Syndrome BMS edit_kick - Marker #173.wav
+#WAV57 Syndrome BMS edit_kick - Marker #174.wav
+#WAV58 Syndrome BMS edit_kick - Marker #175.wav
+#WAV59 Syndrome BMS edit_kick - Marker #176.wav
+#WAV5A Syndrome BMS edit_kick - Marker #177.wav
+#WAV5B Syndrome BMS edit_kick - Marker #178.wav
+#WAV5C Syndrome BMS edit_kick - Marker #179.wav
+#WAV5D Syndrome BMS edit_kick - Marker #180.wav
+#WAV5E Syndrome BMS edit_kick - Marker #181.wav
+#WAV5F Syndrome BMS edit_kick - Marker #182.wav
+#WAV5G Syndrome BMS edit_kick - Marker #183.wav
+#WAV5H Syndrome BMS edit_kick - Marker #184.wav
+#WAV5I Syndrome BMS edit_kick - Marker #185.wav
+#WAV5J Syndrome BMS edit_kick - Marker #186.wav
+#WAV5K Syndrome BMS edit_kick - Marker #187.wav
+#WAV5L Syndrome BMS edit_kick - Marker #188.wav
+#WAV5M Syndrome BMS edit_kick - Marker #189.wav
+#WAV5N Syndrome BMS edit_kick - Marker #190.wav
+#WAV5O Syndrome BMS edit_kick - Marker #191.wav
+#WAV5P Syndrome BMS edit_kick - Marker #192.wav
+#WAV5Q Syndrome BMS edit_kick - Marker #193.wav
+#WAV5R Syndrome BMS edit_kick - Marker #194.wav
+#WAV5S Syndrome BMS edit_kick - Marker #195.wav
+#WAV5T Syndrome BMS edit_kick - Marker #196.wav
+#WAV5U Syndrome BMS edit_kick - Marker #197.wav
+#WAV5V Syndrome BMS edit_kick - Marker #198.wav
+#WAV5W Syndrome BMS edit_kick - Marker #199.wav
+#WAV5X Syndrome BMS edit_kick - Marker #200.wav
+#WAV5Y Syndrome BMS edit_kick - Marker #201.wav
+#WAV5Z Syndrome BMS edit_kick - Marker #202.wav
+#WAV60 Syndrome BMS edit_kick - Marker #203.wav
+#WAV61 Syndrome BMS edit_kick - Marker #204.wav
+#WAV62 Syndrome BMS edit_kick - Marker #205.wav
+#WAV63 Syndrome BMS edit_kick - Marker #206.wav
+#WAV64 Syndrome BMS edit_kick - Marker #207.wav
+#WAV65 Syndrome BMS edit_kick - Marker #208.wav
+#WAV66 Syndrome BMS edit_kick - Marker #209.wav
+#WAV67 Syndrome BMS edit_kick - Marker #210.wav
+#WAV68 Syndrome BMS edit_kick - Marker #211.wav
+#WAV69 Syndrome BMS edit_kick - Marker #212.wav
+#WAV6A Syndrome BMS edit_kick - Marker #213.wav
+#WAV6B Syndrome BMS edit_kick - Marker #214.wav
+#WAV6C Syndrome BMS edit_kick - Marker #215.wav
+#WAV6D Syndrome BMS edit_kick - Marker #216.wav
+#WAV6E Syndrome BMS edit_kick - Marker #217.wav
+#WAV6F Syndrome BMS edit_kick - Marker #218.wav
+#WAV6G Syndrome BMS edit_kick - Marker #219.wav
+#WAV6H Syndrome BMS edit_kick - Marker #220.wav
+#WAV6I Syndrome BMS edit_kick - Marker #221.wav
+#WAV6J Syndrome BMS edit_kick - Marker #222.wav
+#WAV6K Syndrome BMS edit_kick - Marker #223.wav
+#WAV6L Syndrome BMS edit_kick - Marker #224.wav
+#WAV6M Syndrome BMS edit_kick - Marker #225.wav
+#WAV6N Syndrome BMS edit_kick - Marker #226.wav
+#WAV6O Syndrome BMS edit_kick - Marker #227.wav
+#WAV6P Syndrome BMS edit_kick - Marker #228.wav
+#WAV6Q Syndrome BMS edit_kick - Marker #229.wav
+#WAV6R Syndrome BMS edit_kick - Marker #230.wav
+#WAV6S Syndrome BMS edit_kick - Marker #231.wav
+#WAV6T Syndrome BMS edit_kick - Marker #232.wav
+#WAV6U Syndrome BMS edit_kick - Marker #233.wav
+#WAV6V Syndrome BMS edit_kick - Marker #234.wav
+#WAV6W Syndrome BMS edit_kick - Marker #235.wav
+#WAV6X Syndrome BMS edit_kick - Marker #236.wav
+#WAV6Y Syndrome BMS edit_kick - Marker #237.wav
+#WAV6Z Syndrome BMS edit_kick - Marker #238.wav
+#WAV70 Syndrome BMS edit_kick - Marker #239.wav
+#WAV71 Syndrome BMS edit_kick - Marker #240.wav
+#WAV72 Syndrome BMS edit_kick - Marker #241.wav
+#WAV73 Syndrome BMS edit_kick - Marker #242.wav
+#WAV74 Syndrome BMS edit_kick - Marker #243.wav
+#WAV75 Syndrome BMS edit_kick - Marker #244.wav
+#WAV76 Syndrome BMS edit_kick - Marker #245.wav
+#WAV77 Syndrome BMS edit_kick - Marker #246.wav
+#WAV78 Syndrome BMS edit_kick - Marker #247.wav
+#WAV79 Syndrome BMS edit_kick - Marker #248.wav
+#WAV7A Syndrome BMS edit_kick - Marker #249.wav
+#WAV7B Syndrome BMS edit_kick - Marker #250.wav
+#WAV7C Syndrome BMS edit_kick - Marker #251.wav
+#WAV7D Syndrome BMS edit_kick - Marker #252.wav
+#WAV7E Syndrome BMS edit_kick - Marker #253.wav
+#WAV7F Syndrome BMS edit_kick - Marker #254.wav
+#WAV7G Syndrome BMS edit_kick - Marker #255.wav
+#WAV7H Syndrome BMS edit_kick - Marker #256.wav
+#WAV7I Syndrome BMS edit_kick - Marker #257.wav
+#WAV7J Syndrome BMS edit_kick - Marker #258.wav
+#WAV7K Syndrome BMS edit_kick - Marker #259.wav
+#WAV7L Syndrome BMS edit_kick - Marker #260.wav
+#WAV7M Syndrome BMS edit_kick - Marker #261.wav
+#WAV7N Syndrome BMS edit_kick - Marker #262.wav
+#WAV7O Syndrome BMS edit_kick - Marker #263.wav
+#WAV7P Syndrome BMS edit_kick - Marker #264.wav
+#WAV7Q Syndrome BMS edit_kick - Marker #265.wav
+#WAV7R Syndrome BMS edit_kick - Marker #266.wav
+#WAV7S Syndrome BMS edit_kick - Marker #267.wav
+#WAV7T Syndrome BMS edit_kick - Marker #268.wav
+#WAV7U Syndrome BMS edit_kick - Marker #269.wav
+#WAV7V Syndrome BMS edit_kick - Marker #270.wav
+#WAV7W Syndrome BMS edit_kick - Marker #271.wav
+#WAV7X Syndrome BMS edit_kick - Marker #272.wav
+#WAV7Y Syndrome BMS edit_kick - Marker #273.wav
+#WAV7Z Syndrome BMS edit_kick - Marker #274.wav
+#WAV80 Syndrome BMS edit_kick - Marker #275.wav
+#WAV81 Syndrome BMS edit_kick - Marker #276.wav
+#WAV82 Syndrome BMS edit_kick - Marker #277.wav
+#WAV83 Syndrome BMS edit_kick - Marker #278.wav
+#WAV84 Syndrome BMS edit_kick - Marker #279.wav
+#WAV85 Syndrome BMS edit_kick - Marker #280.wav
+#WAV86 Syndrome BMS edit_kick - Marker #281.wav
+#WAV87 Syndrome BMS edit_kick - Marker #282.wav
+#WAV88 Syndrome BMS edit_kick - Marker #283.wav
+#WAV89 Syndrome BMS edit_kick - Marker #284.wav
+#WAV8A Syndrome BMS edit_kick - Marker #285.wav
+#WAV8B Syndrome BMS edit_kick - Marker #286.wav
+#WAV8C Syndrome BMS edit_kick - Marker #287.wav
+#WAV8D Syndrome BMS edit_kick - Marker #288.wav
+#WAV8E Syndrome BMS edit_kick - Marker #289.wav
+#WAV8F Syndrome BMS edit_kick - Marker #290.wav
+#WAV8G Syndrome BMS edit_kick - Marker #291.wav
+#WAV8H Syndrome BMS edit_kick - Marker #292.wav
+#WAV8I Syndrome BMS edit_kick - Marker #293.wav
+#WAV8J Syndrome BMS edit_kick - Marker #294.wav
+#WAV8K Syndrome BMS edit_kick - Marker #295.wav
+#WAV8L Syndrome BMS edit_kick - Marker #296.wav
+#WAV8M Syndrome BMS edit_kick - Marker #297.wav
+#WAV8N Syndrome BMS edit_kick - Marker #298.wav
+#WAV8O Syndrome BMS edit_kick - Marker #299.wav
+#WAV8P Syndrome BMS edit_kick - Marker #300.wav
+#WAV8Q Syndrome BMS edit_kick - Marker #301.wav
+#WAV8R Syndrome BMS edit_kick - Marker #302.wav
+#WAV8S Syndrome BMS edit_kick - Marker #303.wav
+#WAV8T Syndrome BMS edit_kick - Marker #304.wav
+#WAV8U Syndrome BMS edit_kick - Marker #305.wav
+#WAV8V Syndrome BMS edit_kick - Marker #306.wav
+#WAV8W Syndrome BMS edit_kick - Marker #307.wav
+#WAV8X Syndrome BMS edit_kick - Marker #308.wav
+#WAV8Y Syndrome BMS edit_kick - Marker #309.wav
+#WAV8Z Syndrome BMS edit_kick - Marker #310.wav
+#WAV90 Syndrome BMS edit_kick - Marker #311.wav
+#WAV91 Syndrome BMS edit_kick - Marker #312.wav
+#WAV92 Syndrome BMS edit_kick - Marker #313.wav
+#WAV93 Syndrome BMS edit_kick - Marker #314.wav
+#WAV94 Syndrome BMS edit_kick - Marker #315.wav
+#WAV95 Syndrome BMS edit_kick - Marker #316.wav
+#WAV96 Syndrome BMS edit_kick - Marker #317.wav
+#WAV97 Syndrome BMS edit_kick - Marker #318.wav
+#WAV98 Syndrome BMS edit_kick - Marker #319.wav
+#WAV99 Syndrome BMS edit_kick - Marker #320.wav
+#WAV9A Syndrome BMS edit_kick - Marker #321.wav
+#WAV9B Syndrome BMS edit_kick - Marker #322.wav
+#WAV9C Syndrome BMS edit_kick - Marker #323.wav
+#WAV9D Syndrome BMS edit_kick - Marker #324.wav
+#WAV9E Syndrome BMS edit_kick - Marker #325.wav
+#WAV9F Syndrome BMS edit_kick - Marker #326.wav
+#WAV9G Syndrome BMS edit_kick - Marker #327.wav
+#WAV9H Syndrome BMS edit_kick - Marker #328.wav
+#WAV9I Syndrome BMS edit_kick - Marker #329.wav
+#WAV9J Syndrome BMS edit_kick - Marker #330.wav
+#WAV9K Syndrome BMS edit_kick - Marker #331.wav
+#WAV9L Syndrome BMS edit_kick - Marker #332.wav
+#WAV9M Syndrome BMS edit_kick - Marker #333.wav
+#WAV9N Syndrome BMS edit_M1 piano - Marker #1.wav
+#WAV9O Syndrome BMS edit_M1 piano - Marker #2.wav
+#WAV9P Syndrome BMS edit_M1 piano - Marker #3.wav
+#WAV9Q Syndrome BMS edit_M1 piano - Marker #4.wav
+#WAV9R Syndrome BMS edit_M1 piano - Marker #5.wav
+#WAV9S Syndrome BMS edit_M1 piano - Marker #6.wav
+#WAV9T Syndrome BMS edit_M1 piano - Marker #7.wav
+#WAV9U Syndrome BMS edit_M1 piano - Marker #8.wav
+#WAV9V Syndrome BMS edit_M1 piano - Marker #9.wav
+#WAV9W Syndrome BMS edit_M1 piano - Marker #10.wav
+#WAV9X Syndrome BMS edit_M1 piano - Marker #11.wav
+#WAV9Y Syndrome BMS edit_M1 piano - Marker #12.wav
+#WAV9Z Syndrome BMS edit_M1 piano - Marker #13.wav
+#WAVA0 Syndrome BMS edit_M1 piano - Marker #14.wav
+#WAVA1 Syndrome BMS edit_M1 piano - Marker #15.wav
+#WAVA2 Syndrome BMS edit_open hihat - Marker #1.wav
+#WAVA3 Syndrome BMS edit_open hihat - Marker #2.wav
+#WAVA4 Syndrome BMS edit_open hihat - Marker #3.wav
+#WAVA5 Syndrome BMS edit_open hihat - Marker #4.wav
+#WAVA6 Syndrome BMS edit_snare - Marker #1.wav
+#WAVA7 Syndrome BMS edit_snare - Marker #2.wav
+#WAVA8 Syndrome BMS edit_snare - Marker #3.wav
+#WAVA9 Syndrome BMS edit_snare - Marker #4.wav
+#WAVAA Syndrome BMS edit_snare - Marker #6.wav
+#WAVAB Syndrome BMS edit_snare - Marker #7.wav
+#WAVAC Syndrome BMS edit_snare - Marker #8.wav
+#WAVAD Syndrome BMS edit_snare - Marker #9.wav
+#WAVAE Syndrome BMS edit_snare - Marker #10.wav
+#WAVAF Syndrome BMS edit_snare - Marker #11.wav
+#WAVAG Syndrome BMS edit_snare - Marker #12.wav
+#WAVAH Syndrome BMS edit_snare - Marker #13.wav
+#WAVAI Syndrome BMS edit_snare - Marker #14.wav
+#WAVAJ Syndrome BMS edit_snare - Marker #15.wav
+#WAVAK Syndrome BMS edit_snare - Marker #16.wav
+#WAVAL Syndrome BMS edit_snare - Marker #17.wav
+#WAVAM Syndrome BMS edit_snare - Marker #18.wav
+#WAVAN Syndrome BMS edit_snare - Marker #19.wav
+#WAVAO Syndrome BMS edit_snare - Marker #20.wav
+#WAVAP Syndrome BMS edit_snare - Marker #21.wav
+#WAVAQ Syndrome BMS edit_snare - Marker #22.wav
+#WAVAR Syndrome BMS edit_snare - Marker #23.wav
+#WAVAS Syndrome BMS edit_snare - Marker #24.wav
+#WAVAT Syndrome BMS edit_snare - Marker #25.wav
+#WAVAU Syndrome BMS edit_snare - Marker #26.wav
+#WAVAV Syndrome BMS edit_snare - Marker #27.wav
+#WAVAW Syndrome BMS edit_snare - Marker #28.wav
+#WAVAX Syndrome BMS edit_snare - Marker #29.wav
+#WAVAY Syndrome BMS edit_snare - Marker #30.wav
+#WAVAZ Syndrome BMS edit_snare - Marker #31.wav
+#WAVB0 Syndrome BMS edit_snare - Marker #32.wav
+#WAVB1 Syndrome BMS edit_snare - Marker #33.wav
+#WAVB2 Syndrome BMS edit_snare - Marker #34.wav
+#WAVB3 Syndrome BMS edit_snare - Marker #35.wav
+#WAVB4 Syndrome BMS edit_snare - Marker #36.wav
+#WAVB5 Syndrome BMS edit_snare - Marker #37.wav
+#WAVB6 Syndrome BMS edit_snare - Marker #38.wav
+#WAVB7 Syndrome BMS edit_snare - Marker #39.wav
+#WAVB8 Syndrome BMS edit_snare - Marker #40.wav
+#WAVB9 Syndrome BMS edit_snare - Marker #41.wav
+#WAVBA Syndrome BMS edit_snare - Marker #42.wav
+#WAVBB Syndrome BMS edit_snare - Marker #43.wav
+#WAVBC Syndrome BMS edit_snare - Marker #44.wav
+#WAVBD Syndrome BMS edit_snare - Marker #45.wav
+#WAVBE Syndrome BMS edit_snare - Marker #46.wav
+#WAVBF Syndrome BMS edit_snare - Marker #47.wav
+#WAVBG Syndrome BMS edit_snare - Marker #48.wav
+#WAVBH Syndrome BMS edit_snare - Marker #49.wav
+#WAVBI Syndrome BMS edit_snare - Marker #50.wav
+#WAVBJ Syndrome BMS edit_snare - Marker #51.wav
+#WAVBK Syndrome BMS edit_snare - Marker #52.wav
+#WAVBL Syndrome BMS edit_snare - Marker #53.wav
+#WAVBM Syndrome BMS edit_snare - Marker #54.wav
+#WAVBN Syndrome BMS edit_snare - Marker #55.wav
+#WAVBO Syndrome BMS edit_snare - Marker #56.wav
+#WAVBP Syndrome BMS edit_snare - Marker #57.wav
+#WAVBQ Syndrome BMS edit_snare - Marker #58.wav
+#WAVBR Syndrome BMS edit_snare - Marker #59.wav
+#WAVBS Syndrome BMS edit_snare - Marker #60.wav
+#WAVBT Syndrome BMS edit_snare - Marker #61.wav
+#WAVBU Syndrome BMS edit_snare - Marker #62.wav
+#WAVBV Syndrome BMS edit_snare - Marker #63.wav
+#WAVBW Syndrome BMS edit_snare - Marker #64.wav
+#WAVBX Syndrome BMS edit_snare - Marker #65.wav
+#WAVBY Syndrome BMS edit_snare - Marker #66.wav
+#WAVBZ Syndrome BMS edit_snare - Marker #67.wav
+#WAVC0 Syndrome BMS edit_snare - Marker #68.wav
+#WAVC1 Syndrome BMS edit_snare - Marker #85.wav
+#WAVC2 Syndrome BMS edit_snare - Marker #86.wav
+#WAVC3 Syndrome BMS edit_snare - Marker #87.wav
+#WAVC4 Syndrome BMS edit_snare - Marker #88.wav
+#WAVC5 Syndrome BMS edit_snare - Marker #89.wav
+#WAVC6 Syndrome BMS edit_snare - Marker #90.wav
+#WAVC7 Syndrome BMS edit_snare - Marker #91.wav
+#WAVC8 Syndrome BMS edit_snare - Marker #92.wav
+#WAVC9 Syndrome BMS edit_snare - Marker #93.wav
+#WAVCA Syndrome BMS edit_snare - Marker #94.wav
+#WAVCB Syndrome BMS edit_snare - Marker #95.wav
+#WAVCC Syndrome BMS edit_snare - Marker #96.wav
+#WAVCD Syndrome BMS edit_snare - Marker #97.wav
+#WAVCE Syndrome BMS edit_snare - Marker #98.wav
+#WAVCF Syndrome BMS edit_snare - Marker #99.wav
+#WAVCG Syndrome BMS edit_snare - Marker #100.wav
+#WAVCH Syndrome BMS edit_snare - Marker #101.wav
+#WAVCI Syndrome BMS edit_snare - Marker #102.wav
+#WAVCJ Syndrome BMS edit_snare - Marker #103.wav
+#WAVCK Syndrome BMS edit_snare - Marker #104.wav
+#WAVCL Syndrome BMS edit_snare - Marker #105.wav
+#WAVCM Syndrome BMS edit_snare - Marker #106.wav
+#WAVCN Syndrome BMS edit_snare - Marker #107.wav
+#WAVCO Syndrome BMS edit_snare - Marker #108.wav
+#WAVCP Syndrome BMS edit_snare - Marker #109.wav
+#WAVCQ Syndrome BMS edit_snare - Marker #110.wav
+#WAVCR Syndrome BMS edit_snare - Marker #111.wav
+#WAVCS Syndrome BMS edit_snare - Marker #112.wav
+#WAVCT Syndrome BMS edit_snare - Marker #113.wav
+#WAVCU Syndrome BMS edit_snare - Marker #114.wav
+#WAVCV Syndrome BMS edit_snare - Marker #115.wav
+#WAVCW Syndrome BMS edit_snare - Marker #116.wav
+#WAVCX Syndrome BMS edit_snare - Marker #117.wav
+#WAVCY Syndrome BMS edit_snare - Marker #118.wav
+#WAVCZ Syndrome BMS edit_snare - Marker #119.wav
+#WAVD0 Syndrome BMS edit_snare - Marker #120.wav
+#WAVD1 Syndrome BMS edit_snare - Marker #121.wav
+#WAVD2 Syndrome BMS edit_snare - Marker #122.wav
+#WAVD3 Syndrome BMS edit_snare - Marker #123.wav
+#WAVD4 Syndrome BMS edit_snare - Marker #124.wav
+#WAVD5 Syndrome BMS edit_snare - Marker #125.wav
+#WAVD6 Syndrome BMS edit_snare - Marker #126.wav
+#WAVD7 Syndrome BMS edit_snare - Marker #127.wav
+#WAVD8 Syndrome BMS edit_snare - Marker #128.wav
+#WAVD9 Syndrome BMS edit_snare - Marker #129.wav
+#WAVDA Syndrome BMS edit_snare - Marker #130.wav
+#WAVDB Syndrome BMS edit_snare - Marker #131.wav
+#WAVDC Syndrome BMS edit_snare - Marker #132.wav
+#WAVDD Syndrome BMS edit_sub melo - Marker #1.wav
+#WAVDE Syndrome BMS edit_sub melo - Marker #2.wav
+#WAVDF Syndrome BMS edit_sub melo - Marker #3.wav
+#WAVDG Syndrome BMS edit_sub melo - Marker #4.wav
+#WAVDH Syndrome BMS edit_sub melo - Marker #5.wav
+#WAVDI Syndrome BMS edit_sub melo - Marker #6.wav
+#WAVDJ Syndrome BMS edit_sub melo - Marker #7.wav
+#WAVDK Syndrome BMS edit_sub melo - Marker #8.wav
+#WAVDL Syndrome BMS edit_sub melo - Marker #9.wav
+#WAVDM Syndrome BMS edit_sub melo - Marker #10.wav
+#WAVDN Syndrome BMS edit_sub melo - Marker #11.wav
+#WAVDO Syndrome BMS edit_sub melo - Marker #12.wav
+#WAVDP Syndrome BMS edit_sub melo - Marker #13.wav
+#WAVDQ Syndrome BMS edit_sub melo - Marker #14.wav
+#WAVDR Syndrome BMS edit_sub melo - Marker #15.wav
+#WAVDS Syndrome BMS edit_Trance lead_2 - Marker #1.wav
+#WAVDT Syndrome BMS edit_Trance lead_2 - Marker #2.wav
+#WAVDU Syndrome BMS edit_Trance lead_2 - Marker #3.wav
+#WAVDV Syndrome BMS edit_Trance lead_2 - Marker #4.wav
+#WAVDW Syndrome BMS edit_Trance lead_2 - Marker #5.wav
+#WAVDX Syndrome BMS edit_Trance lead_2 - Marker #6.wav
+#WAVDY Syndrome BMS edit_Trance lead_2 - Marker #7.wav
+#WAVDZ Syndrome BMS edit_Trance lead_2 - Marker #8.wav
+#WAVE0 Syndrome BMS edit_Trance lead_2 - Marker #9.wav
+#WAVE1 Syndrome BMS edit_Trance lead_2 - Marker #10.wav
+#WAVE2 Syndrome BMS edit_Trance lead_2 - Marker #11.wav
+#WAVE3 Syndrome BMS edit_Trance lead_2 - Marker #12.wav
+#WAVE4 Syndrome BMS edit_Trance lead_2 - Marker #13.wav
+#WAVE5 Syndrome BMS edit_Trance lead_2 - Marker #14.ogg
+#WAVE6 Syndrome BMS edit_Trance lead_2 - Marker #15.wav
+#WAVE7 Syndrome BMS edit_Trance lead_2 - Marker #16.wav
+#WAVE8 Syndrome BMS edit_Trance lead_2 - Marker #17.wav
+#WAVE9 Syndrome BMS edit_Trance lead_2 - Marker #18.wav
+#WAVEA Syndrome BMS edit_Trance lead_2 - Marker #19.wav
+#WAVEB Syndrome BMS edit_Trance lead_2 - Marker #20.wav
+#WAVEC Syndrome BMS edit_Trance lead_2 - Marker #21.wav
+#WAVED Syndrome BMS edit_Trance lead_2 - Marker #22.wav
+#WAVEE Syndrome BMS edit_Trance lead_2 - Marker #23.wav
+#WAVEF Syndrome BMS edit_Trance lead_2 - Marker #24.wav
+#WAVEG Syndrome BMS edit_Trance lead_2 - Marker #25.wav
+#WAVEH Syndrome BMS edit_Trance lead_2 - Marker #26.wav
+#WAVEI Syndrome BMS edit_Trance lead_2 - Marker #27.wav
+#WAVEJ Syndrome BMS edit_Trance lead_2 - Marker #28.wav
+#WAVEK Syndrome BMS edit_Trance lead_2 - Marker #29.wav
+#WAVEL Syndrome BMS edit_Trance lead_2 - Marker #30.wav
+#WAVEM Syndrome BMS edit_Trance lead_2 - Marker #31.wav
+#WAVEN Syndrome BMS edit_Trance lead_2 - Marker #32.wav
+#WAVEO Syndrome BMS edit_Trance lead_2 - Marker #33.wav
+#WAVEP Syndrome BMS edit_Trance lead_2 - Marker #34.wav
+#WAVEQ Syndrome BMS edit_Trance lead_2 - Marker #35.wav
+#WAVER Syndrome BMS edit_Trance lead_2 - Marker #36.wav
+#WAVES Syndrome BMS edit_Trance lead_2 - Marker #37.wav
+#WAVET Syndrome BMS edit_Trance lead_2 - Marker #38.wav
+#WAVEU Syndrome BMS edit_Trance lead_2 - Marker #39.wav
+#WAVEV Syndrome BMS edit_Trance lead_2 - Marker #40.wav
+#WAVEW Syndrome BMS edit_Trance lead_2 - Marker #41.wav
+#WAVEX Syndrome BMS edit_Trance lead_2 - Marker #42.wav
+#WAVEY Syndrome BMS edit_Trance lead_2 - Marker #43.wav
+#WAVEZ Syndrome BMS edit_Trance lead_2 - Marker #44.wav
+#WAVF0 Syndrome BMS edit_Trance lead_2 - Marker #45.wav
+#WAVF1 Syndrome BMS edit_Trance lead_2 - Marker #46.wav
+#WAVF2 Syndrome BMS edit_Trance lead_2 - Marker #47.wav
+#WAVF3 Syndrome BMS edit_Trance lead_2 - Marker #48.wav
+#WAVF4 Syndrome BMS edit_Trance lead_2 - Marker #49.wav
+#WAVF5 Syndrome BMS edit_Trance lead_2 - Marker #50.wav
+#WAVF6 Syndrome BMS edit_Trance lead_2 - Marker #51.wav
+#WAVF7 Syndrome BMS edit_Trance lead_2 - Marker #52.wav
+#WAVF8 Syndrome BMS edit_Trance lead_2 - Marker #53.wav
+#WAVF9 Syndrome BMS edit_Trance lead_2 - Marker #54.wav
+#WAVFA Syndrome BMS edit_Trance lead_2 - Marker #55.wav
+#WAVFB Syndrome BMS edit_Trance lead_2 - Marker #56.wav
+#WAVFC Syndrome BMS edit_Trance lead_2 - Marker #57.wav
+#WAVFD Syndrome BMS edit_Trance lead_2 - Marker #58.wav
+#WAVFE Syndrome BMS edit_Trance lead_2 - Marker #59.wav
+#WAVFF Syndrome BMS edit_Trance lead_2 - Marker #60.wav
+#WAVFG Syndrome BMS edit_Trance lead_2 - Marker #61.wav
+#WAVFH Syndrome BMS edit_Trance lead_2 - Marker #62.wav
+#WAVFI Syndrome BMS edit_Trance lead_2 - Marker #63.wav
+#WAVFJ Syndrome BMS edit_Trance lead_2 - Marker #64.wav
+#WAVFK Syndrome BMS edit_Trance lead_2 - Marker #65.wav
+#WAVFL Syndrome BMS edit_Trance lead_2 - Marker #66.wav
+#WAVFM Syndrome BMS edit_Trance lead_2 - Marker #67.wav
+#WAVFN Syndrome BMS edit_Trance lead_2 - Marker #68.wav
+#WAVFO Syndrome BMS edit_Trance lead_2 - Marker #69.wav
+#WAVFP Syndrome BMS edit_Trance lead_2 - Marker #70.wav
+#WAVFQ Syndrome BMS edit_Trance lead_2 - Marker #71.wav
+#WAVFR Syndrome BMS edit_Trance lead_2 - Marker #72.wav
+#WAVFS Syndrome BMS edit_Trance lead_2 - Marker #73.wav
+#WAVFT Syndrome BMS edit_Trance lead_2 - Marker #74.wav
+#WAVFU Syndrome BMS edit_Trance lead_2 - Marker #75.wav
+#WAVFV Syndrome BMS edit_Trance lead_2 - Marker #76.wav
+#WAVFW Syndrome BMS edit_Trance lead_2 - Marker #77.wav
+#WAVFX Syndrome BMS edit_Trance lead_2 - Marker #78.wav
+#WAVFY Syndrome BMS edit_Trance lead_2 - Marker #79.wav
+#WAVFZ Syndrome BMS edit_Trance lead_2 - Marker #80.wav
+#WAVG0 Syndrome BMS edit_Trance lead_2 - Marker #81.wav
+#WAVG1 Syndrome BMS edit_Trance lead_2 - Marker #82.wav
+#WAVG2 Syndrome BMS edit_Trance lead_2 - Marker #83.wav
+#WAVG3 Syndrome BMS edit_Trance lead_2 - Marker #84.wav
+#WAVG4 Syndrome BMS edit_Trance lead_2 - Marker #85.wav
+#WAVG5 Syndrome BMS edit_Trance lead_2 - Marker #86.wav
+#WAVG6 Syndrome BMS edit_Trance lead_2 - Marker #87.wav
+#WAVG7 Syndrome BMS edit_Trance lead_2 - Marker #88.wav
+#WAVG8 Syndrome BMS edit_Trance lead_2 - Marker #89.wav
+#WAVG9 Syndrome BMS edit_Trance lead_2 - Marker #90.wav
+#WAVGA Syndrome BMS edit_Trance lead_2 - Marker #91.wav
+#WAVGB Syndrome BMS edit_Trance lead_2 - Marker #92.wav
+#WAVGC Syndrome BMS edit_Trance lead_2 - Marker #93.wav
+#WAVGD Syndrome BMS edit_Trance lead_2 - Marker #94.wav
+#WAVGE Syndrome BMS edit_Trance lead_2 - Marker #95.wav
+#WAVGF Syndrome BMS edit_Trance lead_2 - Marker #96.wav
+#WAVGG Syndrome BMS edit_Trance lead_2 - Marker #97.wav
+#WAVGH Syndrome BMS edit_Trance lead_2 - Marker #98.wav
+#WAVGI Syndrome BMS edit_Trance lead_2 - Marker #99.wav
+#WAVGJ Syndrome BMS edit_Trance lead_2 - Marker #100.wav
+#WAVGK Syndrome BMS edit_Trance lead_2 - Marker #101.wav
+#WAVGL Syndrome BMS edit_Trance lead_2 - Marker #102.wav
+#WAVGM Syndrome BMS edit_Trance lead_2 - Marker #103.wav
+#WAVGN Syndrome BMS edit_Trance lead_2 - Marker #104.wav
+#WAVGO Syndrome BMS edit_Trance lead_2 - Marker #106.wav
+#WAVGP Syndrome BMS edit_Trance lead_2 - Marker #107.wav
+#WAVGQ Syndrome BMS edit_Trance lead_2 - Marker #108.wav
+#WAVGR Syndrome BMS edit_Trance lead_2 - Marker #109.wav
+#WAVGS Syndrome BMS edit_Trance lead_2 - Marker #110.wav
+#WAVGT Syndrome BMS edit_Trance lead_2 - Marker #111.wav
+#WAVGU Syndrome BMS edit_Trance lead_2 - Marker #112.wav
+#WAVGV Syndrome BMS edit_Trance lead_2 - Marker #113.wav
+#WAVGW Syndrome BMS edit_Trance lead_2 - Marker #114.wav
+#WAVGX Syndrome BMS edit_Trance lead_2 - Marker #115.wav
+#WAVGY Syndrome BMS edit_Trance lead_2 - Marker #116.wav
+#WAVGZ Syndrome BMS edit_Trance lead_2 - Marker #117.wav
+#WAVH0 Syndrome BMS edit_Trance lead_2 - Marker #118.wav
+#WAVH1 Syndrome BMS edit_Trance lead_2 - Marker #119.wav
+#WAVH2 Syndrome BMS edit_Trance lead_2 - Marker #120.wav
+#WAVH3 Syndrome BMS edit_Trance lead_2 - Marker #121.wav
+#WAVH4 Syndrome BMS edit_Trance lead_2 - Marker #122.wav
+#WAVH5 Syndrome BMS edit_Trance lead_2 - Marker #123.wav
+#WAVH6 Syndrome BMS edit_Trance lead_2 - Marker #124.wav
+#WAVH7 Syndrome BMS edit_Trance lead_2 - Marker #125.wav
+#WAVH8 Syndrome BMS edit_Trance lead_2 - Marker #126.wav
+#WAVH9 Syndrome BMS edit_Trance lead_2 - Marker #127.wav
+#WAVHA Syndrome BMS edit_Trance lead_2 - Marker #128.wav
+#WAVHB Syndrome BMS edit_Trance lead_2 - Marker #129.wav
+#WAVHC Syndrome BMS edit_Trance lead_2 - Marker #130.wav
+#WAVHD Syndrome BMS edit_Trance lead_2 - Marker #131.wav
+#WAVHE Syndrome BMS edit_Trance lead_2 - Marker #132.wav
+#WAVHF Syndrome BMS edit_Trance lead_2 - Marker #133.wav
+#WAVHG Syndrome BMS edit_Trance lead_2 - Marker #134.wav
+#WAVHH Syndrome BMS edit_Trance lead_2 - Marker #135.wav
+#WAVHI Syndrome BMS edit_Trance lead_2 - Marker #136.wav
+#WAVHJ Syndrome BMS edit_Trance lead_2 - Marker #137.wav
+#WAVHK Syndrome BMS edit_Trance lead_2 - Marker #138.wav
+#WAVHL Syndrome BMS edit_Trance lead_2 - Marker #139.wav
+#WAVHM Syndrome BMS edit_Trance lead_2 - Marker #140.wav
+#WAVHN Syndrome BMS edit_Trance lead_2 - Marker #141.wav
+#WAVHO Syndrome BMS edit_Trance lead_2 - Marker #142.wav
+#WAVHP Syndrome BMS edit_Trance lead_2 - Marker #143.wav
+#WAVHQ Syndrome BMS edit_Trance lead_2 - Marker #144.wav
+#WAVHR Syndrome BMS edit_Trance lead_2 - Marker #145.wav
+#WAVHS Syndrome BMS edit_Trance lead_2 - Marker #146.wav
+#WAVHT Syndrome BMS edit_Trance lead_2 - Marker #147.wav
+#WAVHU Syndrome BMS edit_Trance lead_2 - Marker #148.wav
+#WAVHV Syndrome BMS edit_Trance lead_2 - Marker #149.wav
+#WAVHW Syndrome BMS edit_Trance lead_2 - Marker #150.wav
+#WAVHX Syndrome BMS edit_Trance lead_2 - Marker #151.wav
+#WAVHY Syndrome BMS edit_Trance lead_2 - Marker #152.wav
+#WAVHZ Syndrome BMS edit_Trance lead_2 - Marker #153.wav
+#WAVI0 Syndrome BMS edit_Trance lead_2 - Marker #154.wav
+#WAVI1 Syndrome BMS edit_Trance lead_2 - Marker #155.wav
+#WAVI2 Syndrome BMS edit_Trance lead_2 - Marker #156.wav
+#WAVI3 Syndrome BMS edit_Trance lead_2 - Marker #157.wav
+#WAVI4 Syndrome BMS edit_Trance lead_2 - Marker #158.wav
+#WAVI5 Syndrome BMS edit_Trance lead_2 - Marker #159.wav
+#WAVI6 Syndrome BMS edit_Trance lead_2 - Marker #160.wav
+#WAVI7 Syndrome BMS edit_Trance lead_2 - Marker #161.wav
+#WAVI8 Syndrome BMS edit_Trance lead_2 - Marker #162.wav
+#WAVI9 Syndrome BMS edit_Trance lead_2 - Marker #163.wav
+#WAVIA Syndrome BMS edit_Trance lead_2 - Marker #164.wav
+#WAVIB Syndrome BMS edit_Trance lead_2 - Marker #165.wav
+#WAVIC Syndrome BMS edit_Trance lead_2 - Marker #166.wav
+#WAVID Syndrome BMS edit_Trance lead_2 - Marker #167.wav
+#WAVIE Syndrome BMS edit_Trance lead_2 - Marker #168.wav
+#WAVIF Syndrome BMS edit_Trance lead_2 - Marker #169.wav
+#WAVIG Syndrome BMS edit_Trance lead_2 - Marker #170.wav
+#WAVIH Syndrome BMS edit_Trance lead_2 - Marker #171.wav
+#WAVII Syndrome BMS edit_Trance lead_2 - Marker #172.wav
+#WAVIJ Syndrome BMS edit_Trance lead_2 - Marker #173.wav
+#WAVIK Syndrome BMS edit_Trance lead_2 - Marker #174.wav
+#WAVIL Syndrome BMS edit_Trance lead_2 - Marker #175.wav
+#WAVIM Syndrome BMS edit_Trance lead_2 - Marker #176.wav
+#WAVIN Syndrome BMS edit_Trance lead_2 - Marker #177.wav
+#WAVIO Syndrome BMS edit_Trance lead_2 - Marker #178.wav
+#WAVIP Syndrome BMS edit_Trance lead_2 - Marker #179.wav
+#WAVIQ Syndrome BMS edit_Trance lead_2 - Marker #180.wav
+#WAVIR Syndrome BMS edit_Trance lead_2 - Marker #181.wav
+#WAVIS Syndrome BMS edit_Trance lead_2 - Marker #182.wav
+#WAVIT Syndrome BMS edit_Trance lead_2 - Marker #183.wav
+#WAVIU Syndrome BMS edit_Trance lead_2 - Marker #184.wav
+#WAVIV Syndrome BMS edit_Trance lead_2 - Marker #185.wav
+#WAVIW Syndrome BMS edit_Trance lead_2 - Marker #186.wav
+#WAVIX Syndrome BMS edit_Trance lead_2 - Marker #187.wav
+#WAVIY Syndrome BMS edit_Trance lead_2 - Marker #188.wav
+#WAVIZ Syndrome BMS edit_Trance lead_2 - Marker #189.wav
+#WAVJ0 Syndrome BMS edit_Trance lead_2 - Marker #190.wav
+#WAVJ1 Syndrome BMS edit_Trance lead_2 - Marker #191.wav
+#WAVJ2 Syndrome BMS edit_Trance lead_2 - Marker #192.wav
+#WAVJ3 Syndrome BMS edit_Trance lead_2 - Marker #193.wav
+#WAVJ4 Syndrome BMS edit_Trance lead_2 - Marker #194.wav
+#WAVJ5 Syndrome BMS edit_trance pad - Marker #1.wav
+#WAVJ6 Syndrome BMS edit_trance pad - Marker #2.wav
+#WAVJ7 Syndrome BMS edit_trance pad - Marker #3.wav
+#WAVJ8 Syndrome BMS edit_trance pad - Marker #4.wav
+#WAVJ9 Syndrome BMS edit_trance pad - Marker #5.wav
+#WAVJA Syndrome BMS edit_trance pad - Marker #6.wav
+#WAVJB Syndrome BMS edit_trance pad - Marker #7.wav
+#WAVJC Syndrome BMS edit_trance pad - Marker #8.wav
+#WAVJD Syndrome BMS edit_trance pad - Marker #9.wav
+#WAVJE Syndrome BMS edit_trance pad - Marker #10.wav
+#WAVJF Syndrome BMS edit_trance pad - Marker #11.wav
+#WAVJG Syndrome BMS edit_trance pad - Marker #12.wav
+#WAVJH Syndrome BMS edit_trance pad - Marker #13.wav
+#WAVJI Syndrome BMS edit_trance pad - Marker #14.wav
+#WAVJJ Syndrome BMS edit_trance pad - Marker #15.wav
+#WAVJK Syndrome BMS edit_trance pad - Marker #16.wav
+#WAVJL Syndrome BMS edit_wobble 6 - Marker #1.wav
+#WAVJM Syndrome BMS edit_wobble 6 - Marker #2.wav
+#WAVJN Syndrome BMS edit_wobble 6 - Marker #3.wav
+#WAVJO Syndrome BMS edit_wobble 6 - Marker #4.wav
+#WAVJP Syndrome BMS edit_wobble 6 - Marker #5.wav
+#WAVJQ Syndrome BMS edit_wobble 6 - Marker #6.wav
+#WAVJR Syndrome BMS edit_wobble 6 - Marker #7.wav
+#WAVJS Syndrome BMS edit_wobble 6 - Marker #8.wav
+#WAVJT Syndrome BMS edit_wobble1 - Marker #1.wav
+#WAVJU Syndrome BMS edit_wobble2 - Marker #2.wav
+#WAVJV Syndrome BMS edit_wobble2 - Marker #3.wav
+#WAVJW Syndrome BMS edit_wobble2 - Marker #4.wav
+#WAVJX Syndrome BMS edit_wobble2 - Marker #5.wav
+#WAVJY Syndrome BMS edit_wobble2 - Marker #6.wav
+#WAVJZ Syndrome BMS edit_wobble2 - Marker #7.wav
+#WAVK0 Syndrome BMS edit_wobble3 - Marker #2.wav
+#WAVK1 Syndrome BMS edit_wobble3 - Marker #3.wav
+#WAVK2 Syndrome BMS edit_wobble3 - Marker #4.wav
+#WAVK3 Syndrome BMS edit_wobble3 - Marker #5.wav
+#WAVK4 Syndrome BMS edit_wobble4 - Marker #1.wav
+#WAVK5 Syndrome BMS edit_wobble4 - Marker #2.wav
+#WAVK6 Syndrome BMS edit_wobble4 - Marker #3.wav
+#WAVK7 Syndrome BMS edit_wobble4 - Marker #4.wav
+#WAVK8 Syndrome BMS edit_wobble4 - Marker #5.wav
+#WAVK9 Syndrome BMS edit_wobble4 - Marker #6.wav
+#WAVKA Syndrome BMS edit_wobble4 - Marker #7.wav
+#WAVKB Syndrome BMS edit_wobble4 - Marker #8.wav
+#WAVKC Syndrome BMS edit_intro lead_2 - Marker #1.wav
+#WAVKD Syndrome BMS edit_intro lead_2 - Marker #3.wav
+#WAVKE Syndrome BMS edit_intro lead_2 - Marker #4.wav
+#WAVKF Syndrome BMS edit_intro lead_2 - Marker #5.wav
+#WAVKG Syndrome BMS edit_intro lead_2 - Marker #6.wav
+#WAVKH Syndrome BMS edit_intro lead_2 - Marker #7.wav
+#WAVKI Syndrome BMS edit_intro lead_2 - Marker #8.wav
+#WAVKJ Syndrome BMS edit_intro lead_2 - Marker #10.wav
+#WAVKK Syndrome BMS edit_intro lead_2 - Marker #11.wav
+#WAVKL Syndrome BMS edit_intro lead_2 - Marker #13.wav
+#WAVKM Syndrome BMS edit_intro lead_2 - Marker #14.wav
+#WAVKN Syndrome BMS edit_intro lead_2 - Marker #15.wav
+#WAVKO Syndrome BMS edit_intro lead_2 - Marker #16.wav
+#WAVKP Syndrome BMS edit_intro lead_2 - Marker #17.wav
+#WAVKQ Syndrome BMS edit_intro lead_2 - Marker #18.wav
+#WAVKR Syndrome BMS edit_intro lead_2 - Marker #20.wav
+#WAVKS Syndrome BMS edit_intro lead_2 - Marker #22.wav
+#WAVKT Syndrome BMS edit_intro lead_2 - Marker #23.wav
+#WAVKU Syndrome BMS edit_intro lead_2 - Marker #24.wav
+#WAVKV Syndrome BMS edit_intro lead_2 - Marker #25.wav
+#WAVKW Syndrome BMS edit_intro lead_2 - Marker #26.wav
+#WAVKX Syndrome BMS edit_intro lead_2 - Marker #27.wav
+#WAVKY Syndrome BMS edit_intro lead_2 - Marker #29.wav
+#WAVKZ Syndrome BMS edit_intro lead_2 - Marker #30.wav
+#WAVL0 Syndrome BMS edit_intro lead_2 - Marker #32.wav
+#WAVL1 Syndrome BMS edit_intro lead_2 - Marker #33.wav
+#WAVL2 Syndrome BMS edit_intro lead_2 - Marker #34.wav
+#WAVL3 Syndrome BMS edit_intro lead_2 - Marker #35.wav
+#WAVL4 Syndrome BMS edit_intro lead_2 - Marker #36.wav
+#WAVL5 Syndrome BMS edit_intro lead_2 - Marker #37.wav
+#WAVL6 Syndrome BMS edit_intro lead_2 - Marker #39.wav
+#WAVL7 Syndrome BMS edit_intro lead_2 - Marker #41.wav
+#WAVL8 Syndrome BMS edit_intro lead_2 - Marker #42.wav
+#WAVL9 Syndrome BMS edit_intro lead_2 - Marker #43.wav
+#WAVLA Syndrome BMS edit_intro lead_2 - Marker #44.wav
+#WAVLB Syndrome BMS edit_intro lead_2 - Marker #45.wav
+#WAVLC Syndrome BMS edit_intro lead_2 - Marker #46.wav
+#WAVLD Syndrome BMS edit_intro lead_2 - Marker #48.wav
+#WAVLE Syndrome BMS edit_intro lead_2 - Marker #49.wav
+#WAVLF Syndrome BMS edit_intro lead_2 - Marker #51.wav
+#WAVLG Syndrome BMS edit_intro lead_2 - Marker #52.wav
+#WAVLH Syndrome BMS edit_intro lead_2 - Marker #53.wav
+#WAVLI Syndrome BMS edit_intro lead_2 - Marker #54.wav
+#WAVLJ Syndrome BMS edit_intro lead_2 - Marker #55.wav
+#WAVLK Syndrome BMS edit_intro lead_2 - Marker #56.wav
+#WAVLL Syndrome BMS edit_intro lead_2 - Marker #58.wav
+#WAVLM Syndrome BMS edit_intro lead_2 - Marker #60.wav
+#WAVLN Syndrome BMS edit_intro lead_2 - Marker #61.wav
+#WAVLO Syndrome BMS edit_intro lead_2 - Marker #62.wav
+#WAVLP Syndrome BMS edit_intro lead_2 - Marker #63.wav
+#WAVLQ Syndrome BMS edit_intro lead_2 - Marker #64.wav
+#WAVLR Syndrome BMS edit_intro lead_2 - Marker #65.wav
+#WAVLS Syndrome BMS edit_intro lead_2 - Marker #68.wav
+#WAVLT Syndrome BMS edit_intro lead_2 - Marker #70.wav
+#WAVLU Syndrome BMS edit_intro lead_2 - Marker #71.wav
+#WAVLV Syndrome BMS edit_intro lead_2 - Marker #72.wav
+#WAVLW Syndrome BMS edit_intro lead_2 - Marker #73.wav
+#WAVLX Syndrome BMS edit_intro lead_2 - Marker #74.wav
+#WAVLY Syndrome BMS edit_intro lead_2 - Marker #75.wav
+#WAVLZ Syndrome BMS edit_intro lead_2 - Marker #77.wav
+#WAVM0 Syndrome BMS edit_intro lead_2 - Marker #78.wav
+#WAVM1 Syndrome BMS edit_intro lead_2 - Marker #80.wav
+#WAVM2 Syndrome BMS edit_intro lead_2 - Marker #81.wav
+#WAVM3 Syndrome BMS edit_intro lead_2 - Marker #82.wav
+#WAVM4 Syndrome BMS edit_intro lead_2 - Marker #83.wav
+#WAVM5 Syndrome BMS edit_intro lead_2 - Marker #84.wav
+#WAVM6 Syndrome BMS edit_intro lead_2 - Marker #85.wav
+#WAVM7 Syndrome BMS edit_intro lead_2 - Marker #86.wav
+#WAVM8 Syndrome BMS edit_intro lead_2 - Marker #88.wav
+#WAVM9 Syndrome BMS edit_intro lead_2 - Marker #89.wav
+#WAVMA Syndrome BMS edit_intro lead_2 - Marker #91.wav
+#WAVMB Syndrome BMS edit_intro lead_2 - Marker #92.wav
+#WAVMC Syndrome BMS edit_intro lead_2 - Marker #93.wav
+#WAVMD Syndrome BMS edit_intro lead_2 - Marker #94.wav
+#WAVME Syndrome BMS edit_intro lead_2 - Marker #95.wav
+#WAVMF Syndrome BMS edit_intro lead_2 - Marker #96.wav
+#WAVMG Syndrome BMS edit_intro lead_2 - Marker #98.wav
+#WAVMH Syndrome BMS edit_intro lead_2 - Marker #99.wav
+#WAVMI Syndrome BMS edit_intro lead_2 - Marker #101.wav
+#WAVMJ Syndrome BMS edit_intro lead_2 - Marker #102.wav
+#WAVMK Syndrome BMS edit_intro lead_2 - Marker #103.wav
+#WAVML Syndrome BMS edit_intro lead_2 - Marker #104.wav
+#WAVMM Syndrome BMS edit_intro lead_2 - Marker #105.wav
+#WAVMN Syndrome BMS edit_intro lead_2 - Marker #106.wav
+#WAVMO Syndrome BMS edit_intro lead_2 - Marker #107.wav
+#WAVMP Syndrome BMS edit_intro lead_2 - Marker #108.wav
+#WAVMQ Syndrome BMS edit_intro lead_2 - Marker #109.wav
+#WAVMR Syndrome BMS edit_intro lead_2 - Marker #110.wav
+#WAVMS Syndrome BMS edit_intro lead_2 - Marker #111.wav
+#WAVMT Syndrome BMS edit_intro lead_2 - Marker #113.wav
+#WAVMU Syndrome BMS edit_intro lead_2 - Marker #114.wav
+#WAVMV Syndrome BMS edit_intro lead_2 - Marker #116.wav
+#WAVMW Syndrome BMS edit_intro lead_2 - Marker #117.wav
+#WAVMX Syndrome BMS edit_intro lead_2 - Marker #118.wav
+#WAVMY Syndrome BMS edit_intro lead_2 - Marker #119.wav
+#WAVMZ Syndrome BMS edit_intro lead_2 - Marker #120.wav
+#WAVN0 Syndrome BMS edit_intro lead_2 - Marker #121.wav
+#WAVN1 Syndrome BMS edit_intro lead_2 - Marker #123.wav
+#WAVN2 Syndrome BMS edit_intro lead_2 - Marker #124.wav
+#WAVN3 Syndrome BMS edit_intro lead_2 - Marker #125.wav
+#WAVN4 Syndrome BMS edit_intro lead_2 - Marker #126.wav
+#WAVN5 Syndrome BMS edit_intro lead_2 - Marker #127.wav
+#WAVN6 Syndrome BMS edit_intro lead_2 - Marker #128.wav
+#WAVN7 Syndrome BMS edit_intro lead_2 - Marker #129.wav
+#WAVN8 Syndrome BMS edit_intro lead_2 - Marker #130.wav
+#WAVN9 Syndrome BMS edit_intro lead_2 - Marker #131.wav
+#WAVNA Syndrome BMS edit_intro lead_2 - Marker #132.wav
+#WAVNB Syndrome BMS edit_intro lead_2 - Marker #133.wav
+#WAVNC Syndrome BMS edit_intro lead_2 - Marker #134.wav
+#WAVND Syndrome BMS edit_intro lead_2 - Marker #135.wav
+#WAVNE Syndrome BMS edit_intro lead_2 - Marker #136-1 - Marker #1.wav
+#WAVNF Syndrome BMS edit_intro lead_2 - Marker #137.wav
+#WAVNG Syndrome BMS edit_intro lead_2 - Marker #138.wav
+#WAVNH Syndrome BMS edit_intro lead_2 - Marker #139.wav
+#WAVNI Syndrome BMS edit_intro lead_2 - Marker #140.wav
+#WAVNJ Syndrome BMS edit_intro lead_2 - Marker #141.wav
+#WAVNK Syndrome BMS edit_intro lead_2 - Marker #142.wav
+#WAVNL Syndrome BMS edit_intro lead_2 - Marker #143.wav
+#WAVNM Syndrome BMS edit_intro lead_2 - Marker #144.wav
+#WAVNN Syndrome BMS edit_intro lead_2 - Marker #145.wav
+#WAVNO Syndrome BMS edit_intro lead_2 - Marker #146.wav
+#WAVNP Syndrome BMS edit_intro lead_2 - Marker #147.wav
+#WAVNQ Syndrome BMS edit_intro lead_2 - Marker #148.wav
+#WAVNR Syndrome BMS edit_intro lead_2 - Marker #149.wav
+#WAVNS Syndrome BMS edit_intro lead_2 - Marker #150.wav
+#WAVNT Syndrome BMS edit_intro lead_2 - Marker #151.wav
+#WAVNU x.wav
+#WAVNV syndromey.wav
+#WAVNW zzz.wav
+
+
+*---------------------- EXPANSION FIELD
+#BMP01 syndrome.png
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+
+#00101:NU
+#00104:01
+
+#00211:0H00000I00000000
+#00213:00A6
+#00222:KC
+#00224:0F0000KD
+
+#00311:0J00000000000K0000000L00000M0000
+#00313:00A7
+#00322:000000KF00000000
+#00323:KE0000KG
+
+#00411:0N00000O00000000
+#00413:00A8
+#00415:000000KI00000000
+#00422:KH
+#00425:000000DD
+
+#00511:0P00000Q00000R00
+#00513:00A9
+#00514:000000KJ
+#00522:000000DG
+#00523:000000DF00000000
+#00524:DE
+
+#00611:0S00000T00000000
+#00613:00AA
+#00614:KK
+#00622:DH
+#00625:000000KL
+
+#00711:0U00000000000V0000000W00000X0000
+#00713:00AB
+#00722:000000KN00000000
+#00723:000000KO
+#00724:KM
+
+#00811:0Y00000Z00000000
+#00813:00AC
+#00815:KP
+#00824:000000KQ00000000
+
+#00911:1000001100001100
+#00913:00AD
+
+#01011:1200001300000000
+#01013:00AE
+#01022:KR
+#01024:000000KS
+
+#01111:1400001500001600
+#01113:00AF
+#01115:000000KU00000000
+#01122:KT0000KV
+
+#01211:1700001800000000
+#01213:00AG
+#01215:000000KX00000000
+#01223:KW
+
+#01311:1900000000001A0000001B00001C0000
+#01313:00AH
+#01315:000000KY
+
+#01411:1D00001E00000000
+#01413:00AI
+#01423:KZ
+#01425:000000L0
+
+#01511:1F00001G00001H00
+#01513:00AJ
+#01515:00L20000
+#01523:L10000L4
+#01524:000000L300000000
+
+#01611:1I00001J00000000
+#01613:00AK
+#01615:L5
+
+#01711:1K00001L00000000
+#01713:00AL
+
+#01811:1M1N1O1P
+#01813:00AM00AN
+#01823:L6
+#01824:000000L7
+
+#01911:1Q1R1S1T
+#01913:00AO00AP
+#01922:000000L900000000
+#01923:L80000LA
+
+#02011:1U1V1W1X
+#02013:00AQ00AR
+#02022:000000LC00000000
+#02024:LB
+
+#02111:1Y
+#02112:000000LD
+#02113:000000000000000000000000AS00000000000000000000JZ
+#02114:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JY000000000000000000000000
+#02115:00000000000000000000000000000000000000000000000000000000000000000000000000JX00000000000000000000
+#02122:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000JW000000000000000000000000000000000000000000000000000000000000
+#02123:00000000000000JV00000000
+#02124:00JU
+#02125:JT
+
+#02211:1Z202122
+#02213:00AT00AU
+#02222:05
+#02223:000000LF
+#02224:LE
+
+#02311:23242526
+#02313:00AV00AW
+#02314:000000LH00000000
+#02315:LG0000LI
+
+#02411:2728292A
+#02413:00AX00AY
+#02422:000000LK00000000
+#02423:LJ
+
+#02511:2B
+#02513:0000000000000000AZ00000000000003
+#02514:0000000000000002
+#02515:00000000000000000000000000010000
+#02522:000000K3
+#02523:0000000000K20000
+#02524:00K1
+#02525:K0
+
+#02611:2C2D2E2F
+#02613:00B000B1
+#02622:LL
+#02623:000000LM
+#02624:06
+
+#02711:2G2H2I2J
+#02713:00B200B3
+#02715:000000LO00000000
+#02722:LN0000LP
+
+#02811:2K2L2M2N
+#02813:00B400B5
+#02815:000000LR00000000
+#02823:LQ
+
+#02911:2O
+#02912:000000000000JPJR
+#02913:00000000JLJN0000
+#02914:00000000000000000000000000JQ00JS
+#02915:040000000000000000JM00JO00000000
+#02922:00000000000000000000000000B900BB
+#02923:00000000B6B70000
+#02924:000000000000B8BA
+
+#03011:2P2Q2R2S
+#03013:00BC00BD
+#03023:LS0000LT
+#03025:07
+
+#03111:2T2U2V2W
+#03113:00BE00BF
+#03115:00LV0000
+#03122:LU
+#03123:000000LW00000000
+#03124:000000LX
+
+#03211:2X2Y2Z30
+#03213:00BG00BH
+#03223:LY
+
+#03311:31000034
+#03312:00000000000000000000330000BM0000
+#03313:BI0000000000BL36
+#03314:00000000000000000000BK0000350037
+#03315:000000000000DSBN
+#03322:00000000000000003200000000DT00BO
+#03323:00000000000000DU
+#03324:0000000000000000BJ000000000000DV
+#03325:07
+
+#03401:NV
+#03411:08
+#03413:38393A3B
+#03415:00A200A300A400A5
+#03423:J50000DX00000000000000000000E100
+#03424:000000DY0000E000
+#03425:DW0000000000000000DZ000000000000
+
+#03513:3C3D3E3F
+#03515:00A200A300A400A5
+#03522:E2
+#03523:000000E4000000E7
+#03524:000000E30000000000000000E6000000
+#03525:000000000000000000FH000000000000
+
+#03611:3G3H3I3J
+#03613:00A200A300A400A5
+#03615:000000E90000000000000000EC000000
+#03622:E80000EA000000ED
+#03623:000000000000000000EB000000000000
+#03624:J6
+
+#03711:3K003L003M003N3O
+#03713:00A200A300A400A5
+#03714:000000000000000000EH00000000EJ00
+#03715:000000EG0000EI00
+#03722:000000EF000000000000000000000000
+#03723:EE
+
+#03812:3P3Q3R3S
+#03814:00A200A300A400A5
+#03815:000000FY00000000
+#03822:000000EL00000000000000000000EP00
+#03823:EK0000EO
+#03824:000000000000000000EN000000000000
+#03825:J7
+
+#03912:3T3U3V3W
+#03914:00A200A300A400A5
+#03915:EQ
+#03922:000000ES000000EV
+#03923:000000ER0000000000000000EU000000
+#03924:000000000000000000ET000000000000
+
+#04013:3X3Y3Z40
+#04015:00A200A300A400A5
+#04022:000000EX000000000000000000000000
+#04023:J80000F0
+#04024:000000EY000000F1
+#04025:EW0000000000000000EZ000000000000
+
+#04114:4100420043004445
+#04122:00A200A300A400A5
+#04123:000000F40000F600
+#04124:000000F300000000000000000000F700
+#04125:F20000000000000000F5000000000000
+
+#04211:J9
+#04213:46474849
+#04215:00A200A300A400A5
+#04222:000000F900000000000000000000FD00
+#04223:F80000FA0000FC00
+#04224:000000000000000000FB000000000000
+#04225:06
+
+#04313:4A4B4C4D
+#04315:00A200A300A400A5
+#04322:000000000000000000FH000000000000
+#04323:FE0000FG000000FJ
+#04324:000000FF0000000000000000FI000000
+
+#04411:4E4F4G4H
+#04413:00A200A300A400A5
+#04415:000000FL00000000000000000000FP00
+#04422:FK0000FM0000FO00
+#04423:000000000000000000FN000000000000
+#04424:JA
+
+#04511:4I004J004K004L4M
+#04513:00A200A300A400A5
+#04514:000000FR000000000000000000000000
+#04515:000000FS000000FV
+#04522:FQ0000FU
+#04523:000000000000000000FT000000000000
+
+#04612:4N4O4P4Q
+#04614:00A200A300A400A5
+#04622:000000FX00000000000000000000G100
+#04623:FW0000FY0000G000
+#04624:000000000000000000FZ000000000000
+#04625:JB
+
+#04712:4R4S4T4U
+#04714:00A200A300A400A5
+#04715:G20000G400000000
+#04722:000000G300000000000000000000G700
+#04723:000000G6
+#04724:000000000000000000G5000000000000
+
+#04813:4V4W4X4Y
+#04815:00A200A300A400A5
+#04822:000000GA00000000
+#04823:000000G90000000000GB0000GC000000
+#04824:G8000000000000GD
+#04825:JC
+
+#04913:4Z000000500000005100000052535455
+#04915:00A200A300A400A5
+#04922:000000000000000000GH000000000000
+#04923:000000GG00000000
+#04924:000000GF0000000000000000GI000000
+#04925:GE000000000000GJ
+
+#05012:09
+#05023:LZ
+#05024:000000M000000000
+
+#05115:M1
+#05122:000000M20000M3M5
+#05124:00000000000000000000000000M40000
+
+#05214:M6
+#05215:000000M700000000
+#05222:000000DI
+
+#05311:000000DL
+#05313:000000DK00000000
+#05314:DJ
+
+#05411:DM
+#05422:M8
+#05423:000000M900000000
+
+#05515:MA
+#05522:000000MB00000000
+#05524:000000MC
+
+#05622:0000MEMF00000000
+#05623:MD
+
+#05712:00000000000000DR
+#05713:000000DQ
+#05714:0000000000DP0000
+#05715:00DO
+#05722:00000000000000000000000000BQ00BS
+#05723:00DN0000
+#05724:000000000000BPBR
+
+#05811:56575859
+#05813:MG
+#05822:000000MH00000000
+#05824:0A
+
+#05911:5A5B5C5D
+#05915:MI
+#05922:000000MJ0000MKMM
+#05924:00000000000000000000000000ML0000
+
+#06011:5E5F5G5H
+#06014:MN
+#06015:00MO00MR
+#06022:0000000000MQ00MS
+#06024:00MP
+
+#06111:5I0000000000000000000000BXBY0000
+#06112:0000000000000000BTBU000000000000
+#06113:JT00000000000000000000000000BZC0
+#06114:00000000000000000000BVBW00000000
+#06122:00000000000000000000K6K700000000
+#06123:0000000000000000000000000000KAKB
+#06124:0000000000000000K4K5000000000000
+#06125:000000000000000000000000K8K90000
+
+#06211:5J5L5N5P
+#06213:005K005M005O005Q
+#06222:MT
+#06223:000000MU00000000
+#06224:0B
+
+#06311:5R5T5V5X
+#06313:005S005U005W005Y
+#06315:MV0000MX
+#06322:000000MW00000000
+
+#06411:5Z606162000000000000000000000000
+#06413:00000000636465660000000000000000
+#06415:00000000000000006768696A00000000
+#06423:00000000MZ00N000000000006B6C6D6E
+#06424:MY
+
+#06512:0000000000000000000000006R6S6T6U
+#06514:00000000000000006N6O6P6Q00000000
+#06522:000000006J6K6L6M00000000GK000000
+#06523:00000000000000000000000000GL0000
+#06524:6F6G6H6I00000000000000000000GM00
+#06525:000000000000000000000000000000GN
+
+#06601:NW
+#06611:6V6W6X6Y
+#06613:00A200A300A400A5
+#06614:00GQ
+#06622:JD0000000000000000GR0000N2000000
+#06623:N100000000GP0000000000000000GT00
+#06624:0B00000000000000000000GS00000000
+#06625:00GO000000000000
+
+#06711:6Z00700071007273
+#06713:00A200A300A400A5
+#06715:N300GWN5
+#06722:000000N400000000
+#06723:0000000000GV0000000000GX00000000
+#06724:00GU0000000000GY
+
+#06811:74757677
+#06812:JE
+#06813:00A200A300A400A5
+#06815:000000000000N700000000H200000000
+#06822:N6000000H10000H3
+#06823:0000000000H000000000000000000000
+#06824:00GZ000000000000
+
+#06911:78797A7B
+#06913:00A200A300A400A5
+#06915:00H6
+#06922:000000N8
+#06923:0000000000H500000000000000000000
+#06924:0000H40000000000000000H700000000
+#06925:00000000000000H8
+
+#07011:7C7D7E7F
+#07013:00A200A300A400A5
+#07014:JF
+#07015:00HB
+#07022:N90000NA
+#07023:0000000000HA000000HC00000000HE00
+#07024:00H9000000000000
+#07025:0000000000000000000000HD00000000
+
+#07111:7G007H007I007J7K
+#07113:00A200A300A400A5
+#07115:NB00000000000000HH0000HI00000000
+#07122:000000NC00000000
+#07123:000000ND
+#07124:0000000000HG0000000000000000HJ00
+#07125:00HF000000000000
+
+#07211:7L7M7N7O
+#07212:0000000000HN0000
+#07213:00A200A300A400A5
+#07214:JG
+#07215:00000000000000HM0000000000HP0000
+#07222:NE
+#07223:0000000G0000HO00
+#07224:00HK0000000000000000000000000000
+#07225:00000000HL00000000000000000000HQ
+
+#07311:7P0000007Q0000007R007S007T7U0000
+#07313:00A200A300A400A5
+#07315:0000000000HS0000000000000000HV00
+#07322:0000000000000000000000HU00000000
+#07323:0000HR0000000000HT0000000000007V
+
+#07411:7W7X7Y7Z
+#07412:JH000000000000I1
+#07413:00A200A300A400A5
+#07415:000000NG
+#07422:NFHW0000HY000000
+#07423:0000000000HX00000000000000000000
+#07424:0D00000000000000000000I000000000
+#07425:000000000000000000HZ000000000000
+
+#07511:8000810082008384
+#07513:00A200A300A400A5
+#07515:000000000000NI00000000I500000000
+#07522:NH
+#07523:00I20000I40000I6
+#07524:0000000000I3000000000000NJ000000
+
+#07611:85868788
+#07612:JI
+#07613:00A200A300A400A5
+#07615:00I7000000000000
+#07622:NK0000NL00000000
+#07623:00000000I90000IB
+#07624:0000000000I800000000000000000000
+#07625:0000000000000000000000IA00000000
+
+#07711:898A8B8C
+#07713:00A200A300A400A5
+#07715:0000000000ID000000000000NM000000
+#07723:00IC0000IE0000IG
+#07725:0000000000000000000000IF00000000
+
+#07811:8D8E8F8G8H8I8J8K
+#07812:JJ
+#07813:00A200A300A400A5
+#07815:NN00IJNO
+#07822:0000000000II00000000000000000000
+#07823:00IH0000000000IM
+#07824:000000000000000000IK000000000000
+#07825:0000000000000000000000IL00000000
+
+#07914:8L8M8N8O8P8Q8R8S
+#07915:NP00NQNRIP00NS00
+#07922:00A200A300A400A5
+#07923:00C200C400C600C800CA00CC00CE00CG
+#07924:0000IN0000IO0000000000IQ0000IR00
+#07925:C1C3C5C7C9CBCDCF
+
+#08001:00
+#08001:NT
+#08013:8T8V8X8Z91939597
+#08014:JKA200A300A4IWA5
+#08015:008U008W008Y00900092009400960098
+#08022:CHCJCLCNCPCRCTCV
+#08023:00IS0000IT0000IU0000IV0000IX00IY
+#08024:00CI00CK00CM00CO00CQ00CS00CU00CW
+
+#08112:999B9D9F9H9J9L9M
+#08113:CXA200A300A400A5
+#08114:009A009C009E009G009I009K009M009M
+#08115:00CZD1D3D5D7D9DB
+#08122:00CY00D000D200D400D600D800DA00DC
+#08123:00IZ0000J10000J3
+#08124:0000000000J00000000000J200000000
+
+#08211:9L
+#08213:0E
+#08223:9N
+#08224:0000009O
+#08225:J4
+
+#08313:0000009Q00000000
+#08322:9P
+#08324:0000009R
+
+#08415:0000009T00000000
+#08422:9S
+
+#08513:0000009U
+
+#08622:9V
+#08624:0000009W
+
+#08713:9X
+#08714:000000A0
+#08715:009Y0000
+#08722:0000009Z00000000
+
+#08811:A1
+
+
